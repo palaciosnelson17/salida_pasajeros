@@ -1,0 +1,6949 @@
+sal_codigo,sal_destinoint,sal_periodo,month,sal_valor
+EC,Ecuador,2022,09,1058.0
+KR,Corea del Sur,2022,09,1.0
+BB,Barbados,2022,09,1.0
+IL,Israel,2022,09,23.0
+KY,Islas Caimán,2022,09,1.0
+CA,Canadá,2022,09,740.0
+SA,Arabia Saudita,2022,09,1.0
+IT,Italia,2022,09,417.0
+GB,Reino Unido,2022,09,560.0
+JM,Jamaica,2022,09,11.0
+SV,El Salvador,2022,09,155.0
+PA,Panamá,2022,09,27639.0
+US,Estados Unidos,2022,09,41865.0
+ES,España,2022,09,8575.0
+PY,Paraguay,2022,09,41.0
+HT,Haití,2022,09,1.0
+BR,Brasil,2022,09,1126.0
+AN,Antillas Neerlandesas,2022,09,1208.0
+QA,Qatar,2022,09,20.0
+DO,República Dominicana,2022,09,9445.0
+UY,Uruguay,2022,09,29.0
+CL,Chile,2022,09,505.0
+TT,Trinidad y Tobago,2022,09,17.0
+CR,Costa Rica,2022,09,1690.0
+GR,Grecia,2022,09,2.0
+NL,Países Bajos,2022,09,52.0
+MX,México,2022,09,16548.0
+FR,Francia,2022,09,55.0
+PR,Puerto Rico,2022,09,632.0
+BO,Bolivia,2022,09,49.0
+BE,Bélgica,2022,09,91.0
+GT,Guatemala,2022,09,147.0
+TR,Turquía,2022,09,2.0
+PT,Portugal,2022,09,87.0
+AR,Argentina,2022,09,897.0
+SE,Suecia,2022,09,1.0
+PE,Perú,2022,09,4628.0
+CH,Suiza,2022,09,109.0
+HN,Honduras,2022,09,3.0
+DE,Alemania,2022,09,195.0
+KN,San Cristóbal y Nieves,2022,09,2.0
+BS,Bahamas,2022,09,2.0
+CN,China,2021,09,0.0
+CA,Canadá,2021,09,68.0
+EC,Ecuador,2021,09,135.0
+MX,México,2021,09,11229.0
+BB,Barbados,2021,09,1.0
+FR,Francia,2021,09,110.0
+IT,Italia,2021,09,124.0
+US,Estados Unidos,2021,09,32372.0
+TR,Turquía,2021,09,3.0
+PY,Paraguay,2021,09,15.0
+GR,Grecia,2021,09,1.0
+HN,Honduras,2021,09,6.0
+PR,Puerto Rico,2021,09,264.0
+TT,Trinidad y Tobago,2021,09,1.0
+PE,Perú,2021,09,1233.0
+AR,Argentina,2021,09,45.0
+KR,Corea del Sur,2021,09,7.0
+CH,Suiza,2021,09,89.0
+HT,Haití,2021,09,1.0
+GB,Reino Unido,2021,09,70.0
+AG,Antigua and Barbuda,2021,09,8.0
+JP,Japón,2021,09,0.0
+BS,Bahamas,2021,09,4.0
+SV,El Salvador,2021,09,6.0
+AN,Antillas Neerlandesas,2021,09,464.0
+ES,España,2021,09,3754.0
+DE,Alemania,2021,09,68.0
+PA,Panamá,2021,09,22738.0
+BO,Bolivia,2021,09,45.0
+BE,Bélgica,2021,09,65.0
+BR,Brasil,2021,09,190.0
+QA,Qatar,2021,09,5.0
+DO,República Dominicana,2021,09,3683.0
+HK,Hong Kong,2021,09,0.0
+GT,Guatemala,2021,09,79.0
+CL,Chile,2021,09,162.0
+IL,Israel,2021,09,3.0
+CR,Costa Rica,2021,09,222.0
+PT,Portugal,2021,09,26.0
+GY,Guyana,2021,09,7.0
+BZ,Belice,2021,09,1.0
+NL,Países Bajos,2021,09,97.0
+PE,Perú,2020,09,110.0
+AR,Argentina,2020,09,49.0
+PR,Puerto Rico,2020,09,12.0
+MX,México,2020,09,40.0
+CA,Canadá,2020,09,5.0
+US,Estados Unidos,2020,09,3899.0
+PA,Panamá,2020,09,3.0
+DO,República Dominicana,2020,09,44.0
+GY,Guyana,2020,09,4.0
+VE,Venezuela,2020,09,71.0
+EC,Ecuador,2020,09,2.0
+AN,Antillas Neerlandesas,2020,09,1.0
+PA,Panamá,2019,09,19417.0
+PE,Perú,2019,09,5237.0
+CA,Canadá,2019,09,161.0
+BS,Bahamas,2019,09,3.0
+NL,Países Bajos,2019,09,82.0
+IT,Italia,2019,09,373.0
+CU,Cuba,2019,09,177.0
+CH,Suiza,2019,09,85.0
+CN,China,2019,09,1.0
+AT,Austria,2019,09,21.0
+MX,México,2019,09,11756.0
+IL,Israel,2019,09,139.0
+AN,Antillas Neerlandesas,2019,09,938.0
+ES,España,2019,09,9446.0
+KR,Corea del Sur,2019,09,7.0
+GB,Reino Unido,2019,09,756.0
+VE,Venezuela,2019,09,2468.0
+IE,Irlanda,2019,09,4.0
+UY,Uruguay,2019,09,116.0
+SV,El Salvador,2019,09,800.0
+PT,Portugal,2019,09,70.0
+PY,Paraguay,2019,09,74.0
+PR,Puerto Rico,2019,09,371.0
+EC,Ecuador,2019,09,8.0
+JP,Japón,2019,09,29.0
+CL,Chile,2019,09,701.0
+CR,Costa Rica,2019,09,38.0
+GT,Guatemala,2019,09,363.0
+KY,Islas Caimán,2019,09,1.0
+HN,Honduras,2019,09,110.0
+DE,Alemania,2019,09,416.0
+AR,Argentina,2019,09,670.0
+US,Estados Unidos,2019,09,23881.0
+BO,Bolivia,2019,09,65.0
+BE,Bélgica,2019,09,80.0
+BR,Brasil,2019,09,1026.0
+FR,Francia,2019,09,115.0
+DO,República Dominicana,2019,09,981.0
+CN,China,2018,09,6.0
+BO,Bolivia,2018,09,195.0
+CU,Cuba,2018,09,172.0
+BS,Bahamas,2018,09,11.0
+GB,Reino Unido,2018,09,663.0
+IE,Irlanda,2018,09,2.0
+SV,El Salvador,2018,09,487.0
+KP,Corea del Norte,2018,09,5.0
+NL,Países Bajos,2018,09,19.0
+QA,Qatar,2018,09,1.0
+DO,República Dominicana,2018,09,944.0
+CA,Canadá,2018,09,524.0
+BE,Bélgica,2018,09,40.0
+PA,Panamá,2018,09,22306.0
+IL,Israel,2018,09,70.0
+IT,Italia,2018,09,242.0
+DE,Alemania,2018,09,65.0
+MX,México,2018,09,5127.0
+VE,Venezuela,2018,09,2479.0
+CL,Chile,2018,09,708.0
+PT,Portugal,2018,09,17.0
+NI,Nicaragua,2018,09,38.0
+PE,Perú,2018,09,3180.0
+AN,Antillas Neerlandesas,2018,09,482.0
+GT,Guatemala,2018,09,468.0
+AR,Argentina,2018,09,604.0
+UY,Uruguay,2018,09,148.0
+ZA,Sudáfrica,2018,09,1.0
+JP,Japón,2018,09,36.0
+BR,Brasil,2018,09,437.0
+GR,Grecia,2018,09,1.0
+CH,Suiza,2018,09,36.0
+CR,Costa Rica,2018,09,65.0
+HN,Honduras,2018,09,143.0
+EC,Ecuador,2018,09,13.0
+BZ,Belice,2018,09,2.0
+PR,Puerto Rico,2018,09,253.0
+KY,Islas Caimán,2018,09,4.0
+ES,España,2018,09,7064.0
+US,Estados Unidos,2018,09,25233.0
+AT,Austria,2018,09,9.0
+PY,Paraguay,2018,09,141.0
+HK,Hong Kong,2018,09,0.0
+TR,Turquía,2018,09,1.0
+FR,Francia,2018,09,170.0
+IL,Israel,2017,09,17.0
+SE,Suecia,2017,09,0.0
+CL,Chile,2017,09,530.0
+NO,Noruega,2017,09,0.0
+ZA,Sudáfrica,2017,09,0.0
+PE,Perú,2017,09,2629.0
+VE,Venezuela,2017,09,1924.0
+AT,Austria,2017,09,6.0
+UY,Uruguay,2017,09,122.0
+CN,China,2017,09,34.0
+JM,Jamaica,2017,09,6.0
+GR,Grecia,2017,09,2.0
+CR,Costa Rica,2017,09,136.0
+IE,Irlanda,2017,09,0.0
+PR,Puerto Rico,2017,09,161.0
+PY,Paraguay,2017,09,89.0
+GB,Reino Unido,2017,09,617.0
+CU,Cuba,2017,09,117.0
+AU,Australia,2017,09,39.0
+BZ,Belice,2017,09,5.0
+HN,Honduras,2017,09,179.0
+EC,Ecuador,2017,09,21.0
+BB,Barbados,2017,09,4.0
+TR,Turquía,2017,09,2.0
+FR,Francia,2017,09,58.0
+MX,México,2017,09,4595.0
+DO,República Dominicana,2017,09,476.0
+PT,Portugal,2017,09,71.0
+DK,Dinamarca,2017,09,0.0
+BE,Bélgica,2017,09,23.0
+HT,Haití,2017,09,1.0
+NI,Nicaragua,2017,09,31.0
+CH,Suiza,2017,09,65.0
+NL,Países Bajos,2017,09,36.0
+AR,Argentina,2017,09,318.0
+TT,Trinidad y Tobago,2017,09,2.0
+ES,España,2017,09,6204.0
+BS,Bahamas,2017,09,9.0
+NZ,Nueva Zelanda,2017,09,1.0
+JP,Japón,2017,09,9.0
+SV,El Salvador,2017,09,524.0
+PA,Panamá,2017,09,20706.0
+KR,Corea del Sur,2017,09,1.0
+KY,Islas Caimán,2017,09,0.0
+BO,Bolivia,2017,09,231.0
+CA,Canadá,2017,09,528.0
+US,Estados Unidos,2017,09,21795.0
+BR,Brasil,2017,09,630.0
+DE,Alemania,2017,09,59.0
+QA,Qatar,2017,09,3.0
+IT,Italia,2017,09,266.0
+AN,Antillas Neerlandesas,2017,09,550.0
+GT,Guatemala,2017,09,323.0
+KN,San Cristóbal y Nieves,2017,09,0.0
+AN,Antillas Neerlandesas,2016,09,1057.0
+EC,Ecuador,2016,09,18.0
+GR,Grecia,2016,09,2.0
+CN,China,2016,09,2.0
+MX,México,2016,09,4176.0
+GT,Guatemala,2016,09,281.0
+TT,Trinidad y Tobago,2016,09,5.0
+PE,Perú,2016,09,2281.0
+CU,Cuba,2016,09,205.0
+DO,República Dominicana,2016,09,1239.0
+DE,Alemania,2016,09,72.0
+FR,Francia,2016,09,81.0
+SV,El Salvador,2016,09,336.0
+CR,Costa Rica,2016,09,76.0
+NL,Países Bajos,2016,09,38.0
+IE,Irlanda,2016,09,1.0
+BO,Bolivia,2016,09,251.0
+QA,Qatar,2016,09,3.0
+SE,Suecia,2016,09,1.0
+US,Estados Unidos,2016,09,21729.0
+KY,Islas Caimán,2016,09,3.0
+CA,Canadá,2016,09,249.0
+GB,Reino Unido,2016,09,591.0
+SR,Surinam,2016,09,7.0
+JP,Japón,2016,09,2.0
+ES,España,2016,09,5214.0
+VE,Venezuela,2016,09,336.0
+BR,Brasil,2016,09,882.0
+BS,Bahamas,2016,09,5.0
+HN,Honduras,2016,09,123.0
+BZ,Belice,2016,09,7.0
+PA,Panamá,2016,09,17262.0
+BB,Barbados,2016,09,10.0
+CO,Colombia,2016,09,3121.0
+NI,Nicaragua,2016,09,35.0
+UY,Uruguay,2016,09,151.0
+CH,Suiza,2016,09,12.0
+AR,Argentina,2016,09,732.0
+IT,Italia,2016,09,169.0
+PT,Portugal,2016,09,17.0
+AU,Australia,2016,09,33.0
+SN,Senegal,2016,09,3.0
+PY,Paraguay,2016,09,104.0
+BE,Bélgica,2016,09,23.0
+PE,Perú,2015,09,1486.0
+QA,Qatar,2015,09,1.0
+DO,República Dominicana,2015,09,810.0
+IL,Israel,2015,09,4.0
+JP,Japón,2015,09,5.0
+HN,Honduras,2015,09,132.0
+GB,Reino Unido,2015,09,624.0
+FR,Francia,2015,09,39.0
+CN,China,2015,09,21.0
+PT,Portugal,2015,09,23.0
+CR,Costa Rica,2015,09,59.0
+SN,Senegal,2015,09,3.0
+KY,Islas Caimán,2015,09,5.0
+BO,Bolivia,2015,09,159.0
+PY,Paraguay,2015,09,39.0
+ES,España,2015,09,4611.0
+US,Estados Unidos,2015,09,20628.0
+EC,Ecuador,2015,09,87.0
+CU,Cuba,2015,09,137.0
+VE,Venezuela,2015,09,3345.0
+SV,El Salvador,2015,09,264.0
+AR,Argentina,2015,09,664.0
+GR,Grecia,2015,09,2.0
+MX,México,2015,09,4298.0
+CO,Colombia,2015,09,3225.0
+SR,Surinam,2015,09,18.0
+BM,Bermudas,2015,09,1.0
+DE,Alemania,2015,09,84.0
+GT,Guatemala,2015,09,194.0
+NL,Países Bajos,2015,09,13.0
+AU,Australia,2015,09,38.0
+TT,Trinidad y Tobago,2015,09,1.0
+SE,Suecia,2015,09,1.0
+BR,Brasil,2015,09,1208.0
+NI,Nicaragua,2015,09,30.0
+UY,Uruguay,2015,09,53.0
+AN,Antillas Neerlandesas,2015,09,1181.0
+BE,Bélgica,2015,09,22.0
+BS,Bahamas,2015,09,4.0
+IT,Italia,2015,09,162.0
+BZ,Belice,2015,09,17.0
+CH,Suiza,2015,09,32.0
+PA,Panamá,2015,09,15458.0
+CA,Canadá,2015,09,218.0
+DO,República Dominicana,2014,09,1168.0
+BR,Brasil,2014,09,1061.0
+IT,Italia,2014,09,47.0
+ES,España,2014,09,2648.0
+CA,Canadá,2014,09,215.0
+AR,Argentina,2014,09,733.0
+FR,Francia,2014,09,58.0
+MX,México,2014,09,2275.0
+UY,Uruguay,2014,09,92.0
+AN,Antillas Neerlandesas,2014,09,693.0
+SV,El Salvador,2014,09,176.0
+DE,Alemania,2014,09,10.0
+VE,Venezuela,2014,09,383.0
+BZ,Belice,2014,09,3.0
+KY,Islas Caimán,2014,09,1.0
+CL,Chile,2014,09,4.0
+SR,Surinam,2014,09,13.0
+TT,Trinidad y Tobago,2014,09,4.0
+NI,Nicaragua,2014,09,12.0
+CO,Colombia,2014,09,2632.0
+PT,Portugal,2014,09,7.0
+EC,Ecuador,2014,09,1781.0
+GB,Reino Unido,2014,09,454.0
+CR,Costa Rica,2014,09,37.0
+PY,Paraguay,2014,09,135.0
+BS,Bahamas,2014,09,3.0
+GT,Guatemala,2014,09,139.0
+BO,Bolivia,2014,09,135.0
+HN,Honduras,2014,09,76.0
+CU,Cuba,2014,09,257.0
+AE,Emiratos Árabes Unidos,2014,09,1.0
+PE,Perú,2014,09,2517.0
+US,Estados Unidos,2014,09,17686.0
+PA,Panamá,2014,09,14248.0
+VE,Venezuela,2013,09,1750.0
+DE,Alemania,2013,09,8.0
+UY,Uruguay,2013,09,24.0
+PE,Perú,2013,09,1453.0
+CL,Chile,2013,09,6.0
+PY,Paraguay,2013,09,17.0
+BO,Bolivia,2013,09,55.0
+CU,Cuba,2013,09,111.0
+BR,Brasil,2013,09,862.0
+CA,Canadá,2013,09,205.0
+HN,Honduras,2013,09,108.0
+CR,Costa Rica,2013,09,71.0
+MX,México,2013,09,1450.0
+US,Estados Unidos,2013,09,16306.0
+AR,Argentina,2013,09,429.0
+KY,Islas Caimán,2013,09,3.0
+CO,Colombia,2013,09,147.0
+HT,Haití,2013,09,4.0
+TT,Trinidad y Tobago,2013,09,1.0
+EC,Ecuador,2013,09,2866.0
+BB,Barbados,2013,09,1.0
+BZ,Belice,2013,09,3.0
+IT,Italia,2013,09,2.0
+FR,Francia,2013,09,50.0
+GB,Reino Unido,2013,09,164.0
+ES,España,2013,09,3018.0
+BS,Bahamas,2013,09,2.0
+GT,Guatemala,2013,09,124.0
+SR,Surinam,2013,09,4.0
+PA,Panamá,2013,09,11710.0
+SV,El Salvador,2013,09,203.0
+AN,Antillas Neerlandesas,2013,09,919.0
+BM,Bermudas,2013,09,1.0
+NI,Nicaragua,2013,09,20.0
+DO,República Dominicana,2013,09,488.0
+CA,Canadá,2012,09,186.0
+AR,Argentina,2012,09,364.0
+NI,Nicaragua,2012,09,6.0
+PA,Panamá,2012,09,10139.0
+VE,Venezuela,2012,09,1798.0
+US,Estados Unidos,2012,09,14494.0
+DO,República Dominicana,2012,09,500.0
+JM,Jamaica,2012,09,1.0
+BS,Bahamas,2012,09,22.0
+CL,Chile,2012,09,1.0
+BM,Bermudas,2012,09,3.0
+NL,Países Bajos,2012,09,3.0
+CO,Colombia,2012,09,189.0
+BE,Bélgica,2012,09,2.0
+CU,Cuba,2012,09,82.0
+HN,Honduras,2012,09,80.0
+SV,El Salvador,2012,09,207.0
+MX,México,2012,09,797.0
+GB,Reino Unido,2012,09,159.0
+FR,Francia,2012,09,41.0
+PE,Perú,2012,09,1702.0
+EC,Ecuador,2012,09,1806.0
+DE,Alemania,2012,09,12.0
+IT,Italia,2012,09,3.0
+BO,Bolivia,2012,09,56.0
+CR,Costa Rica,2012,09,478.0
+GT,Guatemala,2012,09,62.0
+AN,Antillas Neerlandesas,2012,09,879.0
+AU,Australia,2012,09,1.0
+ES,España,2012,09,3018.0
+UY,Uruguay,2012,09,99.0
+PY,Paraguay,2012,09,10.0
+BR,Brasil,2012,09,624.0
+PE,Perú,2011,09,1918.0
+FR,Francia,2011,09,40.0
+CL,Chile,2011,09,1.0
+CN,China,2011,09,2.0
+SR,Surinam,2011,09,3.0
+NL,Países Bajos,2011,09,1.0
+KY,Islas Caimán,2011,09,2.0
+IT,Italia,2011,09,3.0
+BR,Brasil,2011,09,446.0
+GT,Guatemala,2011,09,159.0
+AU,Australia,2011,09,1.0
+NI,Nicaragua,2011,09,15.0
+BO,Bolivia,2011,09,76.0
+US,Estados Unidos,2011,09,12651.0
+DO,República Dominicana,2011,09,471.0
+VE,Venezuela,2011,09,1441.0
+UY,Uruguay,2011,09,31.0
+AN,Antillas Neerlandesas,2011,09,436.0
+CH,Suiza,2011,09,1.0
+SV,El Salvador,2011,09,203.0
+CU,Cuba,2011,09,2.0
+CO,Colombia,2011,09,140.0
+HN,Honduras,2011,09,24.0
+CR,Costa Rica,2011,09,394.0
+BS,Bahamas,2011,09,1.0
+PY,Paraguay,2011,09,19.0
+GB,Reino Unido,2011,09,106.0
+AR,Argentina,2011,09,564.0
+EC,Ecuador,2011,09,4338.0
+CA,Canadá,2011,09,120.0
+ES,España,2011,09,2395.0
+MX,México,2011,09,906.0
+PA,Panamá,2011,09,7998.0
+DE,Alemania,2011,09,8.0
+EC,Ecuador,2010,09,2786.0
+CU,Cuba,2010,09,63.0
+BE,Bélgica,2010,09,1.0
+MX,México,2010,09,779.0
+HN,Honduras,2010,09,49.0
+GT,Guatemala,2010,09,113.0
+UY,Uruguay,2010,09,57.0
+IT,Italia,2010,09,1.0
+PA,Panamá,2010,09,5940.0
+CO,Colombia,2010,09,131.0
+AN,Antillas Neerlandesas,2010,09,385.0
+CA,Canadá,2010,09,145.0
+SV,El Salvador,2010,09,144.0
+AR,Argentina,2010,09,556.0
+NI,Nicaragua,2010,09,23.0
+PY,Paraguay,2010,09,6.0
+BS,Bahamas,2010,09,1.0
+DO,República Dominicana,2010,09,370.0
+PE,Perú,2010,09,1557.0
+FR,Francia,2010,09,36.0
+CH,Suiza,2010,09,3.0
+DE,Alemania,2010,09,14.0
+GB,Reino Unido,2010,09,135.0
+BR,Brasil,2010,09,486.0
+ES,España,2010,09,2323.0
+TT,Trinidad y Tobago,2010,09,44.0
+CR,Costa Rica,2010,09,491.0
+HT,Haití,2010,09,14.0
+US,Estados Unidos,2010,09,15179.0
+AU,Australia,2010,09,2.0
+VE,Venezuela,2010,09,1333.0
+BO,Bolivia,2010,09,51.0
+HT,Haití,2009,09,3.0
+EC,Ecuador,2009,09,4046.0
+DO,República Dominicana,2009,09,326.0
+UY,Uruguay,2009,09,146.0
+HN,Honduras,2009,09,51.0
+FR,Francia,2009,09,26.0
+CR,Costa Rica,2009,09,245.0
+PA,Panamá,2009,09,5972.0
+CH,Suiza,2009,09,2.0
+AR,Argentina,2009,09,737.0
+PE,Perú,2009,09,1420.0
+MX,México,2009,09,259.0
+NI,Nicaragua,2009,09,9.0
+VE,Venezuela,2009,09,1741.0
+PH,Filipinas,2009,09,5.0
+IT,Italia,2009,09,2.0
+ES,España,2009,09,1878.0
+CA,Canadá,2009,09,106.0
+BR,Brasil,2009,09,462.0
+GT,Guatemala,2009,09,80.0
+TT,Trinidad y Tobago,2009,09,37.0
+PY,Paraguay,2009,09,4.0
+GB,Reino Unido,2009,09,61.0
+AN,Antillas Neerlandesas,2009,09,388.0
+BO,Bolivia,2009,09,69.0
+US,Estados Unidos,2009,09,11804.0
+DE,Alemania,2009,09,17.0
+CU,Cuba,2009,09,78.0
+CO,Colombia,2009,09,148.0
+CO,Colombia,2008,09,165.0
+GT,Guatemala,2008,09,49.0
+SV,El Salvador,2008,09,1.0
+CU,Cuba,2008,09,11.0
+PE,Perú,2008,09,1507.0
+AN,Antillas Neerlandesas,2008,09,404.0
+CA,Canadá,2008,09,142.0
+UY,Uruguay,2008,09,13.0
+AR,Argentina,2008,09,566.0
+BO,Bolivia,2008,09,48.0
+BR,Brasil,2008,09,365.0
+ES,España,2008,09,1206.0
+HN,Honduras,2008,09,66.0
+DE,Alemania,2008,09,18.0
+VE,Venezuela,2008,09,1799.0
+US,Estados Unidos,2008,09,8929.0
+KY,Islas Caimán,2008,09,1.0
+MX,México,2008,09,386.0
+IT,Italia,2008,09,11.0
+TT,Trinidad y Tobago,2008,09,27.0
+BS,Bahamas,2008,09,2.0
+PA,Panamá,2008,09,5662.0
+DO,República Dominicana,2008,09,350.0
+HT,Haití,2008,09,3.0
+CR,Costa Rica,2008,09,131.0
+FR,Francia,2008,09,43.0
+GB,Reino Unido,2008,09,125.0
+NL,Países Bajos,2008,09,1.0
+EC,Ecuador,2008,09,1364.0
+NI,Nicaragua,2008,09,1.0
+ES,España,2007,09,1137.0
+GB,Reino Unido,2007,09,110.0
+CO,Colombia,2007,09,196.0
+FR,Francia,2007,09,50.0
+AU,Australia,2007,09,1.0
+GT,Guatemala,2007,09,86.0
+DO,República Dominicana,2007,09,206.0
+TT,Trinidad y Tobago,2007,09,6.0
+HT,Haití,2007,09,2.0
+AR,Argentina,2007,09,376.0
+SV,El Salvador,2007,09,52.0
+HN,Honduras,2007,09,43.0
+IT,Italia,2007,09,8.0
+BS,Bahamas,2007,09,2.0
+CH,Suiza,2007,09,1.0
+PE,Perú,2007,09,536.0
+VE,Venezuela,2007,09,1286.0
+CR,Costa Rica,2007,09,195.0
+EC,Ecuador,2007,09,1280.0
+JM,Jamaica,2007,09,4.0
+US,Estados Unidos,2007,09,10613.0
+NI,Nicaragua,2007,09,14.0
+BB,Barbados,2007,09,2.0
+BM,Bermudas,2007,09,1.0
+DE,Alemania,2007,09,17.0
+CA,Canadá,2007,09,100.0
+BR,Brasil,2007,09,369.0
+PA,Panamá,2007,09,4455.0
+CU,Cuba,2007,09,120.0
+MX,México,2007,09,540.0
+AN,Antillas Neerlandesas,2007,09,449.0
+DO,República Dominicana,2022,08,11790.0
+AN,Antillas Neerlandesas,2022,08,1844.0
+AG,Antigua and Barbuda,2022,08,1.0
+BZ,Belice,2022,08,6.0
+NI,Nicaragua,2022,08,1.0
+UY,Uruguay,2022,08,63.0
+US,Estados Unidos,2022,08,52617.0
+BO,Bolivia,2022,08,65.0
+IT,Italia,2022,08,481.0
+IL,Israel,2022,08,7.0
+PR,Puerto Rico,2022,08,1407.0
+GT,Guatemala,2022,08,181.0
+KY,Islas Caimán,2022,08,1.0
+SE,Suecia,2022,08,24.0
+NL,Países Bajos,2022,08,311.0
+PE,Perú,2022,08,7090.0
+BE,Bélgica,2022,08,412.0
+QA,Qatar,2022,08,5.0
+GB,Reino Unido,2022,08,674.0
+MX,México,2022,08,16605.0
+CA,Canadá,2022,08,632.0
+PA,Panamá,2022,08,29796.0
+CH,Suiza,2022,08,237.0
+DE,Alemania,2022,08,320.0
+SR,Surinam,2022,08,1.0
+CL,Chile,2022,08,1374.0
+HN,Honduras,2022,08,2.0
+FR,Francia,2022,08,52.0
+CU,Cuba,2022,08,1.0
+SV,El Salvador,2022,08,201.0
+DM,Dominica,2022,08,1.0
+JM,Jamaica,2022,08,3.0
+JP,Japón,2022,08,2.0
+BR,Brasil,2022,08,1384.0
+AR,Argentina,2022,08,731.0
+ES,España,2022,08,7187.0
+PY,Paraguay,2022,08,38.0
+CR,Costa Rica,2022,08,1440.0
+EC,Ecuador,2022,08,1047.0
+BS,Bahamas,2022,08,11.0
+PT,Portugal,2022,08,159.0
+BB,Barbados,2021,08,1.0
+SV,El Salvador,2021,08,13.0
+AU,Australia,2021,08,0.0
+PA,Panamá,2021,08,18778.0
+PT,Portugal,2021,08,18.0
+QA,Qatar,2021,08,5.0
+HN,Honduras,2021,08,12.0
+CN,China,2021,08,0.0
+JP,Japón,2021,08,0.0
+PE,Perú,2021,08,1014.0
+CL,Chile,2021,08,86.0
+GB,Reino Unido,2021,08,15.0
+BO,Bolivia,2021,08,32.0
+DO,República Dominicana,2021,08,3418.0
+NL,Países Bajos,2021,08,65.0
+GT,Guatemala,2021,08,42.0
+FR,Francia,2021,08,4.0
+PR,Puerto Rico,2021,08,179.0
+MX,México,2021,08,11859.0
+NI,Nicaragua,2021,08,1.0
+AG,Antigua and Barbuda,2021,08,2.0
+EC,Ecuador,2021,08,132.0
+AN,Antillas Neerlandesas,2021,08,417.0
+CR,Costa Rica,2021,08,170.0
+KR,Corea del Sur,2021,08,4.0
+AE,Emiratos Árabes Unidos,2021,08,1.0
+GY,Guyana,2021,08,8.0
+BR,Brasil,2021,08,106.0
+US,Estados Unidos,2021,08,37729.0
+IT,Italia,2021,08,151.0
+JM,Jamaica,2021,08,1.0
+CH,Suiza,2021,08,107.0
+AR,Argentina,2021,08,47.0
+ES,España,2021,08,1962.0
+BS,Bahamas,2021,08,9.0
+BE,Bélgica,2021,08,128.0
+CA,Canadá,2021,08,45.0
+DE,Alemania,2021,08,85.0
+SV,El Salvador,2020,08,0.0
+PA,Panamá,2020,08,0.0
+US,Estados Unidos,2020,08,566.0
+BO,Bolivia,2019,08,53.0
+FR,Francia,2019,08,267.0
+QA,Qatar,2019,08,5.0
+MX,México,2019,08,12598.0
+UY,Uruguay,2019,08,106.0
+PR,Puerto Rico,2019,08,676.0
+EC,Ecuador,2019,08,12.0
+VE,Venezuela,2019,08,2253.0
+CA,Canadá,2019,08,463.0
+IE,Irlanda,2019,08,19.0
+AR,Argentina,2019,08,724.0
+CH,Suiza,2019,08,154.0
+PE,Perú,2019,08,6057.0
+DE,Alemania,2019,08,474.0
+SV,El Salvador,2019,08,1045.0
+KY,Islas Caimán,2019,08,6.0
+AT,Austria,2019,08,28.0
+PA,Panamá,2019,08,20156.0
+US,Estados Unidos,2019,08,33343.0
+JM,Jamaica,2019,08,3.0
+NL,Países Bajos,2019,08,179.0
+BE,Bélgica,2019,08,168.0
+IT,Italia,2019,08,619.0
+CR,Costa Rica,2019,08,43.0
+GT,Guatemala,2019,08,388.0
+IL,Israel,2019,08,36.0
+ES,España,2019,08,8653.0
+NO,Noruega,2019,08,1.0
+SE,Suecia,2019,08,3.0
+GB,Reino Unido,2019,08,868.0
+JP,Japón,2019,08,50.0
+DO,República Dominicana,2019,08,1221.0
+HN,Honduras,2019,08,50.0
+MA,Marruecos,2019,08,4.0
+AN,Antillas Neerlandesas,2019,08,1401.0
+PY,Paraguay,2019,08,108.0
+PT,Portugal,2019,08,63.0
+CL,Chile,2019,08,883.0
+BR,Brasil,2019,08,1047.0
+BS,Bahamas,2019,08,16.0
+NZ,Nueva Zelanda,2019,08,7.0
+CN,China,2019,08,15.0
+CU,Cuba,2019,08,252.0
+KR,Corea del Sur,2019,08,14.0
+DE,Alemania,2018,08,75.0
+NZ,Nueva Zelanda,2018,08,1.0
+GB,Reino Unido,2018,08,662.0
+IL,Israel,2018,08,27.0
+CH,Suiza,2018,08,56.0
+JP,Japón,2018,08,9.0
+HN,Honduras,2018,08,221.0
+PR,Puerto Rico,2018,08,572.0
+SE,Suecia,2018,08,2.0
+CA,Canadá,2018,08,676.0
+JM,Jamaica,2018,08,3.0
+BS,Bahamas,2018,08,10.0
+AR,Argentina,2018,08,488.0
+PY,Paraguay,2018,08,109.0
+GT,Guatemala,2018,08,390.0
+TT,Trinidad y Tobago,2018,08,0.0
+NL,Países Bajos,2018,08,21.0
+EC,Ecuador,2018,08,26.0
+MX,México,2018,08,5506.0
+DO,República Dominicana,2018,08,1030.0
+FR,Francia,2018,08,114.0
+BR,Brasil,2018,08,612.0
+GR,Grecia,2018,08,4.0
+BE,Bélgica,2018,08,124.0
+KY,Islas Caimán,2018,08,1.0
+NI,Nicaragua,2018,08,34.0
+CU,Cuba,2018,08,225.0
+BZ,Belice,2018,08,4.0
+SV,El Salvador,2018,08,592.0
+ZA,Sudáfrica,2018,08,2.0
+US,Estados Unidos,2018,08,28936.0
+IE,Irlanda,2018,08,6.0
+QA,Qatar,2018,08,4.0
+CR,Costa Rica,2018,08,110.0
+VE,Venezuela,2018,08,2343.0
+BB,Barbados,2018,08,0.0
+PE,Perú,2018,08,3812.0
+CN,China,2018,08,28.0
+IT,Italia,2018,08,227.0
+UY,Uruguay,2018,08,149.0
+BO,Bolivia,2018,08,221.0
+AN,Antillas Neerlandesas,2018,08,515.0
+AT,Austria,2018,08,20.0
+PA,Panamá,2018,08,24789.0
+HT,Haití,2018,08,5.0
+KR,Corea del Sur,2018,08,3.0
+CL,Chile,2018,08,782.0
+PT,Portugal,2018,08,39.0
+ES,España,2018,08,7914.0
+SN,Senegal,2018,08,4.0
+JP,Japón,2017,08,11.0
+NO,Noruega,2017,08,1.0
+CA,Canadá,2017,08,438.0
+HN,Honduras,2017,08,201.0
+PA,Panamá,2017,08,21348.0
+IL,Israel,2017,08,10.0
+VE,Venezuela,2017,08,1845.0
+NL,Países Bajos,2017,08,52.0
+PY,Paraguay,2017,08,42.0
+NI,Nicaragua,2017,08,36.0
+KY,Islas Caimán,2017,08,1.0
+CN,China,2017,08,20.0
+JM,Jamaica,2017,08,4.0
+PE,Perú,2017,08,2802.0
+AN,Antillas Neerlandesas,2017,08,891.0
+MX,México,2017,08,5281.0
+UY,Uruguay,2017,08,126.0
+TT,Trinidad y Tobago,2017,08,1.0
+BR,Brasil,2017,08,760.0
+DE,Alemania,2017,08,40.0
+HT,Haití,2017,08,3.0
+BO,Bolivia,2017,08,156.0
+PT,Portugal,2017,08,19.0
+GB,Reino Unido,2017,08,532.0
+KR,Corea del Sur,2017,08,3.0
+AR,Argentina,2017,08,212.0
+CH,Suiza,2017,08,47.0
+AU,Australia,2017,08,32.0
+BS,Bahamas,2017,08,17.0
+EC,Ecuador,2017,08,29.0
+DO,República Dominicana,2017,08,759.0
+BZ,Belice,2017,08,15.0
+KN,San Cristóbal y Nieves,2017,08,2.0
+GT,Guatemala,2017,08,451.0
+BB,Barbados,2017,08,3.0
+QA,Qatar,2017,08,2.0
+PR,Puerto Rico,2017,08,490.0
+GR,Grecia,2017,08,8.0
+CR,Costa Rica,2017,08,154.0
+IT,Italia,2017,08,187.0
+CU,Cuba,2017,08,220.0
+IE,Irlanda,2017,08,9.0
+AT,Austria,2017,08,10.0
+BE,Bélgica,2017,08,62.0
+CL,Chile,2017,08,756.0
+US,Estados Unidos,2017,08,28697.0
+ES,España,2017,08,6788.0
+SV,El Salvador,2017,08,617.0
+FR,Francia,2017,08,44.0
+DK,Dinamarca,2016,08,1.0
+NZ,Nueva Zelanda,2016,08,1.0
+GY,Guyana,2016,08,1.0
+PY,Paraguay,2016,08,82.0
+BS,Bahamas,2016,08,13.0
+BZ,Belice,2016,08,10.0
+KY,Islas Caimán,2016,08,3.0
+BE,Bélgica,2016,08,34.0
+AR,Argentina,2016,08,710.0
+CO,Colombia,2016,08,3817.0
+PT,Portugal,2016,08,17.0
+NI,Nicaragua,2016,08,35.0
+AU,Australia,2016,08,62.0
+VE,Venezuela,2016,08,499.0
+CR,Costa Rica,2016,08,119.0
+HN,Honduras,2016,08,152.0
+SV,El Salvador,2016,08,516.0
+CU,Cuba,2016,08,244.0
+GB,Reino Unido,2016,08,768.0
+IE,Irlanda,2016,08,2.0
+CA,Canadá,2016,08,332.0
+EC,Ecuador,2016,08,30.0
+AN,Antillas Neerlandesas,2016,08,1498.0
+GT,Guatemala,2016,08,351.0
+US,Estados Unidos,2016,08,30412.0
+PE,Perú,2016,08,2901.0
+BR,Brasil,2016,08,1477.0
+NO,Noruega,2016,08,2.0
+TT,Trinidad y Tobago,2016,08,4.0
+IL,Israel,2016,08,15.0
+CH,Suiza,2016,08,40.0
+DE,Alemania,2016,08,113.0
+HU,Hungría,2016,08,1.0
+SR,Surinam,2016,08,50.0
+PA,Panamá,2016,08,20185.0
+HT,Haití,2016,08,1.0
+NL,Países Bajos,2016,08,87.0
+ES,España,2016,08,4520.0
+JM,Jamaica,2016,08,3.0
+ZA,Sudáfrica,2016,08,1.0
+BO,Bolivia,2016,08,237.0
+DO,República Dominicana,2016,08,1160.0
+MX,México,2016,08,4678.0
+UY,Uruguay,2016,08,135.0
+BB,Barbados,2016,08,19.0
+IT,Italia,2016,08,195.0
+FR,Francia,2016,08,63.0
+JP,Japón,2016,08,3.0
+QA,Qatar,2016,08,6.0
+FR,Francia,2015,08,65.0
+CU,Cuba,2015,08,175.0
+DE,Alemania,2015,08,59.0
+TT,Trinidad y Tobago,2015,08,2.0
+UY,Uruguay,2015,08,84.0
+CA,Canadá,2015,08,343.0
+KN,San Cristóbal y Nieves,2015,08,1.0
+US,Estados Unidos,2015,08,24532.0
+CO,Colombia,2015,08,2591.0
+HT,Haití,2015,08,2.0
+DO,República Dominicana,2015,08,1025.0
+PY,Paraguay,2015,08,25.0
+SR,Surinam,2015,08,22.0
+CR,Costa Rica,2015,08,53.0
+CH,Suiza,2015,08,4.0
+PE,Perú,2015,08,1881.0
+PT,Portugal,2015,08,2.0
+BO,Bolivia,2015,08,249.0
+BR,Brasil,2015,08,1364.0
+IT,Italia,2015,08,33.0
+MX,México,2015,08,5860.0
+QA,Qatar,2015,08,15.0
+GB,Reino Unido,2015,08,612.0
+BS,Bahamas,2015,08,5.0
+NI,Nicaragua,2015,08,34.0
+CN,China,2015,08,15.0
+BZ,Belice,2015,08,8.0
+GT,Guatemala,2015,08,271.0
+ES,España,2015,08,4458.0
+HN,Honduras,2015,08,131.0
+AR,Argentina,2015,08,686.0
+SV,El Salvador,2015,08,265.0
+EC,Ecuador,2015,08,29.0
+PA,Panamá,2015,08,18568.0
+VE,Venezuela,2015,08,3015.0
+AN,Antillas Neerlandesas,2015,08,1481.0
+DK,Dinamarca,2015,08,1.0
+BM,Bermudas,2015,08,9.0
+JM,Jamaica,2015,08,2.0
+JP,Japón,2015,08,15.0
+MX,México,2014,08,2418.0
+PY,Paraguay,2014,08,66.0
+CU,Cuba,2014,08,264.0
+DO,República Dominicana,2014,08,1393.0
+QA,Qatar,2014,08,6.0
+BS,Bahamas,2014,08,8.0
+CR,Costa Rica,2014,08,51.0
+US,Estados Unidos,2014,08,22464.0
+JM,Jamaica,2014,08,1.0
+HN,Honduras,2014,08,96.0
+BO,Bolivia,2014,08,163.0
+BR,Brasil,2014,08,1301.0
+EC,Ecuador,2014,08,2006.0
+AR,Argentina,2014,08,723.0
+SV,El Salvador,2014,08,201.0
+BZ,Belice,2014,08,10.0
+ES,España,2014,08,2543.0
+SR,Surinam,2014,08,7.0
+CO,Colombia,2014,08,2570.0
+DE,Alemania,2014,08,34.0
+FR,Francia,2014,08,34.0
+GT,Guatemala,2014,08,185.0
+HT,Haití,2014,08,1.0
+AN,Antillas Neerlandesas,2014,08,1076.0
+UY,Uruguay,2014,08,129.0
+GB,Reino Unido,2014,08,333.0
+PT,Portugal,2014,08,7.0
+CA,Canadá,2014,08,263.0
+PA,Panamá,2014,08,19441.0
+CL,Chile,2014,08,2.0
+VE,Venezuela,2014,08,394.0
+PE,Perú,2014,08,3042.0
+IT,Italia,2014,08,24.0
+NI,Nicaragua,2014,08,7.0
+BM,Bermudas,2014,08,4.0
+CR,Costa Rica,2013,08,212.0
+MX,México,2013,08,2238.0
+CA,Canadá,2013,08,386.0
+IT,Italia,2013,08,8.0
+SR,Surinam,2013,08,38.0
+FR,Francia,2013,08,62.0
+HT,Haití,2013,08,1.0
+BR,Brasil,2013,08,863.0
+EC,Ecuador,2013,08,3436.0
+PE,Perú,2013,08,1471.0
+CL,Chile,2013,08,4.0
+CU,Cuba,2013,08,166.0
+PY,Paraguay,2013,08,7.0
+BZ,Belice,2013,08,5.0
+NI,Nicaragua,2013,08,14.0
+BO,Bolivia,2013,08,59.0
+KY,Islas Caimán,2013,08,2.0
+VE,Venezuela,2013,08,1552.0
+GB,Reino Unido,2013,08,237.0
+HN,Honduras,2013,08,126.0
+BB,Barbados,2013,08,1.0
+US,Estados Unidos,2013,08,21379.0
+PA,Panamá,2013,08,14127.0
+UY,Uruguay,2013,08,12.0
+AN,Antillas Neerlandesas,2013,08,1136.0
+BS,Bahamas,2013,08,2.0
+AR,Argentina,2013,08,440.0
+DO,República Dominicana,2013,08,561.0
+SV,El Salvador,2013,08,269.0
+CO,Colombia,2013,08,188.0
+GT,Guatemala,2013,08,214.0
+BM,Bermudas,2013,08,3.0
+ES,España,2013,08,2557.0
+DE,Alemania,2013,08,27.0
+UY,Uruguay,2012,08,38.0
+US,Estados Unidos,2012,08,16918.0
+HN,Honduras,2012,08,67.0
+DO,República Dominicana,2012,08,553.0
+CU,Cuba,2012,08,65.0
+RU,Rusia,2012,08,1.0
+BR,Brasil,2012,08,732.0
+QA,Qatar,2012,08,4.0
+SV,El Salvador,2012,08,276.0
+NI,Nicaragua,2012,08,12.0
+PA,Panamá,2012,08,12777.0
+AN,Antillas Neerlandesas,2012,08,1563.0
+VE,Venezuela,2012,08,1861.0
+IT,Italia,2012,08,1.0
+AR,Argentina,2012,08,324.0
+PY,Paraguay,2012,08,7.0
+GT,Guatemala,2012,08,86.0
+EC,Ecuador,2012,08,3101.0
+HT,Haití,2012,08,1.0
+CO,Colombia,2012,08,228.0
+CR,Costa Rica,2012,08,588.0
+DE,Alemania,2012,08,4.0
+MX,México,2012,08,1046.0
+CL,Chile,2012,08,2.0
+GB,Reino Unido,2012,08,101.0
+BO,Bolivia,2012,08,42.0
+ES,España,2012,08,2356.0
+FR,Francia,2012,08,33.0
+BS,Bahamas,2012,08,1.0
+SR,Surinam,2012,08,8.0
+CA,Canadá,2012,08,187.0
+PE,Perú,2012,08,1381.0
+EC,Ecuador,2011,08,3801.0
+CA,Canadá,2011,08,108.0
+HN,Honduras,2011,08,26.0
+DO,República Dominicana,2011,08,453.0
+SV,El Salvador,2011,08,200.0
+AN,Antillas Neerlandesas,2011,08,1017.0
+CR,Costa Rica,2011,08,394.0
+VE,Venezuela,2011,08,1349.0
+CH,Suiza,2011,08,1.0
+CL,Chile,2011,08,1.0
+AR,Argentina,2011,08,520.0
+FR,Francia,2011,08,19.0
+BS,Bahamas,2011,08,1.0
+US,Estados Unidos,2011,08,14965.0
+PY,Paraguay,2011,08,19.0
+GB,Reino Unido,2011,08,109.0
+BR,Brasil,2011,08,471.0
+CU,Cuba,2011,08,2.0
+NL,Países Bajos,2011,08,1.0
+BO,Bolivia,2011,08,75.0
+DE,Alemania,2011,08,6.0
+GT,Guatemala,2011,08,158.0
+MX,México,2011,08,852.0
+NI,Nicaragua,2011,08,15.0
+CO,Colombia,2011,08,132.0
+PA,Panamá,2011,08,10423.0
+ES,España,2011,08,2225.0
+BM,Bermudas,2011,08,1.0
+PE,Perú,2011,08,1884.0
+KY,Islas Caimán,2011,08,4.0
+UY,Uruguay,2011,08,31.0
+DO,República Dominicana,2010,08,443.0
+BM,Bermudas,2010,08,1.0
+CA,Canadá,2010,08,163.0
+HN,Honduras,2010,08,167.0
+US,Estados Unidos,2010,08,22100.0
+DE,Alemania,2010,08,6.0
+VE,Venezuela,2010,08,1370.0
+ES,España,2010,08,1843.0
+CR,Costa Rica,2010,08,816.0
+TT,Trinidad y Tobago,2010,08,44.0
+CO,Colombia,2010,08,147.0
+PA,Panamá,2010,08,7409.0
+AR,Argentina,2010,08,690.0
+NI,Nicaragua,2010,08,37.0
+CU,Cuba,2010,08,124.0
+BR,Brasil,2010,08,522.0
+GB,Reino Unido,2010,08,100.0
+HT,Haití,2010,08,15.0
+FR,Francia,2010,08,22.0
+IT,Italia,2010,08,2.0
+AN,Antillas Neerlandesas,2010,08,627.0
+PY,Paraguay,2010,08,18.0
+MX,México,2010,08,838.0
+BO,Bolivia,2010,08,63.0
+EC,Ecuador,2010,08,4734.0
+UY,Uruguay,2010,08,89.0
+PE,Perú,2010,08,1640.0
+SV,El Salvador,2010,08,206.0
+GT,Guatemala,2010,08,243.0
+MX,México,2009,08,315.0
+KY,Islas Caimán,2009,08,4.0
+CU,Cuba,2009,08,71.0
+ES,España,2009,08,1574.0
+FR,Francia,2009,08,20.0
+AN,Antillas Neerlandesas,2009,08,657.0
+US,Estados Unidos,2009,08,21576.0
+GB,Reino Unido,2009,08,120.0
+CR,Costa Rica,2009,08,372.0
+DE,Alemania,2009,08,21.0
+DO,República Dominicana,2009,08,356.0
+SV,El Salvador,2009,08,8.0
+TT,Trinidad y Tobago,2009,08,67.0
+HN,Honduras,2009,08,68.0
+NI,Nicaragua,2009,08,17.0
+BS,Bahamas,2009,08,3.0
+VE,Venezuela,2009,08,1751.0
+BR,Brasil,2009,08,392.0
+PY,Paraguay,2009,08,1.0
+CO,Colombia,2009,08,162.0
+PA,Panamá,2009,08,7681.0
+PE,Perú,2009,08,1585.0
+IT,Italia,2009,08,2.0
+CA,Canadá,2009,08,211.0
+GT,Guatemala,2009,08,98.0
+BO,Bolivia,2009,08,78.0
+AR,Argentina,2009,08,717.0
+UY,Uruguay,2009,08,13.0
+EC,Ecuador,2009,08,2096.0
+HT,Haití,2009,08,13.0
+DE,Alemania,2008,08,15.0
+GB,Reino Unido,2008,08,118.0
+BM,Bermudas,2008,08,4.0
+DO,República Dominicana,2008,08,365.0
+NL,Países Bajos,2008,08,1.0
+AR,Argentina,2008,08,369.0
+BR,Brasil,2008,08,423.0
+AN,Antillas Neerlandesas,2008,08,550.0
+CO,Colombia,2008,08,216.0
+PE,Perú,2008,08,1981.0
+TT,Trinidad y Tobago,2008,08,60.0
+UY,Uruguay,2008,08,11.0
+IT,Italia,2008,08,3.0
+ES,España,2008,08,1085.0
+HN,Honduras,2008,08,39.0
+SV,El Salvador,2008,08,16.0
+HT,Haití,2008,08,8.0
+VE,Venezuela,2008,08,2153.0
+KY,Islas Caimán,2008,08,1.0
+US,Estados Unidos,2008,08,16090.0
+PA,Panamá,2008,08,8101.0
+CR,Costa Rica,2008,08,191.0
+BO,Bolivia,2008,08,61.0
+MX,México,2008,08,482.0
+BS,Bahamas,2008,08,1.0
+FR,Francia,2008,08,26.0
+EC,Ecuador,2008,08,2208.0
+CA,Canadá,2008,08,253.0
+GT,Guatemala,2008,08,49.0
+NI,Nicaragua,2008,08,6.0
+CU,Cuba,2008,08,73.0
+TT,Trinidad y Tobago,2007,08,8.0
+DE,Alemania,2007,08,19.0
+US,Estados Unidos,2007,08,14952.0
+FR,Francia,2007,08,55.0
+PE,Perú,2007,08,465.0
+ES,España,2007,08,1071.0
+CO,Colombia,2007,08,211.0
+CA,Canadá,2007,08,107.0
+NI,Nicaragua,2007,08,26.0
+GT,Guatemala,2007,08,139.0
+PA,Panamá,2007,08,6054.0
+BR,Brasil,2007,08,359.0
+AN,Antillas Neerlandesas,2007,08,782.0
+CR,Costa Rica,2007,08,246.0
+VE,Venezuela,2007,08,1538.0
+BS,Bahamas,2007,08,3.0
+EC,Ecuador,2007,08,1568.0
+IL,Israel,2007,08,5.0
+SV,El Salvador,2007,08,64.0
+MX,México,2007,08,624.0
+HN,Honduras,2007,08,21.0
+BB,Barbados,2007,08,3.0
+BM,Bermudas,2007,08,1.0
+CU,Cuba,2007,08,119.0
+IT,Italia,2007,08,3.0
+DO,República Dominicana,2007,08,270.0
+UY,Uruguay,2007,08,1.0
+HT,Haití,2007,08,10.0
+GB,Reino Unido,2007,08,104.0
+KY,Islas Caimán,2007,08,5.0
+AR,Argentina,2007,08,505.0
+NL,Países Bajos,2022,07,168.0
+PA,Panamá,2022,07,26571.0
+QA,Qatar,2022,07,4.0
+ES,España,2022,07,7904.0
+AE,Emiratos Árabes Unidos,2022,07,2.0
+IT,Italia,2022,07,436.0
+PR,Puerto Rico,2022,07,1332.0
+PY,Paraguay,2022,07,28.0
+CH,Suiza,2022,07,228.0
+BE,Bélgica,2022,07,270.0
+BS,Bahamas,2022,07,7.0
+DO,República Dominicana,2022,07,9780.0
+LC,Santa Lucia,2022,07,3.0
+MX,México,2022,07,16408.0
+EC,Ecuador,2022,07,1060.0
+CR,Costa Rica,2022,07,1707.0
+AR,Argentina,2022,07,777.0
+JM,Jamaica,2022,07,11.0
+TR,Turquía,2022,07,1.0
+PE,Perú,2022,07,4663.0
+IL,Israel,2022,07,28.0
+HT,Haití,2022,07,1.0
+MA,Marruecos,2022,07,3.0
+KY,Islas Caimán,2022,07,1.0
+DE,Alemania,2022,07,247.0
+UY,Uruguay,2022,07,66.0
+CA,Canadá,2022,07,732.0
+FR,Francia,2022,07,32.0
+TT,Trinidad y Tobago,2022,07,5.0
+SV,El Salvador,2022,07,130.0
+US,Estados Unidos,2022,07,48188.0
+BO,Bolivia,2022,07,88.0
+JP,Japón,2022,07,1.0
+CL,Chile,2022,07,1438.0
+SE,Suecia,2022,07,13.0
+PT,Portugal,2022,07,198.0
+AN,Antillas Neerlandesas,2022,07,636.0
+GT,Guatemala,2022,07,178.0
+GP,Guadalupe,2022,07,2.0
+BR,Brasil,2022,07,1393.0
+KR,Corea del Sur,2022,07,29.0
+GB,Reino Unido,2022,07,509.0
+AG,Antigua and Barbuda,2022,07,2.0
+GB,Reino Unido,2021,07,4.0
+QA,Qatar,2021,07,5.0
+BS,Bahamas,2021,07,4.0
+PT,Portugal,2021,07,2.0
+PE,Perú,2021,07,1008.0
+CH,Suiza,2021,07,6.0
+BB,Barbados,2021,07,1.0
+CL,Chile,2021,07,52.0
+MX,México,2021,07,9339.0
+PR,Puerto Rico,2021,07,184.0
+HN,Honduras,2021,07,16.0
+CR,Costa Rica,2021,07,211.0
+DE,Alemania,2021,07,11.0
+BR,Brasil,2021,07,97.0
+US,Estados Unidos,2021,07,41017.0
+NL,Países Bajos,2021,07,7.0
+JM,Jamaica,2021,07,1.0
+ES,España,2021,07,3427.0
+BE,Bélgica,2021,07,17.0
+CA,Canadá,2021,07,6.0
+SV,El Salvador,2021,07,9.0
+CN,China,2021,07,0.0
+IT,Italia,2021,07,15.0
+AR,Argentina,2021,07,6.0
+AG,Antigua and Barbuda,2021,07,2.0
+PA,Panamá,2021,07,15464.0
+AE,Emiratos Árabes Unidos,2021,07,1.0
+AU,Australia,2021,07,0.0
+GT,Guatemala,2021,07,39.0
+KR,Corea del Sur,2021,07,3.0
+JP,Japón,2021,07,0.0
+AN,Antillas Neerlandesas,2021,07,386.0
+EC,Ecuador,2021,07,84.0
+DO,República Dominicana,2021,07,3462.0
+BO,Bolivia,2021,07,32.0
+BO,Bolivia,2020,07,0.0
+PA,Panamá,2020,07,5.0
+EC,Ecuador,2020,07,5.0
+CR,Costa Rica,2020,07,0.0
+BR,Brasil,2020,07,0.0
+US,Estados Unidos,2020,07,690.0
+DO,República Dominicana,2020,07,0.0
+PT,Portugal,2019,07,116.0
+FR,Francia,2019,07,132.0
+BZ,Belice,2019,07,2.0
+CU,Cuba,2019,07,202.0
+KN,San Cristóbal y Nieves,2019,07,1.0
+SE,Suecia,2019,07,8.0
+AR,Argentina,2019,07,587.0
+BB,Barbados,2019,07,2.0
+KY,Islas Caimán,2019,07,17.0
+JM,Jamaica,2019,07,1.0
+EC,Ecuador,2019,07,17.0
+DE,Alemania,2019,07,421.0
+NO,Noruega,2019,07,1.0
+US,Estados Unidos,2019,07,29868.0
+GT,Guatemala,2019,07,307.0
+BS,Bahamas,2019,07,17.0
+CR,Costa Rica,2019,07,37.0
+BE,Bélgica,2019,07,265.0
+CN,China,2019,07,17.0
+SV,El Salvador,2019,07,3008.0
+CL,Chile,2019,07,731.0
+MX,México,2019,07,10266.0
+JP,Japón,2019,07,34.0
+CA,Canadá,2019,07,227.0
+UY,Uruguay,2019,07,77.0
+MA,Marruecos,2019,07,5.0
+SN,Senegal,2019,07,1.0
+HN,Honduras,2019,07,61.0
+PE,Perú,2019,07,5418.0
+QA,Qatar,2019,07,3.0
+DO,República Dominicana,2019,07,814.0
+IT,Italia,2019,07,477.0
+IL,Israel,2019,07,28.0
+NL,Países Bajos,2019,07,145.0
+AN,Antillas Neerlandesas,2019,07,896.0
+AT,Austria,2019,07,22.0
+VE,Venezuela,2019,07,1972.0
+PR,Puerto Rico,2019,07,437.0
+BO,Bolivia,2019,07,46.0
+IE,Irlanda,2019,07,9.0
+NZ,Nueva Zelanda,2019,07,2.0
+TT,Trinidad y Tobago,2019,07,1.0
+ES,España,2019,07,8321.0
+PY,Paraguay,2019,07,97.0
+CH,Suiza,2019,07,142.0
+GB,Reino Unido,2019,07,708.0
+BR,Brasil,2019,07,843.0
+KR,Corea del Sur,2019,07,33.0
+PA,Panamá,2019,07,18762.0
+PY,Paraguay,2018,07,33.0
+ES,España,2018,07,6976.0
+PE,Perú,2018,07,3356.0
+NI,Nicaragua,2018,07,36.0
+IT,Italia,2018,07,277.0
+IE,Irlanda,2018,07,2.0
+IL,Israel,2018,07,35.0
+NZ,Nueva Zelanda,2018,07,0.0
+CL,Chile,2018,07,526.0
+GR,Grecia,2018,07,9.0
+FR,Francia,2018,07,72.0
+SV,El Salvador,2018,07,410.0
+VE,Venezuela,2018,07,1907.0
+BZ,Belice,2018,07,11.0
+PA,Panamá,2018,07,22141.0
+BE,Bélgica,2018,07,61.0
+DE,Alemania,2018,07,75.0
+PT,Portugal,2018,07,42.0
+CH,Suiza,2018,07,59.0
+HT,Haití,2018,07,0.0
+SE,Suecia,2018,07,0.0
+US,Estados Unidos,2018,07,27573.0
+BO,Bolivia,2018,07,214.0
+GB,Reino Unido,2018,07,586.0
+CR,Costa Rica,2018,07,110.0
+AT,Austria,2018,07,8.0
+AN,Antillas Neerlandesas,2018,07,478.0
+CA,Canadá,2018,07,483.0
+SN,Senegal,2018,07,0.0
+QA,Qatar,2018,07,4.0
+JP,Japón,2018,07,8.0
+KY,Islas Caimán,2018,07,5.0
+JM,Jamaica,2018,07,3.0
+BR,Brasil,2018,07,588.0
+ZA,Sudáfrica,2018,07,0.0
+DO,República Dominicana,2018,07,913.0
+TT,Trinidad y Tobago,2018,07,1.0
+BS,Bahamas,2018,07,3.0
+UY,Uruguay,2018,07,93.0
+BB,Barbados,2018,07,2.0
+MX,México,2018,07,4434.0
+NL,Países Bajos,2018,07,39.0
+CU,Cuba,2018,07,171.0
+AR,Argentina,2018,07,331.0
+KR,Corea del Sur,2018,07,5.0
+CN,China,2018,07,13.0
+HN,Honduras,2018,07,190.0
+EC,Ecuador,2018,07,33.0
+GT,Guatemala,2018,07,461.0
+PR,Puerto Rico,2018,07,367.0
+IE,Irlanda,2017,07,6.0
+PE,Perú,2017,07,1995.0
+PA,Panamá,2017,07,17195.0
+AT,Austria,2017,07,7.0
+BR,Brasil,2017,07,572.0
+GT,Guatemala,2017,07,465.0
+SE,Suecia,2017,07,2.0
+CH,Suiza,2017,07,52.0
+QA,Qatar,2017,07,2.0
+SV,El Salvador,2017,07,477.0
+JP,Japón,2017,07,17.0
+HT,Haití,2017,07,0.0
+FR,Francia,2017,07,71.0
+AR,Argentina,2017,07,168.0
+MX,México,2017,07,4538.0
+ES,España,2017,07,5369.0
+ZA,Sudáfrica,2017,07,1.0
+TR,Turquía,2017,07,0.0
+IL,Israel,2017,07,14.0
+BO,Bolivia,2017,07,103.0
+CA,Canadá,2017,07,327.0
+PY,Paraguay,2017,07,29.0
+NO,Noruega,2017,07,3.0
+BE,Bélgica,2017,07,89.0
+GR,Grecia,2017,07,4.0
+NZ,Nueva Zelanda,2017,07,1.0
+TT,Trinidad y Tobago,2017,07,3.0
+NI,Nicaragua,2017,07,78.0
+CN,China,2017,07,34.0
+VE,Venezuela,2017,07,1740.0
+AN,Antillas Neerlandesas,2017,07,739.0
+CL,Chile,2017,07,516.0
+KR,Corea del Sur,2017,07,8.0
+DO,República Dominicana,2017,07,738.0
+BB,Barbados,2017,07,28.0
+UY,Uruguay,2017,07,109.0
+EC,Ecuador,2017,07,10.0
+KY,Islas Caimán,2017,07,3.0
+NL,Países Bajos,2017,07,33.0
+CU,Cuba,2017,07,176.0
+KN,San Cristóbal y Nieves,2017,07,0.0
+AU,Australia,2017,07,35.0
+US,Estados Unidos,2017,07,26559.0
+BZ,Belice,2017,07,29.0
+DK,Dinamarca,2017,07,3.0
+PT,Portugal,2017,07,49.0
+CR,Costa Rica,2017,07,299.0
+IT,Italia,2017,07,212.0
+BS,Bahamas,2017,07,12.0
+DE,Alemania,2017,07,63.0
+GB,Reino Unido,2017,07,530.0
+JM,Jamaica,2017,07,4.0
+PR,Puerto Rico,2017,07,331.0
+HN,Honduras,2017,07,181.0
+BO,Bolivia,2016,07,220.0
+VE,Venezuela,2016,07,334.0
+HN,Honduras,2016,07,136.0
+CL,Chile,2016,07,5.0
+GB,Reino Unido,2016,07,563.0
+CO,Colombia,2016,07,3496.0
+NI,Nicaragua,2016,07,36.0
+GY,Guyana,2016,07,2.0
+SV,El Salvador,2016,07,335.0
+CH,Suiza,2016,07,34.0
+BE,Bélgica,2016,07,125.0
+NL,Países Bajos,2016,07,29.0
+BR,Brasil,2016,07,1390.0
+IT,Italia,2016,07,161.0
+BS,Bahamas,2016,07,12.0
+PE,Perú,2016,07,2383.0
+GT,Guatemala,2016,07,412.0
+KY,Islas Caimán,2016,07,2.0
+MX,México,2016,07,4128.0
+CR,Costa Rica,2016,07,150.0
+NO,Noruega,2016,07,2.0
+TT,Trinidad y Tobago,2016,07,7.0
+UY,Uruguay,2016,07,103.0
+LU,Luxemburgo,2016,07,1.0
+PA,Panamá,2016,07,17245.0
+AU,Australia,2016,07,29.0
+ES,España,2016,07,3881.0
+PY,Paraguay,2016,07,78.0
+CU,Cuba,2016,07,152.0
+PT,Portugal,2016,07,15.0
+QA,Qatar,2016,07,1.0
+AR,Argentina,2016,07,596.0
+GR,Grecia,2016,07,6.0
+IL,Israel,2016,07,12.0
+CN,China,2016,07,1.0
+EC,Ecuador,2016,07,977.0
+SR,Surinam,2016,07,10.0
+FR,Francia,2016,07,61.0
+BZ,Belice,2016,07,21.0
+DK,Dinamarca,2016,07,6.0
+CA,Canadá,2016,07,266.0
+DO,República Dominicana,2016,07,902.0
+JP,Japón,2016,07,14.0
+AN,Antillas Neerlandesas,2016,07,1261.0
+SE,Suecia,2016,07,1.0
+DE,Alemania,2016,07,26.0
+US,Estados Unidos,2016,07,27670.0
+BB,Barbados,2016,07,20.0
+IE,Irlanda,2016,07,7.0
+BO,Bolivia,2015,07,152.0
+DO,República Dominicana,2015,07,693.0
+HN,Honduras,2015,07,130.0
+CR,Costa Rica,2015,07,128.0
+GT,Guatemala,2015,07,298.0
+AN,Antillas Neerlandesas,2015,07,1439.0
+VE,Venezuela,2015,07,1437.0
+BR,Brasil,2015,07,970.0
+MX,México,2015,07,4266.0
+CO,Colombia,2015,07,2298.0
+CA,Canadá,2015,07,312.0
+KY,Islas Caimán,2015,07,1.0
+CU,Cuba,2015,07,145.0
+PY,Paraguay,2015,07,40.0
+BS,Bahamas,2015,07,5.0
+IT,Italia,2015,07,18.0
+EC,Ecuador,2015,07,52.0
+US,Estados Unidos,2015,07,20848.0
+BZ,Belice,2015,07,6.0
+SR,Surinam,2015,07,12.0
+ES,España,2015,07,3299.0
+CN,China,2015,07,13.0
+JP,Japón,2015,07,1.0
+PE,Perú,2015,07,1486.0
+FR,Francia,2015,07,40.0
+HT,Haití,2015,07,1.0
+BM,Bermudas,2015,07,4.0
+BB,Barbados,2015,07,2.0
+DE,Alemania,2015,07,33.0
+GB,Reino Unido,2015,07,490.0
+UY,Uruguay,2015,07,57.0
+AR,Argentina,2015,07,658.0
+SV,El Salvador,2015,07,244.0
+CH,Suiza,2015,07,5.0
+PA,Panamá,2015,07,14997.0
+NI,Nicaragua,2015,07,27.0
+GT,Guatemala,2014,07,139.0
+MX,México,2014,07,1729.0
+CO,Colombia,2014,07,9.0
+SV,El Salvador,2014,07,142.0
+GB,Reino Unido,2014,07,306.0
+BM,Bermudas,2014,07,7.0
+VE,Venezuela,2014,07,593.0
+PY,Paraguay,2014,07,36.0
+PA,Panamá,2014,07,13606.0
+NI,Nicaragua,2014,07,20.0
+ES,España,2014,07,2141.0
+DO,República Dominicana,2014,07,1093.0
+PE,Perú,2014,07,1805.0
+EC,Ecuador,2014,07,1786.0
+CL,Chile,2014,07,3.0
+BZ,Belice,2014,07,3.0
+IT,Italia,2014,07,18.0
+SR,Surinam,2014,07,12.0
+US,Estados Unidos,2014,07,18715.0
+HN,Honduras,2014,07,104.0
+CU,Cuba,2014,07,133.0
+QA,Qatar,2014,07,4.0
+UY,Uruguay,2014,07,68.0
+BR,Brasil,2014,07,1017.0
+HT,Haití,2014,07,2.0
+BB,Barbados,2014,07,3.0
+ZA,Sudáfrica,2014,07,3.0
+AR,Argentina,2014,07,600.0
+AN,Antillas Neerlandesas,2014,07,1137.0
+CR,Costa Rica,2014,07,44.0
+PT,Portugal,2014,07,9.0
+BS,Bahamas,2014,07,11.0
+JM,Jamaica,2014,07,3.0
+BO,Bolivia,2014,07,150.0
+CA,Canadá,2014,07,234.0
+FR,Francia,2014,07,12.0
+TT,Trinidad y Tobago,2014,07,3.0
+DE,Alemania,2014,07,12.0
+MX,México,2013,07,1699.0
+CU,Cuba,2013,07,103.0
+BO,Bolivia,2013,07,57.0
+PE,Perú,2013,07,1389.0
+CA,Canadá,2013,07,265.0
+US,Estados Unidos,2013,07,17684.0
+PA,Panamá,2013,07,11264.0
+FR,Francia,2013,07,26.0
+SV,El Salvador,2013,07,199.0
+EC,Ecuador,2013,07,2401.0
+GB,Reino Unido,2013,07,141.0
+GT,Guatemala,2013,07,207.0
+HN,Honduras,2013,07,148.0
+BZ,Belice,2013,07,10.0
+DE,Alemania,2013,07,6.0
+AN,Antillas Neerlandesas,2013,07,1027.0
+PY,Paraguay,2013,07,29.0
+IT,Italia,2013,07,2.0
+SR,Surinam,2013,07,11.0
+KY,Islas Caimán,2013,07,2.0
+DO,República Dominicana,2013,07,519.0
+AR,Argentina,2013,07,430.0
+BR,Brasil,2013,07,885.0
+BM,Bermudas,2013,07,1.0
+VE,Venezuela,2013,07,1503.0
+CR,Costa Rica,2013,07,277.0
+CL,Chile,2013,07,6.0
+CO,Colombia,2013,07,182.0
+ES,España,2013,07,2215.0
+NI,Nicaragua,2013,07,18.0
+UY,Uruguay,2013,07,22.0
+BS,Bahamas,2013,07,2.0
+ES,España,2012,07,1941.0
+GB,Reino Unido,2012,07,58.0
+AN,Antillas Neerlandesas,2012,07,1385.0
+CU,Cuba,2012,07,40.0
+EC,Ecuador,2012,07,2793.0
+CO,Colombia,2012,07,211.0
+CA,Canadá,2012,07,145.0
+CR,Costa Rica,2012,07,565.0
+IT,Italia,2012,07,3.0
+HN,Honduras,2012,07,94.0
+TT,Trinidad y Tobago,2012,07,1.0
+DO,República Dominicana,2012,07,453.0
+US,Estados Unidos,2012,07,13892.0
+BB,Barbados,2012,07,1.0
+BR,Brasil,2012,07,524.0
+BS,Bahamas,2012,07,2.0
+NI,Nicaragua,2012,07,14.0
+GT,Guatemala,2012,07,73.0
+PE,Perú,2012,07,1156.0
+PA,Panamá,2012,07,10429.0
+KY,Islas Caimán,2012,07,1.0
+FR,Francia,2012,07,9.0
+BO,Bolivia,2012,07,27.0
+SV,El Salvador,2012,07,250.0
+MX,México,2012,07,863.0
+AR,Argentina,2012,07,200.0
+VE,Venezuela,2012,07,1496.0
+UY,Uruguay,2011,07,49.0
+VE,Venezuela,2011,07,1090.0
+MX,México,2011,07,1037.0
+FR,Francia,2011,07,12.0
+SV,El Salvador,2011,07,140.0
+BR,Brasil,2011,07,458.0
+NI,Nicaragua,2011,07,9.0
+GB,Reino Unido,2011,07,62.0
+ES,España,2011,07,1604.0
+BB,Barbados,2011,07,2.0
+DE,Alemania,2011,07,1.0
+CR,Costa Rica,2011,07,625.0
+IT,Italia,2011,07,2.0
+AR,Argentina,2011,07,474.0
+AN,Antillas Neerlandesas,2011,07,969.0
+PA,Panamá,2011,07,7988.0
+BS,Bahamas,2011,07,4.0
+DO,República Dominicana,2011,07,468.0
+CL,Chile,2011,07,6.0
+PE,Perú,2011,07,1673.0
+US,Estados Unidos,2011,07,12620.0
+EC,Ecuador,2011,07,2133.0
+HN,Honduras,2011,07,19.0
+PY,Paraguay,2011,07,22.0
+CO,Colombia,2011,07,110.0
+BO,Bolivia,2011,07,91.0
+GT,Guatemala,2011,07,115.0
+KY,Islas Caimán,2011,07,1.0
+CA,Canadá,2011,07,62.0
+CU,Cuba,2011,07,6.0
+CO,Colombia,2010,07,119.0
+KY,Islas Caimán,2010,07,3.0
+BM,Bermudas,2010,07,2.0
+BR,Brasil,2010,07,494.0
+BO,Bolivia,2010,07,51.0
+ES,España,2010,07,1844.0
+UY,Uruguay,2010,07,47.0
+DE,Alemania,2010,07,1.0
+EC,Ecuador,2010,07,3243.0
+GB,Reino Unido,2010,07,87.0
+FR,Francia,2010,07,13.0
+US,Estados Unidos,2010,07,16537.0
+CA,Canadá,2010,07,152.0
+AU,Australia,2010,07,1.0
+PE,Perú,2010,07,1606.0
+HN,Honduras,2010,07,137.0
+GT,Guatemala,2010,07,122.0
+TT,Trinidad y Tobago,2010,07,34.0
+VE,Venezuela,2010,07,1005.0
+MX,México,2010,07,808.0
+CU,Cuba,2010,07,99.0
+SV,El Salvador,2010,07,41.0
+DO,República Dominicana,2010,07,329.0
+AR,Argentina,2010,07,661.0
+HT,Haití,2010,07,47.0
+BB,Barbados,2010,07,1.0
+CR,Costa Rica,2010,07,862.0
+AN,Antillas Neerlandesas,2010,07,485.0
+PY,Paraguay,2010,07,18.0
+JP,Japón,2010,07,1.0
+PA,Panamá,2010,07,6375.0
+NI,Nicaragua,2010,07,57.0
+HN,Honduras,2009,07,36.0
+BO,Bolivia,2009,07,77.0
+EC,Ecuador,2009,07,1992.0
+PE,Perú,2009,07,1782.0
+UY,Uruguay,2009,07,61.0
+MX,México,2009,07,391.0
+IT,Italia,2009,07,3.0
+AR,Argentina,2009,07,497.0
+DO,República Dominicana,2009,07,366.0
+GT,Guatemala,2009,07,54.0
+FR,Francia,2009,07,23.0
+CR,Costa Rica,2009,07,286.0
+TT,Trinidad y Tobago,2009,07,53.0
+HT,Haití,2009,07,8.0
+CA,Canadá,2009,07,139.0
+PY,Paraguay,2009,07,1.0
+BR,Brasil,2009,07,586.0
+CU,Cuba,2009,07,67.0
+PA,Panamá,2009,07,5797.0
+ES,España,2009,07,1265.0
+DE,Alemania,2009,07,16.0
+US,Estados Unidos,2009,07,14992.0
+VE,Venezuela,2009,07,1404.0
+AN,Antillas Neerlandesas,2009,07,626.0
+NI,Nicaragua,2009,07,6.0
+GB,Reino Unido,2009,07,54.0
+CO,Colombia,2009,07,146.0
+BB,Barbados,2008,07,3.0
+BR,Brasil,2008,07,383.0
+AN,Antillas Neerlandesas,2008,07,621.0
+SV,El Salvador,2008,07,32.0
+ES,España,2008,07,827.0
+PE,Perú,2008,07,1646.0
+DO,República Dominicana,2008,07,265.0
+GT,Guatemala,2008,07,52.0
+VE,Venezuela,2008,07,1806.0
+EC,Ecuador,2008,07,1597.0
+FR,Francia,2008,07,25.0
+IT,Italia,2008,07,1.0
+JM,Jamaica,2008,07,1.0
+AR,Argentina,2008,07,490.0
+NI,Nicaragua,2008,07,7.0
+GB,Reino Unido,2008,07,109.0
+CR,Costa Rica,2008,07,240.0
+CA,Canadá,2008,07,186.0
+TT,Trinidad y Tobago,2008,07,50.0
+BE,Bélgica,2008,07,1.0
+HN,Honduras,2008,07,39.0
+KY,Islas Caimán,2008,07,1.0
+BZ,Belice,2008,07,1.0
+US,Estados Unidos,2008,07,12000.0
+BO,Bolivia,2008,07,31.0
+CO,Colombia,2008,07,207.0
+CU,Cuba,2008,07,50.0
+DE,Alemania,2008,07,15.0
+UY,Uruguay,2008,07,2.0
+BS,Bahamas,2008,07,1.0
+MX,México,2008,07,295.0
+BM,Bermudas,2008,07,1.0
+HT,Haití,2008,07,2.0
+PA,Panamá,2008,07,10237.0
+GT,Guatemala,2007,07,112.0
+MX,México,2007,07,655.0
+ES,España,2007,07,812.0
+KY,Islas Caimán,2007,07,12.0
+DO,República Dominicana,2007,07,273.0
+GB,Reino Unido,2007,07,65.0
+AR,Argentina,2007,07,463.0
+BO,Bolivia,2007,07,32.0
+BB,Barbados,2007,07,1.0
+CA,Canadá,2007,07,30.0
+NL,Países Bajos,2007,07,1.0
+DE,Alemania,2007,07,5.0
+BR,Brasil,2007,07,388.0
+PE,Perú,2007,07,631.0
+CU,Cuba,2007,07,155.0
+SV,El Salvador,2007,07,34.0
+VE,Venezuela,2007,07,2074.0
+HT,Haití,2007,07,4.0
+US,Estados Unidos,2007,07,13342.0
+PA,Panamá,2007,07,5139.0
+BS,Bahamas,2007,07,11.0
+CO,Colombia,2007,07,193.0
+FR,Francia,2007,07,16.0
+EC,Ecuador,2007,07,1457.0
+NI,Nicaragua,2007,07,48.0
+TT,Trinidad y Tobago,2007,07,3.0
+HN,Honduras,2007,07,14.0
+AN,Antillas Neerlandesas,2007,07,698.0
+CR,Costa Rica,2007,07,227.0
+GB,Reino Unido,2022,06,640.0
+PT,Portugal,2022,06,119.0
+CR,Costa Rica,2022,06,1225.0
+FR,Francia,2022,06,67.0
+JM,Jamaica,2022,06,12.0
+AR,Argentina,2022,06,717.0
+BO,Bolivia,2022,06,59.0
+NL,Países Bajos,2022,06,118.0
+DO,República Dominicana,2022,06,10710.0
+CL,Chile,2022,06,1263.0
+GT,Guatemala,2022,06,280.0
+CA,Canadá,2022,06,810.0
+NO,Noruega,2022,06,1.0
+BR,Brasil,2022,06,998.0
+QA,Qatar,2022,06,4.0
+BB,Barbados,2022,06,3.0
+LB,Líbano,2022,06,5.0
+SV,El Salvador,2022,06,129.0
+ES,España,2022,06,8511.0
+SE,Suecia,2022,06,6.0
+TT,Trinidad y Tobago,2022,06,2.0
+LC,Santa Lucia,2022,06,2.0
+EC,Ecuador,2022,06,902.0
+PR,Puerto Rico,2022,06,869.0
+PE,Perú,2022,06,4669.0
+KY,Islas Caimán,2022,06,3.0
+BZ,Belice,2022,06,2.0
+UY,Uruguay,2022,06,54.0
+CU,Cuba,2022,06,2.0
+US,Estados Unidos,2022,06,46191.0
+MX,México,2022,06,19053.0
+BE,Bélgica,2022,06,70.0
+PA,Panamá,2022,06,29640.0
+HN,Honduras,2022,06,1.0
+DE,Alemania,2022,06,166.0
+PY,Paraguay,2022,06,29.0
+CH,Suiza,2022,06,114.0
+AN,Antillas Neerlandesas,2022,06,715.0
+IT,Italia,2022,06,358.0
+IL,Israel,2022,06,49.0
+HT,Haití,2022,06,2.0
+CA,Canadá,2021,06,0.0
+CR,Costa Rica,2021,06,148.0
+ES,España,2021,06,1688.0
+BE,Bélgica,2021,06,19.0
+KR,Corea del Sur,2021,06,9.0
+NL,Países Bajos,2021,06,59.0
+AR,Argentina,2021,06,41.0
+BB,Barbados,2021,06,5.0
+MX,México,2021,06,7728.0
+DO,República Dominicana,2021,06,700.0
+SV,El Salvador,2021,06,14.0
+GT,Guatemala,2021,06,42.0
+GB,Reino Unido,2021,06,23.0
+BS,Bahamas,2021,06,6.0
+IT,Italia,2021,06,118.0
+EC,Ecuador,2021,06,72.0
+QA,Qatar,2021,06,1.0
+AN,Antillas Neerlandesas,2021,06,400.0
+BR,Brasil,2021,06,1.0
+CL,Chile,2021,06,43.0
+CH,Suiza,2021,06,36.0
+US,Estados Unidos,2021,06,48102.0
+PE,Perú,2021,06,687.0
+FR,Francia,2021,06,1.0
+BO,Bolivia,2021,06,33.0
+PT,Portugal,2021,06,22.0
+DE,Alemania,2021,06,50.0
+PR,Puerto Rico,2021,06,167.0
+PA,Panamá,2021,06,15525.0
+IL,Israel,2021,06,4.0
+HN,Honduras,2021,06,4.0
+AR,Argentina,2020,06,0.0
+US,Estados Unidos,2020,06,1410.0
+HN,Honduras,2020,06,7.0
+EC,Ecuador,2020,06,0.0
+BR,Brasil,2020,06,1.0
+PA,Panamá,2020,06,0.0
+AN,Antillas Neerlandesas,2020,06,0.0
+AR,Argentina,2019,06,660.0
+CH,Suiza,2019,06,90.0
+KR,Corea del Sur,2019,06,12.0
+AT,Austria,2019,06,21.0
+PT,Portugal,2019,06,72.0
+PA,Panamá,2019,06,24134.0
+BS,Bahamas,2019,06,7.0
+KY,Islas Caimán,2019,06,7.0
+DE,Alemania,2019,06,579.0
+SV,El Salvador,2019,06,3590.0
+PY,Paraguay,2019,06,103.0
+EC,Ecuador,2019,06,7.0
+JP,Japón,2019,06,79.0
+CU,Cuba,2019,06,327.0
+IT,Italia,2019,06,495.0
+BB,Barbados,2019,06,1.0
+CL,Chile,2019,06,1035.0
+VE,Venezuela,2019,06,2464.0
+CA,Canadá,2019,06,266.0
+AN,Antillas Neerlandesas,2019,06,907.0
+HT,Haití,2019,06,5.0
+FR,Francia,2019,06,305.0
+IL,Israel,2019,06,10.0
+US,Estados Unidos,2019,06,31169.0
+UY,Uruguay,2019,06,97.0
+HN,Honduras,2019,06,49.0
+MX,México,2019,06,11476.0
+BO,Bolivia,2019,06,79.0
+BE,Bélgica,2019,06,75.0
+GB,Reino Unido,2019,06,688.0
+IE,Irlanda,2019,06,1.0
+CR,Costa Rica,2019,06,6.0
+PE,Perú,2019,06,5709.0
+QA,Qatar,2019,06,9.0
+NL,Países Bajos,2019,06,84.0
+PR,Puerto Rico,2019,06,439.0
+GT,Guatemala,2019,06,389.0
+TT,Trinidad y Tobago,2019,06,4.0
+BR,Brasil,2019,06,1358.0
+ES,España,2019,06,10207.0
+DO,República Dominicana,2019,06,1213.0
+CN,China,2019,06,12.0
+NO,Noruega,2018,06,2.0
+BZ,Belice,2018,06,4.0
+AT,Austria,2018,06,9.0
+AN,Antillas Neerlandesas,2018,06,826.0
+KY,Islas Caimán,2018,06,10.0
+CN,China,2018,06,50.0
+IT,Italia,2018,06,227.0
+CH,Suiza,2018,06,42.0
+BO,Bolivia,2018,06,162.0
+IE,Irlanda,2018,06,1.0
+DO,República Dominicana,2018,06,1643.0
+IL,Israel,2018,06,19.0
+NL,Países Bajos,2018,06,26.0
+EC,Ecuador,2018,06,14.0
+HN,Honduras,2018,06,125.0
+CA,Canadá,2018,06,648.0
+UY,Uruguay,2018,06,59.0
+US,Estados Unidos,2018,06,28652.0
+DE,Alemania,2018,06,46.0
+KR,Corea del Sur,2018,06,2.0
+BS,Bahamas,2018,06,7.0
+NI,Nicaragua,2018,06,7.0
+NZ,Nueva Zelanda,2018,06,3.0
+CL,Chile,2018,06,414.0
+ES,España,2018,06,8708.0
+PY,Paraguay,2018,06,64.0
+PE,Perú,2018,06,3404.0
+AR,Argentina,2018,06,317.0
+SV,El Salvador,2018,06,506.0
+GT,Guatemala,2018,06,325.0
+VE,Venezuela,2018,06,2599.0
+BR,Brasil,2018,06,942.0
+PT,Portugal,2018,06,31.0
+CU,Cuba,2018,06,273.0
+HT,Haití,2018,06,6.0
+JM,Jamaica,2018,06,10.0
+TT,Trinidad y Tobago,2018,06,6.0
+GB,Reino Unido,2018,06,638.0
+PR,Puerto Rico,2018,06,407.0
+CR,Costa Rica,2018,06,51.0
+BE,Bélgica,2018,06,25.0
+PA,Panamá,2018,06,24175.0
+JP,Japón,2018,06,17.0
+FR,Francia,2018,06,64.0
+QA,Qatar,2018,06,4.0
+MX,México,2018,06,5755.0
+SV,El Salvador,2017,06,482.0
+GB,Reino Unido,2017,06,691.0
+CU,Cuba,2017,06,258.0
+VE,Venezuela,2017,06,2330.0
+IE,Irlanda,2017,06,2.0
+IL,Israel,2017,06,11.0
+CL,Chile,2017,06,593.0
+SE,Suecia,2017,06,2.0
+AU,Australia,2017,06,26.0
+HT,Haití,2017,06,5.0
+KY,Islas Caimán,2017,06,2.0
+KN,San Cristóbal y Nieves,2017,06,1.0
+DE,Alemania,2017,06,31.0
+MX,México,2017,06,5332.0
+IT,Italia,2017,06,268.0
+BB,Barbados,2017,06,47.0
+CA,Canadá,2017,06,517.0
+CR,Costa Rica,2017,06,51.0
+AT,Austria,2017,06,10.0
+BS,Bahamas,2017,06,15.0
+US,Estados Unidos,2017,06,26678.0
+UY,Uruguay,2017,06,128.0
+BR,Brasil,2017,06,799.0
+PE,Perú,2017,06,2094.0
+TT,Trinidad y Tobago,2017,06,1.0
+QA,Qatar,2017,06,0.0
+JP,Japón,2017,06,8.0
+GT,Guatemala,2017,06,319.0
+DK,Dinamarca,2017,06,0.0
+EC,Ecuador,2017,06,14.0
+ZA,Sudáfrica,2017,06,1.0
+TR,Turquía,2017,06,1.0
+JM,Jamaica,2017,06,5.0
+CN,China,2017,06,46.0
+BE,Bélgica,2017,06,28.0
+NZ,Nueva Zelanda,2017,06,2.0
+DO,República Dominicana,2017,06,1058.0
+BO,Bolivia,2017,06,128.0
+AR,Argentina,2017,06,299.0
+HN,Honduras,2017,06,120.0
+PY,Paraguay,2017,06,29.0
+AN,Antillas Neerlandesas,2017,06,1034.0
+PA,Panamá,2017,06,19738.0
+FR,Francia,2017,06,71.0
+NI,Nicaragua,2017,06,23.0
+ES,España,2017,06,8663.0
+PR,Puerto Rico,2017,06,298.0
+PT,Portugal,2017,06,34.0
+NL,Países Bajos,2017,06,51.0
+BZ,Belice,2017,06,8.0
+CH,Suiza,2017,06,53.0
+BB,Barbados,2016,06,30.0
+BZ,Belice,2016,06,13.0
+IL,Israel,2016,06,8.0
+CA,Canadá,2016,06,315.0
+BO,Bolivia,2016,06,330.0
+AN,Antillas Neerlandesas,2016,06,1312.0
+DE,Alemania,2016,06,38.0
+TT,Trinidad y Tobago,2016,06,3.0
+CO,Colombia,2016,06,4074.0
+HN,Honduras,2016,06,112.0
+BS,Bahamas,2016,06,28.0
+ES,España,2016,06,5815.0
+KY,Islas Caimán,2016,06,2.0
+IT,Italia,2016,06,253.0
+CH,Suiza,2016,06,39.0
+BE,Bélgica,2016,06,41.0
+DK,Dinamarca,2016,06,3.0
+AU,Australia,2016,06,31.0
+NI,Nicaragua,2016,06,46.0
+GT,Guatemala,2016,06,360.0
+VE,Venezuela,2016,06,445.0
+EC,Ecuador,2016,06,38.0
+DO,República Dominicana,2016,06,1309.0
+US,Estados Unidos,2016,06,28937.0
+GB,Reino Unido,2016,06,601.0
+UY,Uruguay,2016,06,82.0
+CU,Cuba,2016,06,339.0
+SR,Surinam,2016,06,20.0
+CR,Costa Rica,2016,06,87.0
+QA,Qatar,2016,06,1.0
+BR,Brasil,2016,06,1513.0
+AR,Argentina,2016,06,787.0
+PT,Portugal,2016,06,31.0
+HT,Haití,2016,06,2.0
+JP,Japón,2016,06,6.0
+NL,Países Bajos,2016,06,51.0
+PE,Perú,2016,06,3417.0
+MX,México,2016,06,5082.0
+SV,El Salvador,2016,06,261.0
+CN,China,2016,06,3.0
+PA,Panamá,2016,06,21364.0
+PY,Paraguay,2016,06,58.0
+IE,Irlanda,2016,06,1.0
+SE,Suecia,2016,06,2.0
+NZ,Nueva Zelanda,2016,06,2.0
+FR,Francia,2016,06,96.0
+DE,Alemania,2015,06,37.0
+CO,Colombia,2015,06,3063.0
+BO,Bolivia,2015,06,185.0
+CU,Cuba,2015,06,286.0
+BR,Brasil,2015,06,1180.0
+IT,Italia,2015,06,28.0
+VE,Venezuela,2015,06,455.0
+CR,Costa Rica,2015,06,96.0
+IR,Irán,2015,06,1.0
+AN,Antillas Neerlandesas,2015,06,957.0
+PT,Portugal,2015,06,1.0
+PA,Panamá,2015,06,19805.0
+HT,Haití,2015,06,1.0
+FR,Francia,2015,06,36.0
+BB,Barbados,2015,06,3.0
+NL,Países Bajos,2015,06,1.0
+UY,Uruguay,2015,06,95.0
+SV,El Salvador,2015,06,302.0
+EC,Ecuador,2015,06,22.0
+AR,Argentina,2015,06,754.0
+GT,Guatemala,2015,06,262.0
+PE,Perú,2015,06,1546.0
+BS,Bahamas,2015,06,2.0
+BZ,Belice,2015,06,4.0
+PY,Paraguay,2015,06,54.0
+ES,España,2015,06,3212.0
+NI,Nicaragua,2015,06,35.0
+CA,Canadá,2015,06,255.0
+JP,Japón,2015,06,3.0
+US,Estados Unidos,2015,06,23178.0
+BM,Bermudas,2015,06,3.0
+CL,Chile,2015,06,6.0
+BE,Bélgica,2015,06,1.0
+GB,Reino Unido,2015,06,432.0
+QA,Qatar,2015,06,2.0
+DO,República Dominicana,2015,06,1235.0
+CN,China,2015,06,8.0
+MX,México,2015,06,6049.0
+HN,Honduras,2015,06,120.0
+GT,Guatemala,2014,06,185.0
+SV,El Salvador,2014,06,151.0
+GB,Reino Unido,2014,06,72.0
+PY,Paraguay,2014,06,74.0
+NI,Nicaragua,2014,06,5.0
+ES,España,2014,06,2728.0
+CL,Chile,2014,06,7.0
+IN,india,2014,06,1.0
+TT,Trinidad y Tobago,2014,06,1.0
+IT,Italia,2014,06,20.0
+CA,Canadá,2014,06,216.0
+VE,Venezuela,2014,06,812.0
+PE,Perú,2014,06,2256.0
+SR,Surinam,2014,06,4.0
+CO,Colombia,2014,06,48.0
+HN,Honduras,2014,06,80.0
+PT,Portugal,2014,06,2.0
+AR,Argentina,2014,06,832.0
+US,Estados Unidos,2014,06,22317.0
+DO,República Dominicana,2014,06,1342.0
+BS,Bahamas,2014,06,6.0
+HT,Haití,2014,06,1.0
+BM,Bermudas,2014,06,8.0
+BO,Bolivia,2014,06,173.0
+JM,Jamaica,2014,06,1.0
+BZ,Belice,2014,06,4.0
+UY,Uruguay,2014,06,73.0
+MX,México,2014,06,2721.0
+DE,Alemania,2014,06,9.0
+JP,Japón,2014,06,1.0
+CN,China,2014,06,1.0
+NZ,Nueva Zelanda,2014,06,1.0
+BR,Brasil,2014,06,1718.0
+FR,Francia,2014,06,32.0
+IL,Israel,2014,06,2.0
+CU,Cuba,2014,06,299.0
+IE,Irlanda,2014,06,1.0
+AN,Antillas Neerlandesas,2014,06,1321.0
+PA,Panamá,2014,06,17721.0
+EC,Ecuador,2014,06,1848.0
+CR,Costa Rica,2014,06,35.0
+BO,Bolivia,2013,06,81.0
+BR,Brasil,2013,06,875.0
+PA,Panamá,2013,06,15604.0
+AR,Argentina,2013,06,442.0
+BS,Bahamas,2013,06,5.0
+FR,Francia,2013,06,8.0
+AN,Antillas Neerlandesas,2013,06,1377.0
+UY,Uruguay,2013,06,15.0
+MX,México,2013,06,1962.0
+BZ,Belice,2013,06,4.0
+JM,Jamaica,2013,06,4.0
+DO,República Dominicana,2013,06,756.0
+GT,Guatemala,2013,06,57.0
+CA,Canadá,2013,06,174.0
+US,Estados Unidos,2013,06,20941.0
+PY,Paraguay,2013,06,1.0
+ES,España,2013,06,3415.0
+CL,Chile,2013,06,3.0
+CO,Colombia,2013,06,155.0
+DE,Alemania,2013,06,6.0
+SV,El Salvador,2013,06,130.0
+TT,Trinidad y Tobago,2013,06,1.0
+GB,Reino Unido,2013,06,98.0
+EC,Ecuador,2013,06,3242.0
+BB,Barbados,2013,06,1.0
+CU,Cuba,2013,06,223.0
+VE,Venezuela,2013,06,1669.0
+NI,Nicaragua,2013,06,22.0
+HT,Haití,2013,06,8.0
+PE,Perú,2013,06,1478.0
+CR,Costa Rica,2013,06,133.0
+KY,Islas Caimán,2013,06,3.0
+HN,Honduras,2013,06,67.0
+VE,Venezuela,2012,06,1427.0
+EC,Ecuador,2012,06,2944.0
+BO,Bolivia,2012,06,50.0
+PT,Portugal,2012,06,8.0
+CA,Canadá,2012,06,149.0
+HT,Haití,2012,06,3.0
+TT,Trinidad y Tobago,2012,06,2.0
+AN,Antillas Neerlandesas,2012,06,1333.0
+BR,Brasil,2012,06,581.0
+SV,El Salvador,2012,06,267.0
+BS,Bahamas,2012,06,3.0
+CR,Costa Rica,2012,06,1458.0
+GB,Reino Unido,2012,06,46.0
+CO,Colombia,2012,06,200.0
+NI,Nicaragua,2012,06,2.0
+FR,Francia,2012,06,2.0
+SR,Surinam,2012,06,5.0
+JM,Jamaica,2012,06,226.0
+US,Estados Unidos,2012,06,16139.0
+ES,España,2012,06,2546.0
+HN,Honduras,2012,06,72.0
+AR,Argentina,2012,06,227.0
+PE,Perú,2012,06,1374.0
+BB,Barbados,2012,06,1.0
+DE,Alemania,2012,06,4.0
+PA,Panamá,2012,06,13340.0
+DO,República Dominicana,2012,06,725.0
+CU,Cuba,2012,06,55.0
+MX,México,2012,06,947.0
+IT,Italia,2012,06,2.0
+BM,Bermudas,2012,06,2.0
+AR,Argentina,2011,06,505.0
+PY,Paraguay,2011,06,13.0
+BO,Bolivia,2011,06,66.0
+DO,República Dominicana,2011,06,505.0
+CL,Chile,2011,06,4.0
+BM,Bermudas,2011,06,4.0
+CU,Cuba,2011,06,51.0
+ES,España,2011,06,2656.0
+US,Estados Unidos,2011,06,15894.0
+UY,Uruguay,2011,06,38.0
+VE,Venezuela,2011,06,1165.0
+SV,El Salvador,2011,06,216.0
+GB,Reino Unido,2011,06,35.0
+CO,Colombia,2011,06,213.0
+DE,Alemania,2011,06,1.0
+PA,Panamá,2011,06,10209.0
+BS,Bahamas,2011,06,1.0
+MX,México,2011,06,1331.0
+BR,Brasil,2011,06,483.0
+TT,Trinidad y Tobago,2011,06,20.0
+EC,Ecuador,2011,06,2179.0
+GT,Guatemala,2011,06,98.0
+CR,Costa Rica,2011,06,476.0
+KY,Islas Caimán,2011,06,1.0
+PE,Perú,2011,06,1602.0
+NI,Nicaragua,2011,06,5.0
+FR,Francia,2011,06,10.0
+HN,Honduras,2011,06,39.0
+CA,Canadá,2011,06,109.0
+AN,Antillas Neerlandesas,2011,06,1010.0
+EC,Ecuador,2010,06,3644.0
+GT,Guatemala,2010,06,69.0
+BM,Bermudas,2010,06,4.0
+US,Estados Unidos,2010,06,18082.0
+SV,El Salvador,2010,06,14.0
+BR,Brasil,2010,06,551.0
+PE,Perú,2010,06,1581.0
+PY,Paraguay,2010,06,14.0
+ES,España,2010,06,1988.0
+HN,Honduras,2010,06,43.0
+DE,Alemania,2010,06,4.0
+BB,Barbados,2010,06,3.0
+DO,República Dominicana,2010,06,820.0
+CO,Colombia,2010,06,109.0
+CH,Suiza,2010,06,1.0
+CU,Cuba,2010,06,127.0
+NI,Nicaragua,2010,06,3.0
+CA,Canadá,2010,06,194.0
+UY,Uruguay,2010,06,39.0
+BO,Bolivia,2010,06,96.0
+AU,Australia,2010,06,5.0
+GB,Reino Unido,2010,06,81.0
+VE,Venezuela,2010,06,965.0
+JM,Jamaica,2010,06,1.0
+BS,Bahamas,2010,06,7.0
+PA,Panamá,2010,06,8003.0
+AN,Antillas Neerlandesas,2010,06,791.0
+MX,México,2010,06,360.0
+AR,Argentina,2010,06,702.0
+TT,Trinidad y Tobago,2010,06,53.0
+CR,Costa Rica,2010,06,234.0
+FR,Francia,2010,06,36.0
+ES,España,2009,06,1571.0
+PY,Paraguay,2009,06,13.0
+PA,Panamá,2009,06,7676.0
+HT,Haití,2009,06,5.0
+HN,Honduras,2009,06,125.0
+US,Estados Unidos,2009,06,18096.0
+KY,Islas Caimán,2009,06,2.0
+PE,Perú,2009,06,2007.0
+BE,Bélgica,2009,06,6.0
+MX,México,2009,06,265.0
+BO,Bolivia,2009,06,72.0
+AR,Argentina,2009,06,602.0
+BB,Barbados,2009,06,3.0
+VE,Venezuela,2009,06,1678.0
+EC,Ecuador,2009,06,2080.0
+NI,Nicaragua,2009,06,4.0
+GB,Reino Unido,2009,06,59.0
+CU,Cuba,2009,06,146.0
+CH,Suiza,2009,06,2.0
+CR,Costa Rica,2009,06,150.0
+CA,Canadá,2009,06,173.0
+TT,Trinidad y Tobago,2009,06,26.0
+GT,Guatemala,2009,06,49.0
+FR,Francia,2009,06,20.0
+CO,Colombia,2009,06,170.0
+BS,Bahamas,2009,06,15.0
+UY,Uruguay,2009,06,22.0
+BR,Brasil,2009,06,446.0
+DO,República Dominicana,2009,06,609.0
+AN,Antillas Neerlandesas,2009,06,812.0
+DE,Alemania,2009,06,7.0
+HN,Honduras,2008,06,58.0
+BB,Barbados,2008,06,4.0
+IT,Italia,2008,06,5.0
+CA,Canadá,2008,06,23.0
+MX,México,2008,06,348.0
+CU,Cuba,2008,06,128.0
+BM,Bermudas,2008,06,4.0
+DO,República Dominicana,2008,06,275.0
+NI,Nicaragua,2008,06,16.0
+GB,Reino Unido,2008,06,117.0
+AN,Antillas Neerlandesas,2008,06,774.0
+EC,Ecuador,2008,06,1345.0
+PA,Panamá,2008,06,9333.0
+BS,Bahamas,2008,06,3.0
+BZ,Belice,2008,06,4.0
+VE,Venezuela,2008,06,1866.0
+PE,Perú,2008,06,1318.0
+HT,Haití,2008,06,8.0
+BR,Brasil,2008,06,365.0
+SV,El Salvador,2008,06,45.0
+TT,Trinidad y Tobago,2008,06,31.0
+ES,España,2008,06,1124.0
+US,Estados Unidos,2008,06,14827.0
+CO,Colombia,2008,06,163.0
+BO,Bolivia,2008,06,90.0
+GT,Guatemala,2008,06,53.0
+FR,Francia,2008,06,25.0
+AR,Argentina,2008,06,326.0
+CR,Costa Rica,2008,06,157.0
+DE,Alemania,2008,06,15.0
+EC,Ecuador,2007,06,1405.0
+HN,Honduras,2007,06,23.0
+BR,Brasil,2007,06,323.0
+GB,Reino Unido,2007,06,86.0
+UY,Uruguay,2007,06,16.0
+ES,España,2007,06,995.0
+CR,Costa Rica,2007,06,37.0
+CO,Colombia,2007,06,175.0
+CA,Canadá,2007,06,68.0
+DE,Alemania,2007,06,6.0
+MX,México,2007,06,557.0
+US,Estados Unidos,2007,06,13747.0
+BS,Bahamas,2007,06,8.0
+DO,República Dominicana,2007,06,340.0
+TT,Trinidad y Tobago,2007,06,3.0
+SV,El Salvador,2007,06,218.0
+GT,Guatemala,2007,06,60.0
+PE,Perú,2007,06,461.0
+AN,Antillas Neerlandesas,2007,06,848.0
+AR,Argentina,2007,06,400.0
+KY,Islas Caimán,2007,06,5.0
+NI,Nicaragua,2007,06,2.0
+VE,Venezuela,2007,06,2702.0
+CU,Cuba,2007,06,155.0
+BO,Bolivia,2007,06,1.0
+PA,Panamá,2007,06,7243.0
+FR,Francia,2007,06,25.0
+HT,Haití,2007,06,3.0
+PR,Puerto Rico,2022,05,903.0
+KY,Islas Caimán,2022,05,2.0
+CL,Chile,2022,05,1014.0
+SE,Suecia,2022,05,2.0
+KR,Corea del Sur,2022,05,5.0
+UY,Uruguay,2022,05,40.0
+PE,Perú,2022,05,4010.0
+MA,Marruecos,2022,05,7.0
+PT,Portugal,2022,05,114.0
+SV,El Salvador,2022,05,180.0
+GT,Guatemala,2022,05,301.0
+CA,Canadá,2022,05,937.0
+NL,Países Bajos,2022,05,86.0
+CU,Cuba,2022,05,2.0
+MX,México,2022,05,20382.0
+NI,Nicaragua,2022,05,1.0
+AR,Argentina,2022,05,323.0
+IT,Italia,2022,05,281.0
+BO,Bolivia,2022,05,46.0
+HN,Honduras,2022,05,7.0
+CR,Costa Rica,2022,05,1305.0
+ES,España,2022,05,8390.0
+BR,Brasil,2022,05,383.0
+EC,Ecuador,2022,05,1092.0
+QA,Qatar,2022,05,9.0
+IL,Israel,2022,05,26.0
+CH,Suiza,2022,05,100.0
+DO,República Dominicana,2022,05,9700.0
+GY,Guyana,2022,05,1.0
+US,Estados Unidos,2022,05,43153.0
+AG,Antigua and Barbuda,2022,05,1.0
+BB,Barbados,2022,05,1.0
+BS,Bahamas,2022,05,4.0
+GB,Reino Unido,2022,05,708.0
+JM,Jamaica,2022,05,1.0
+AN,Antillas Neerlandesas,2022,05,693.0
+HT,Haití,2022,05,3.0
+FR,Francia,2022,05,61.0
+BZ,Belice,2022,05,2.0
+PY,Paraguay,2022,05,185.0
+BE,Bélgica,2022,05,77.0
+TT,Trinidad y Tobago,2022,05,3.0
+PA,Panamá,2022,05,24664.0
+TR,Turquía,2022,05,1.0
+DE,Alemania,2022,05,123.0
+AR,Argentina,2021,05,99.0
+PE,Perú,2021,05,536.0
+AN,Antillas Neerlandesas,2021,05,250.0
+BZ,Belice,2021,05,2.0
+JP,Japón,2021,05,1.0
+SR,Surinam,2021,05,3.0
+EC,Ecuador,2021,05,51.0
+CL,Chile,2021,05,58.0
+IL,Israel,2021,05,1.0
+KR,Corea del Sur,2021,05,1.0
+DO,República Dominicana,2021,05,301.0
+CA,Canadá,2021,05,2.0
+PA,Panamá,2021,05,12411.0
+ES,España,2021,05,659.0
+CR,Costa Rica,2021,05,42.0
+MX,México,2021,05,6039.0
+GT,Guatemala,2021,05,41.0
+US,Estados Unidos,2021,05,41016.0
+BR,Brasil,2021,05,1.0
+HN,Honduras,2021,05,9.0
+NL,Países Bajos,2021,05,2.0
+DM,Dominica,2021,05,0.0
+PR,Puerto Rico,2021,05,203.0
+AE,Emiratos Árabes Unidos,2021,05,1.0
+SV,El Salvador,2021,05,4.0
+FR,Francia,2021,05,3.0
+GB,Reino Unido,2021,05,2.0
+BS,Bahamas,2021,05,3.0
+BB,Barbados,2021,05,0.0
+TT,Trinidad y Tobago,2021,05,0.0
+NI,Nicaragua,2021,05,1.0
+AG,Antigua and Barbuda,2021,05,0.0
+DO,República Dominicana,2020,05,45.0
+US,Estados Unidos,2020,05,876.0
+AN,Antillas Neerlandesas,2020,05,0.0
+SV,El Salvador,2020,05,0.0
+EC,Ecuador,2020,05,0.0
+PE,Perú,2020,05,175.0
+BB,Barbados,2019,05,1.0
+NI,Nicaragua,2019,05,12.0
+PE,Perú,2019,05,5459.0
+KY,Islas Caimán,2019,05,11.0
+CA,Canadá,2019,05,185.0
+DE,Alemania,2019,05,365.0
+CN,China,2019,05,11.0
+CL,Chile,2019,05,1011.0
+CR,Costa Rica,2019,05,32.0
+HT,Haití,2019,05,6.0
+PY,Paraguay,2019,05,83.0
+MX,México,2019,05,6073.0
+AT,Austria,2019,05,16.0
+BS,Bahamas,2019,05,8.0
+FR,Francia,2019,05,168.0
+JM,Jamaica,2019,05,1.0
+UY,Uruguay,2019,05,177.0
+DO,República Dominicana,2019,05,676.0
+GB,Reino Unido,2019,05,657.0
+IT,Italia,2019,05,311.0
+BE,Bélgica,2019,05,29.0
+KR,Corea del Sur,2019,05,12.0
+NL,Países Bajos,2019,05,43.0
+TT,Trinidad y Tobago,2019,05,1.0
+BR,Brasil,2019,05,1150.0
+BO,Bolivia,2019,05,110.0
+AR,Argentina,2019,05,639.0
+IE,Irlanda,2019,05,8.0
+HN,Honduras,2019,05,124.0
+IL,Israel,2019,05,32.0
+GT,Guatemala,2019,05,372.0
+CH,Suiza,2019,05,59.0
+PR,Puerto Rico,2019,05,260.0
+QA,Qatar,2019,05,8.0
+SV,El Salvador,2019,05,2720.0
+ES,España,2019,05,8165.0
+US,Estados Unidos,2019,05,27836.0
+AN,Antillas Neerlandesas,2019,05,593.0
+SE,Suecia,2019,05,1.0
+BZ,Belice,2019,05,5.0
+JP,Japón,2019,05,35.0
+PA,Panamá,2019,05,20563.0
+EC,Ecuador,2019,05,75.0
+CU,Cuba,2019,05,212.0
+VE,Venezuela,2019,05,2197.0
+PT,Portugal,2019,05,36.0
+CH,Suiza,2018,05,63.0
+BZ,Belice,2018,05,4.0
+IE,Irlanda,2018,05,1.0
+FR,Francia,2018,05,76.0
+US,Estados Unidos,2018,05,24310.0
+DO,República Dominicana,2018,05,982.0
+BB,Barbados,2018,05,2.0
+AU,Australia,2018,05,35.0
+CU,Cuba,2018,05,291.0
+HN,Honduras,2018,05,119.0
+AR,Argentina,2018,05,530.0
+TT,Trinidad y Tobago,2018,05,2.0
+GT,Guatemala,2018,05,419.0
+BR,Brasil,2018,05,961.0
+IL,Israel,2018,05,23.0
+KY,Islas Caimán,2018,05,1.0
+NL,Países Bajos,2018,05,37.0
+VE,Venezuela,2018,05,2409.0
+EC,Ecuador,2018,05,90.0
+SV,El Salvador,2018,05,483.0
+BE,Bélgica,2018,05,47.0
+CN,China,2018,05,25.0
+BO,Bolivia,2018,05,237.0
+AN,Antillas Neerlandesas,2018,05,950.0
+CL,Chile,2018,05,510.0
+HT,Haití,2018,05,4.0
+BS,Bahamas,2018,05,14.0
+UY,Uruguay,2018,05,96.0
+PR,Puerto Rico,2018,05,274.0
+JP,Japón,2018,05,6.0
+PT,Portugal,2018,05,30.0
+PY,Paraguay,2018,05,123.0
+CA,Canadá,2018,05,573.0
+IT,Italia,2018,05,259.0
+GB,Reino Unido,2018,05,585.0
+PA,Panamá,2018,05,20661.0
+DE,Alemania,2018,05,17.0
+CR,Costa Rica,2018,05,70.0
+ES,España,2018,05,8663.0
+JM,Jamaica,2018,05,7.0
+QA,Qatar,2018,05,5.0
+PE,Perú,2018,05,3135.0
+AT,Austria,2018,05,11.0
+NI,Nicaragua,2018,05,14.0
+MX,México,2018,05,5482.0
+PY,Paraguay,2017,05,24.0
+JP,Japón,2017,05,6.0
+IT,Italia,2017,05,206.0
+KN,San Cristóbal y Nieves,2017,05,1.0
+BS,Bahamas,2017,05,2.0
+FR,Francia,2017,05,69.0
+MX,México,2017,05,4692.0
+GT,Guatemala,2017,05,359.0
+UY,Uruguay,2017,05,128.0
+NI,Nicaragua,2017,05,22.0
+JM,Jamaica,2017,05,4.0
+CA,Canadá,2017,05,401.0
+CN,China,2017,05,37.0
+BE,Bélgica,2017,05,39.0
+BO,Bolivia,2017,05,132.0
+TT,Trinidad y Tobago,2017,05,4.0
+CU,Cuba,2017,05,255.0
+NL,Países Bajos,2017,05,49.0
+TR,Turquía,2017,05,2.0
+EC,Ecuador,2017,05,153.0
+PT,Portugal,2017,05,29.0
+CO,Colombia,2017,05,3971.0
+AN,Antillas Neerlandesas,2017,05,877.0
+PE,Perú,2017,05,2106.0
+HT,Haití,2017,05,10.0
+HN,Honduras,2017,05,146.0
+KY,Islas Caimán,2017,05,2.0
+SV,El Salvador,2017,05,440.0
+BR,Brasil,2017,05,978.0
+US,Estados Unidos,2017,05,22830.0
+CR,Costa Rica,2017,05,72.0
+GB,Reino Unido,2017,05,492.0
+BZ,Belice,2017,05,8.0
+BB,Barbados,2017,05,24.0
+IL,Israel,2017,05,10.0
+AR,Argentina,2017,05,353.0
+AU,Australia,2017,05,33.0
+DE,Alemania,2017,05,51.0
+CH,Suiza,2017,05,39.0
+VE,Venezuela,2017,05,354.0
+QA,Qatar,2017,05,1.0
+PA,Panamá,2017,05,17423.0
+DO,República Dominicana,2017,05,900.0
+ES,España,2017,05,7428.0
+CH,Suiza,2016,05,22.0
+HT,Haití,2016,05,6.0
+PA,Panamá,2016,05,17452.0
+CO,Colombia,2016,05,2972.0
+CU,Cuba,2016,05,242.0
+CR,Costa Rica,2016,05,95.0
+AR,Argentina,2016,05,776.0
+IL,Israel,2016,05,10.0
+SR,Surinam,2016,05,36.0
+NI,Nicaragua,2016,05,34.0
+BR,Brasil,2016,05,1081.0
+VE,Venezuela,2016,05,486.0
+PT,Portugal,2016,05,22.0
+HN,Honduras,2016,05,180.0
+MX,México,2016,05,4485.0
+AN,Antillas Neerlandesas,2016,05,1286.0
+NL,Países Bajos,2016,05,151.0
+BE,Bélgica,2016,05,43.0
+EC,Ecuador,2016,05,34.0
+DO,República Dominicana,2016,05,1008.0
+UY,Uruguay,2016,05,75.0
+CN,China,2016,05,1.0
+BO,Bolivia,2016,05,301.0
+BS,Bahamas,2016,05,6.0
+FR,Francia,2016,05,81.0
+IE,Irlanda,2016,05,11.0
+BZ,Belice,2016,05,14.0
+DK,Dinamarca,2016,05,6.0
+QA,Qatar,2016,05,3.0
+CA,Canadá,2016,05,207.0
+DE,Alemania,2016,05,33.0
+PY,Paraguay,2016,05,56.0
+GT,Guatemala,2016,05,373.0
+JP,Japón,2016,05,5.0
+GB,Reino Unido,2016,05,539.0
+US,Estados Unidos,2016,05,23407.0
+IT,Italia,2016,05,236.0
+TT,Trinidad y Tobago,2016,05,4.0
+AU,Australia,2016,05,33.0
+SV,El Salvador,2016,05,272.0
+SE,Suecia,2016,05,1.0
+BB,Barbados,2016,05,33.0
+ES,España,2016,05,5122.0
+PE,Perú,2016,05,2327.0
+GT,Guatemala,2015,05,206.0
+CO,Colombia,2015,05,2012.0
+KN,San Cristóbal y Nieves,2015,05,1.0
+IT,Italia,2015,05,9.0
+QA,Qatar,2015,05,1.0
+BM,Bermudas,2015,05,1.0
+ES,España,2015,05,3223.0
+DO,República Dominicana,2015,05,726.0
+SR,Surinam,2015,05,3.0
+GB,Reino Unido,2015,05,375.0
+CH,Suiza,2015,05,3.0
+CA,Canadá,2015,05,114.0
+KY,Islas Caimán,2015,05,4.0
+AN,Antillas Neerlandesas,2015,05,966.0
+BO,Bolivia,2015,05,146.0
+US,Estados Unidos,2015,05,18324.0
+PY,Paraguay,2015,05,78.0
+SV,El Salvador,2015,05,221.0
+BZ,Belice,2015,05,14.0
+BS,Bahamas,2015,05,3.0
+MX,México,2015,05,3759.0
+AE,Emiratos Árabes Unidos,2015,05,1.0
+DE,Alemania,2015,05,12.0
+BR,Brasil,2015,05,1161.0
+GY,Guyana,2015,05,1.0
+CR,Costa Rica,2015,05,107.0
+VE,Venezuela,2015,05,318.0
+HN,Honduras,2015,05,78.0
+FR,Francia,2015,05,22.0
+BB,Barbados,2015,05,3.0
+AR,Argentina,2015,05,559.0
+EC,Ecuador,2015,05,40.0
+PA,Panamá,2015,05,14287.0
+CU,Cuba,2015,05,219.0
+NI,Nicaragua,2015,05,15.0
+PE,Perú,2015,05,1760.0
+UY,Uruguay,2015,05,65.0
+KY,Islas Caimán,2014,05,2.0
+SR,Surinam,2014,05,3.0
+PY,Paraguay,2014,05,47.0
+GT,Guatemala,2014,05,168.0
+US,Estados Unidos,2014,05,18451.0
+NI,Nicaragua,2014,05,3.0
+AE,Emiratos Árabes Unidos,2014,05,2.0
+MX,México,2014,05,1802.0
+EC,Ecuador,2014,05,1517.0
+IT,Italia,2014,05,14.0
+CL,Chile,2014,05,22.0
+CU,Cuba,2014,05,118.0
+BB,Barbados,2014,05,4.0
+CA,Canadá,2014,05,230.0
+SV,El Salvador,2014,05,174.0
+CR,Costa Rica,2014,05,61.0
+PA,Panamá,2014,05,12241.0
+BR,Brasil,2014,05,940.0
+BS,Bahamas,2014,05,4.0
+CH,Suiza,2014,05,1.0
+PE,Perú,2014,05,2038.0
+BZ,Belice,2014,05,1.0
+VE,Venezuela,2014,05,1712.0
+ES,España,2014,05,2973.0
+DO,República Dominicana,2014,05,1248.0
+UY,Uruguay,2014,05,119.0
+DE,Alemania,2014,05,8.0
+GB,Reino Unido,2014,05,100.0
+CO,Colombia,2014,05,22.0
+BO,Bolivia,2014,05,111.0
+HN,Honduras,2014,05,58.0
+AR,Argentina,2014,05,526.0
+AN,Antillas Neerlandesas,2014,05,988.0
+FR,Francia,2014,05,31.0
+GT,Guatemala,2013,05,78.0
+ES,España,2013,05,3068.0
+MX,México,2013,05,1216.0
+SV,El Salvador,2013,05,131.0
+KY,Islas Caimán,2013,05,2.0
+CU,Cuba,2013,05,120.0
+GB,Reino Unido,2013,05,54.0
+BO,Bolivia,2013,05,74.0
+PE,Perú,2013,05,1629.0
+DE,Alemania,2013,05,5.0
+PA,Panamá,2013,05,11930.0
+US,Estados Unidos,2013,05,14708.0
+VE,Venezuela,2013,05,1468.0
+CA,Canadá,2013,05,164.0
+NI,Nicaragua,2013,05,13.0
+AN,Antillas Neerlandesas,2013,05,992.0
+IT,Italia,2013,05,5.0
+EC,Ecuador,2013,05,2348.0
+UY,Uruguay,2013,05,23.0
+CL,Chile,2013,05,1.0
+AR,Argentina,2013,05,354.0
+HT,Haití,2013,05,3.0
+HN,Honduras,2013,05,59.0
+BR,Brasil,2013,05,857.0
+DO,República Dominicana,2013,05,572.0
+PY,Paraguay,2013,05,8.0
+CR,Costa Rica,2013,05,145.0
+FR,Francia,2013,05,18.0
+BZ,Belice,2013,05,14.0
+PT,Portugal,2013,05,1.0
+BS,Bahamas,2013,05,10.0
+CO,Colombia,2013,05,251.0
+TT,Trinidad y Tobago,2012,05,1.0
+IT,Italia,2012,05,2.0
+US,Estados Unidos,2012,05,13184.0
+SV,El Salvador,2012,05,248.0
+FR,Francia,2012,05,10.0
+HN,Honduras,2012,05,41.0
+CU,Cuba,2012,05,42.0
+CR,Costa Rica,2012,05,744.0
+GT,Guatemala,2012,05,1.0
+CA,Canadá,2012,05,160.0
+EC,Ecuador,2012,05,2572.0
+BR,Brasil,2012,05,555.0
+VE,Venezuela,2012,05,1267.0
+MX,México,2012,05,770.0
+ES,España,2012,05,2205.0
+KY,Islas Caimán,2012,05,1.0
+BB,Barbados,2012,05,2.0
+BO,Bolivia,2012,05,27.0
+PA,Panamá,2012,05,9106.0
+AN,Antillas Neerlandesas,2012,05,943.0
+PE,Perú,2012,05,999.0
+JM,Jamaica,2012,05,4.0
+AR,Argentina,2012,05,175.0
+CO,Colombia,2012,05,184.0
+DO,República Dominicana,2012,05,344.0
+GB,Reino Unido,2012,05,40.0
+DE,Alemania,2012,05,3.0
+AN,Antillas Neerlandesas,2011,05,734.0
+TT,Trinidad y Tobago,2011,05,39.0
+IT,Italia,2011,05,1.0
+CL,Chile,2011,05,5.0
+PY,Paraguay,2011,05,34.0
+ES,España,2011,05,2296.0
+FR,Francia,2011,05,6.0
+DO,República Dominicana,2011,05,456.0
+HN,Honduras,2011,05,53.0
+NI,Nicaragua,2011,05,4.0
+KY,Islas Caimán,2011,05,3.0
+CH,Suiza,2011,05,5.0
+BS,Bahamas,2011,05,1.0
+BO,Bolivia,2011,05,63.0
+US,Estados Unidos,2011,05,13149.0
+CA,Canadá,2011,05,115.0
+CU,Cuba,2011,05,116.0
+SV,El Salvador,2011,05,206.0
+BR,Brasil,2011,05,657.0
+VE,Venezuela,2011,05,942.0
+CO,Colombia,2011,05,171.0
+PA,Panamá,2011,05,6926.0
+UY,Uruguay,2011,05,32.0
+EC,Ecuador,2011,05,2065.0
+NL,Países Bajos,2011,05,1.0
+HT,Haití,2011,05,1.0
+BB,Barbados,2011,05,2.0
+AR,Argentina,2011,05,626.0
+DE,Alemania,2011,05,6.0
+GB,Reino Unido,2011,05,42.0
+MX,México,2011,05,1013.0
+GT,Guatemala,2011,05,134.0
+CR,Costa Rica,2011,05,482.0
+PE,Perú,2011,05,1547.0
+PE,Perú,2010,05,1536.0
+UY,Uruguay,2010,05,37.0
+CR,Costa Rica,2010,05,277.0
+NI,Nicaragua,2010,05,10.0
+HT,Haití,2010,05,2.0
+PA,Panamá,2010,05,5688.0
+HN,Honduras,2010,05,41.0
+EC,Ecuador,2010,05,3423.0
+BS,Bahamas,2010,05,3.0
+GB,Reino Unido,2010,05,55.0
+GT,Guatemala,2010,05,82.0
+BR,Brasil,2010,05,489.0
+PY,Paraguay,2010,05,4.0
+CO,Colombia,2010,05,115.0
+BO,Bolivia,2010,05,68.0
+ES,España,2010,05,1643.0
+CU,Cuba,2010,05,95.0
+VE,Venezuela,2010,05,1013.0
+AN,Antillas Neerlandesas,2010,05,366.0
+KY,Islas Caimán,2010,05,1.0
+SV,El Salvador,2010,05,14.0
+AR,Argentina,2010,05,564.0
+MX,México,2010,05,436.0
+DO,República Dominicana,2010,05,318.0
+TT,Trinidad y Tobago,2010,05,35.0
+CH,Suiza,2010,05,1.0
+DE,Alemania,2010,05,3.0
+JM,Jamaica,2010,05,1.0
+FR,Francia,2010,05,10.0
+CA,Canadá,2010,05,98.0
+US,Estados Unidos,2010,05,14130.0
+PE,Perú,2009,05,1807.0
+GT,Guatemala,2009,05,47.0
+AR,Argentina,2009,05,409.0
+BS,Bahamas,2009,05,1.0
+BO,Bolivia,2009,05,48.0
+NI,Nicaragua,2009,05,6.0
+GB,Reino Unido,2009,05,40.0
+HN,Honduras,2009,05,18.0
+US,Estados Unidos,2009,05,13221.0
+CR,Costa Rica,2009,05,126.0
+BR,Brasil,2009,05,345.0
+VE,Venezuela,2009,05,1350.0
+PA,Panamá,2009,05,5100.0
+CU,Cuba,2009,05,27.0
+HT,Haití,2009,05,7.0
+PY,Paraguay,2009,05,11.0
+BB,Barbados,2009,05,1.0
+TT,Trinidad y Tobago,2009,05,19.0
+ES,España,2009,05,1464.0
+KY,Islas Caimán,2009,05,2.0
+DO,República Dominicana,2009,05,190.0
+CO,Colombia,2009,05,139.0
+DE,Alemania,2009,05,9.0
+EC,Ecuador,2009,05,1562.0
+CA,Canadá,2009,05,138.0
+MX,México,2009,05,166.0
+AN,Antillas Neerlandesas,2009,05,451.0
+IT,Italia,2009,05,4.0
+UY,Uruguay,2009,05,61.0
+FR,Francia,2009,05,29.0
+IL,Israel,2008,05,1.0
+IT,Italia,2008,05,81.0
+JM,Jamaica,2008,05,1.0
+NI,Nicaragua,2008,05,43.0
+DO,República Dominicana,2008,05,250.0
+PE,Perú,2008,05,901.0
+MX,México,2008,05,499.0
+FR,Francia,2008,05,13.0
+BM,Bermudas,2008,05,1.0
+GT,Guatemala,2008,05,62.0
+SV,El Salvador,2008,05,23.0
+BB,Barbados,2008,05,1.0
+CO,Colombia,2008,05,183.0
+PA,Panamá,2008,05,5128.0
+BS,Bahamas,2008,05,1.0
+CA,Canadá,2008,05,130.0
+DE,Alemania,2008,05,6.0
+GB,Reino Unido,2008,05,80.0
+KY,Islas Caimán,2008,05,1.0
+VE,Venezuela,2008,05,1167.0
+CU,Cuba,2008,05,283.0
+AN,Antillas Neerlandesas,2008,05,400.0
+UY,Uruguay,2008,05,5.0
+HN,Honduras,2008,05,66.0
+EC,Ecuador,2008,05,1513.0
+BO,Bolivia,2008,05,1.0
+GY,Guyana,2008,05,1.0
+HT,Haití,2008,05,4.0
+AR,Argentina,2008,05,568.0
+TT,Trinidad y Tobago,2008,05,44.0
+ES,España,2008,05,1063.0
+BR,Brasil,2008,05,427.0
+US,Estados Unidos,2008,05,10289.0
+CR,Costa Rica,2008,05,198.0
+TT,Trinidad y Tobago,2007,05,11.0
+DE,Alemania,2007,05,5.0
+ES,España,2007,05,946.0
+NI,Nicaragua,2007,05,6.0
+MX,México,2007,05,408.0
+GB,Reino Unido,2007,05,72.0
+BB,Barbados,2007,05,2.0
+JM,Jamaica,2007,05,1.0
+VE,Venezuela,2007,05,1810.0
+FR,Francia,2007,05,11.0
+CA,Canadá,2007,05,96.0
+BM,Bermudas,2007,05,1.0
+CR,Costa Rica,2007,05,130.0
+US,Estados Unidos,2007,05,9904.0
+CU,Cuba,2007,05,114.0
+BR,Brasil,2007,05,331.0
+AN,Antillas Neerlandesas,2007,05,426.0
+PA,Panamá,2007,05,4195.0
+CH,Suiza,2007,05,1.0
+GT,Guatemala,2007,05,103.0
+SV,El Salvador,2007,05,66.0
+DO,República Dominicana,2007,05,195.0
+UY,Uruguay,2007,05,17.0
+HN,Honduras,2007,05,21.0
+BS,Bahamas,2007,05,1.0
+CO,Colombia,2007,05,154.0
+HT,Haití,2007,05,5.0
+AR,Argentina,2007,05,415.0
+PE,Perú,2007,05,351.0
+EC,Ecuador,2007,05,1211.0
+KY,Islas Caimán,2007,05,2.0
+IT,Italia,2007,05,1.0
+FR,Francia,2022,04,92.0
+BE,Bélgica,2022,04,109.0
+BS,Bahamas,2022,04,2.0
+GT,Guatemala,2022,04,213.0
+US,Estados Unidos,2022,04,40393.0
+DO,República Dominicana,2022,04,8204.0
+AN,Antillas Neerlandesas,2022,04,696.0
+CL,Chile,2022,04,1234.0
+PR,Puerto Rico,2022,04,945.0
+SR,Surinam,2022,04,4.0
+JM,Jamaica,2022,04,1.0
+CR,Costa Rica,2022,04,1574.0
+CA,Canadá,2022,04,599.0
+PE,Perú,2022,04,4101.0
+AR,Argentina,2022,04,199.0
+BR,Brasil,2022,04,564.0
+SV,El Salvador,2022,04,41.0
+PA,Panamá,2022,04,24398.0
+EC,Ecuador,2022,04,231.0
+ES,España,2022,04,7826.0
+IT,Italia,2022,04,211.0
+NL,Países Bajos,2022,04,109.0
+CH,Suiza,2022,04,91.0
+GB,Reino Unido,2022,04,730.0
+BO,Bolivia,2022,04,62.0
+DK,Dinamarca,2022,04,1.0
+PY,Paraguay,2022,04,74.0
+MX,México,2022,04,19442.0
+PT,Portugal,2022,04,126.0
+HN,Honduras,2022,04,9.0
+UY,Uruguay,2022,04,36.0
+NI,Nicaragua,2022,04,6.0
+DE,Alemania,2022,04,178.0
+EC,Ecuador,2021,04,52.0
+QA,Qatar,2021,04,5.0
+CL,Chile,2021,04,64.0
+PA,Panamá,2021,04,9332.0
+PY,Paraguay,2021,04,44.0
+GB,Reino Unido,2021,04,2.0
+CR,Costa Rica,2021,04,77.0
+HT,Haití,2021,04,3.0
+JM,Jamaica,2021,04,1.0
+GT,Guatemala,2021,04,49.0
+SV,El Salvador,2021,04,3.0
+DO,República Dominicana,2021,04,359.0
+BR,Brasil,2021,04,13.0
+DK,Dinamarca,2021,04,18.0
+AG,Antigua and Barbuda,2021,04,1.0
+US,Estados Unidos,2021,04,26036.0
+KR,Corea del Sur,2021,04,4.0
+DE,Alemania,2021,04,0.0
+AN,Antillas Neerlandesas,2021,04,159.0
+ES,España,2021,04,876.0
+BS,Bahamas,2021,04,5.0
+FR,Francia,2021,04,1.0
+CA,Canadá,2021,04,1.0
+MX,México,2021,04,5127.0
+HN,Honduras,2021,04,6.0
+NL,Países Bajos,2021,04,2.0
+PE,Perú,2021,04,518.0
+AR,Argentina,2021,04,57.0
+PR,Puerto Rico,2021,04,91.0
+BZ,Belice,2021,04,1.0
+IL,Israel,2021,04,2.0
+IE,Irlanda,2021,04,1.0
+MX,México,2020,04,38.0
+EC,Ecuador,2020,04,0.0
+DO,República Dominicana,2020,04,0.0
+US,Estados Unidos,2020,04,344.0
+PE,Perú,2020,04,691.0
+SV,El Salvador,2019,04,1584.0
+BB,Barbados,2019,04,2.0
+BS,Bahamas,2019,04,23.0
+SE,Suecia,2019,04,1.0
+IT,Italia,2019,04,252.0
+NL,Países Bajos,2019,04,37.0
+BE,Bélgica,2019,04,31.0
+PE,Perú,2019,04,5314.0
+CN,China,2019,04,10.0
+BZ,Belice,2019,04,13.0
+PT,Portugal,2019,04,30.0
+DE,Alemania,2019,04,414.0
+DO,República Dominicana,2019,04,956.0
+CR,Costa Rica,2019,04,49.0
+PY,Paraguay,2019,04,59.0
+NI,Nicaragua,2019,04,34.0
+PA,Panamá,2019,04,19861.0
+AR,Argentina,2019,04,1017.0
+DK,Dinamarca,2019,04,3.0
+QA,Qatar,2019,04,4.0
+BR,Brasil,2019,04,960.0
+JM,Jamaica,2019,04,4.0
+AN,Antillas Neerlandesas,2019,04,628.0
+JP,Japón,2019,04,22.0
+AT,Austria,2019,04,19.0
+GT,Guatemala,2019,04,417.0
+IL,Israel,2019,04,10.0
+HN,Honduras,2019,04,164.0
+UY,Uruguay,2019,04,97.0
+EC,Ecuador,2019,04,15.0
+ES,España,2019,04,6890.0
+VE,Venezuela,2019,04,1928.0
+KY,Islas Caimán,2019,04,12.0
+US,Estados Unidos,2019,04,27588.0
+MX,México,2019,04,5832.0
+CL,Chile,2019,04,1532.0
+FR,Francia,2019,04,142.0
+KR,Corea del Sur,2019,04,17.0
+GB,Reino Unido,2019,04,657.0
+CH,Suiza,2019,04,57.0
+BO,Bolivia,2019,04,55.0
+CA,Canadá,2019,04,214.0
+CU,Cuba,2019,04,243.0
+PR,Puerto Rico,2019,04,389.0
+IL,Israel,2018,04,22.0
+VE,Venezuela,2018,04,3079.0
+CN,China,2018,04,9.0
+BR,Brasil,2018,04,928.0
+CH,Suiza,2018,04,102.0
+CA,Canadá,2018,04,502.0
+SV,El Salvador,2018,04,694.0
+UY,Uruguay,2018,04,178.0
+QA,Qatar,2018,04,4.0
+CR,Costa Rica,2018,04,86.0
+AN,Antillas Neerlandesas,2018,04,1061.0
+IT,Italia,2018,04,268.0
+US,Estados Unidos,2018,04,23414.0
+PY,Paraguay,2018,04,56.0
+FR,Francia,2018,04,91.0
+MX,México,2018,04,5455.0
+DE,Alemania,2018,04,63.0
+HN,Honduras,2018,04,106.0
+JP,Japón,2018,04,5.0
+GB,Reino Unido,2018,04,927.0
+LU,Luxemburgo,2018,04,1.0
+CL,Chile,2018,04,597.0
+PE,Perú,2018,04,3215.0
+PT,Portugal,2018,04,18.0
+AT,Austria,2018,04,34.0
+BS,Bahamas,2018,04,10.0
+PR,Puerto Rico,2018,04,333.0
+EC,Ecuador,2018,04,14.0
+CU,Cuba,2018,04,204.0
+DO,República Dominicana,2018,04,781.0
+KR,Corea del Sur,2018,04,4.0
+NI,Nicaragua,2018,04,25.0
+PA,Panamá,2018,04,20449.0
+NL,Países Bajos,2018,04,31.0
+GT,Guatemala,2018,04,382.0
+BZ,Belice,2018,04,25.0
+BE,Bélgica,2018,04,49.0
+AU,Australia,2018,04,31.0
+BB,Barbados,2018,04,2.0
+IE,Irlanda,2018,04,3.0
+AR,Argentina,2018,04,571.0
+JM,Jamaica,2018,04,10.0
+BO,Bolivia,2018,04,273.0
+KY,Islas Caimán,2018,04,1.0
+ES,España,2018,04,7414.0
+GT,Guatemala,2017,04,413.0
+ES,España,2017,04,6231.0
+IL,Israel,2017,04,11.0
+PT,Portugal,2017,04,43.0
+AR,Argentina,2017,04,488.0
+PY,Paraguay,2017,04,30.0
+DK,Dinamarca,2017,04,1.0
+CO,Colombia,2017,04,4920.0
+NI,Nicaragua,2017,04,23.0
+JP,Japón,2017,04,16.0
+AU,Australia,2017,04,77.0
+PA,Panamá,2017,04,16568.0
+DO,República Dominicana,2017,04,1025.0
+UY,Uruguay,2017,04,67.0
+SV,El Salvador,2017,04,383.0
+DE,Alemania,2017,04,53.0
+BZ,Belice,2017,04,22.0
+CH,Suiza,2017,04,54.0
+IT,Italia,2017,04,210.0
+TT,Trinidad y Tobago,2017,04,2.0
+MX,México,2017,04,4791.0
+CR,Costa Rica,2017,04,92.0
+NL,Países Bajos,2017,04,48.0
+JM,Jamaica,2017,04,1.0
+GB,Reino Unido,2017,04,525.0
+EC,Ecuador,2017,04,79.0
+AN,Antillas Neerlandesas,2017,04,879.0
+HT,Haití,2017,04,2.0
+PE,Perú,2017,04,2287.0
+FR,Francia,2017,04,44.0
+KY,Islas Caimán,2017,04,2.0
+HN,Honduras,2017,04,131.0
+VE,Venezuela,2017,04,493.0
+QA,Qatar,2017,04,2.0
+BR,Brasil,2017,04,1112.0
+BB,Barbados,2017,04,22.0
+BO,Bolivia,2017,04,127.0
+CA,Canadá,2017,04,392.0
+US,Estados Unidos,2017,04,23856.0
+BE,Bélgica,2017,04,47.0
+CU,Cuba,2017,04,193.0
+CN,China,2017,04,8.0
+BS,Bahamas,2017,04,16.0
+BE,Bélgica,2016,04,62.0
+HN,Honduras,2016,04,99.0
+GB,Reino Unido,2016,04,430.0
+BB,Barbados,2016,04,7.0
+LU,Luxemburgo,2016,04,1.0
+GT,Guatemala,2016,04,326.0
+BR,Brasil,2016,04,1139.0
+MX,México,2016,04,3591.0
+PY,Paraguay,2016,04,56.0
+QA,Qatar,2016,04,7.0
+IT,Italia,2016,04,170.0
+KN,San Cristóbal y Nieves,2016,04,1.0
+DK,Dinamarca,2016,04,8.0
+CR,Costa Rica,2016,04,113.0
+PE,Perú,2016,04,1552.0
+PA,Panamá,2016,04,13413.0
+SV,El Salvador,2016,04,234.0
+TT,Trinidad y Tobago,2016,04,3.0
+VE,Venezuela,2016,04,389.0
+IE,Irlanda,2016,04,4.0
+DE,Alemania,2016,04,36.0
+CA,Canadá,2016,04,201.0
+AU,Australia,2016,04,55.0
+NL,Países Bajos,2016,04,124.0
+PT,Portugal,2016,04,14.0
+AR,Argentina,2016,04,651.0
+SR,Surinam,2016,04,16.0
+UY,Uruguay,2016,04,97.0
+NI,Nicaragua,2016,04,25.0
+BO,Bolivia,2016,04,221.0
+DO,República Dominicana,2016,04,880.0
+CU,Cuba,2016,04,133.0
+AN,Antillas Neerlandesas,2016,04,1095.0
+CO,Colombia,2016,04,2940.0
+ES,España,2016,04,4034.0
+BZ,Belice,2016,04,7.0
+IL,Israel,2016,04,10.0
+CH,Suiza,2016,04,41.0
+CN,China,2016,04,2.0
+FR,Francia,2016,04,38.0
+BS,Bahamas,2016,04,8.0
+EC,Ecuador,2016,04,18.0
+US,Estados Unidos,2016,04,20795.0
+CA,Canadá,2015,04,121.0
+GB,Reino Unido,2015,04,265.0
+EC,Ecuador,2015,04,37.0
+QA,Qatar,2015,04,1.0
+PA,Panamá,2015,04,12256.0
+VE,Venezuela,2015,04,273.0
+PE,Perú,2015,04,1342.0
+BS,Bahamas,2015,04,5.0
+US,Estados Unidos,2015,04,16670.0
+DE,Alemania,2015,04,8.0
+BR,Brasil,2015,04,1057.0
+FR,Francia,2015,04,25.0
+AR,Argentina,2015,04,628.0
+SV,El Salvador,2015,04,275.0
+IT,Italia,2015,04,17.0
+AN,Antillas Neerlandesas,2015,04,1068.0
+NI,Nicaragua,2015,04,6.0
+HN,Honduras,2015,04,128.0
+MX,México,2015,04,3394.0
+SR,Surinam,2015,04,5.0
+PY,Paraguay,2015,04,76.0
+CO,Colombia,2015,04,1942.0
+KN,San Cristóbal y Nieves,2015,04,1.0
+CU,Cuba,2015,04,95.0
+CR,Costa Rica,2015,04,85.0
+UY,Uruguay,2015,04,71.0
+BB,Barbados,2015,04,2.0
+BZ,Belice,2015,04,18.0
+BO,Bolivia,2015,04,133.0
+AU,Australia,2015,04,1.0
+ES,España,2015,04,2500.0
+GT,Guatemala,2015,04,197.0
+KY,Islas Caimán,2015,04,8.0
+DO,República Dominicana,2015,04,508.0
+AE,Emiratos Árabes Unidos,2014,04,1.0
+BZ,Belice,2014,04,3.0
+GT,Guatemala,2014,04,183.0
+TT,Trinidad y Tobago,2014,04,1.0
+VE,Venezuela,2014,04,1219.0
+UY,Uruguay,2014,04,100.0
+FR,Francia,2014,04,37.0
+MX,México,2014,04,2010.0
+CA,Canadá,2014,04,200.0
+DE,Alemania,2014,04,5.0
+CL,Chile,2014,04,13.0
+IT,Italia,2014,04,4.0
+GB,Reino Unido,2014,04,83.0
+PA,Panamá,2014,04,12821.0
+AN,Antillas Neerlandesas,2014,04,1130.0
+BS,Bahamas,2014,04,19.0
+CO,Colombia,2014,04,31.0
+EC,Ecuador,2014,04,1674.0
+BR,Brasil,2014,04,1375.0
+PY,Paraguay,2014,04,37.0
+HN,Honduras,2014,04,85.0
+DO,República Dominicana,2014,04,1189.0
+PE,Perú,2014,04,2206.0
+NI,Nicaragua,2014,04,8.0
+BM,Bermudas,2014,04,1.0
+BO,Bolivia,2014,04,224.0
+CU,Cuba,2014,04,172.0
+SV,El Salvador,2014,04,189.0
+HT,Haití,2014,04,20.0
+ES,España,2014,04,2700.0
+AR,Argentina,2014,04,534.0
+SR,Surinam,2014,04,2.0
+CR,Costa Rica,2014,04,66.0
+US,Estados Unidos,2014,04,20037.0
+JM,Jamaica,2014,04,4.0
+DO,República Dominicana,2013,04,488.0
+BM,Bermudas,2013,04,2.0
+CO,Colombia,2013,04,175.0
+PA,Panamá,2013,04,10030.0
+PY,Paraguay,2013,04,7.0
+US,Estados Unidos,2013,04,13795.0
+SV,El Salvador,2013,04,198.0
+CR,Costa Rica,2013,04,274.0
+SR,Surinam,2013,04,1.0
+BR,Brasil,2013,04,703.0
+KY,Islas Caimán,2013,04,4.0
+VE,Venezuela,2013,04,1343.0
+CL,Chile,2013,04,1.0
+TT,Trinidad y Tobago,2013,04,2.0
+PE,Perú,2013,04,1457.0
+NI,Nicaragua,2013,04,9.0
+ES,España,2013,04,2317.0
+AN,Antillas Neerlandesas,2013,04,1278.0
+EC,Ecuador,2013,04,2415.0
+BZ,Belice,2013,04,2.0
+HN,Honduras,2013,04,58.0
+CA,Canadá,2013,04,153.0
+UY,Uruguay,2013,04,45.0
+GB,Reino Unido,2013,04,51.0
+GT,Guatemala,2013,04,88.0
+HT,Haití,2013,04,3.0
+AR,Argentina,2013,04,393.0
+IT,Italia,2013,04,2.0
+BS,Bahamas,2013,04,7.0
+CU,Cuba,2013,04,86.0
+DE,Alemania,2013,04,4.0
+CH,Suiza,2013,04,1.0
+FR,Francia,2013,04,14.0
+BO,Bolivia,2013,04,55.0
+MX,México,2013,04,1028.0
+AR,Argentina,2012,04,250.0
+EC,Ecuador,2012,04,2486.0
+CA,Canadá,2012,04,99.0
+SV,El Salvador,2012,04,149.0
+SR,Surinam,2012,04,1.0
+CO,Colombia,2012,04,168.0
+DO,República Dominicana,2012,04,529.0
+DE,Alemania,2012,04,2.0
+US,Estados Unidos,2012,04,12456.0
+CU,Cuba,2012,04,19.0
+BB,Barbados,2012,04,3.0
+PA,Panamá,2012,04,9052.0
+BR,Brasil,2012,04,464.0
+PE,Perú,2012,04,1045.0
+CR,Costa Rica,2012,04,775.0
+IT,Italia,2012,04,2.0
+HT,Haití,2012,04,1.0
+VE,Venezuela,2012,04,1237.0
+ES,España,2012,04,1937.0
+AN,Antillas Neerlandesas,2012,04,750.0
+HN,Honduras,2012,04,38.0
+BO,Bolivia,2012,04,24.0
+BM,Bermudas,2012,04,2.0
+MX,México,2012,04,722.0
+FR,Francia,2012,04,10.0
+GB,Reino Unido,2012,04,30.0
+US,Estados Unidos,2011,04,13512.0
+BO,Bolivia,2011,04,95.0
+HT,Haití,2011,04,7.0
+DO,República Dominicana,2011,04,530.0
+VE,Venezuela,2011,04,1159.0
+AN,Antillas Neerlandesas,2011,04,689.0
+CR,Costa Rica,2011,04,492.0
+ES,España,2011,04,2276.0
+CO,Colombia,2011,04,213.0
+BM,Bermudas,2011,04,1.0
+CU,Cuba,2011,04,203.0
+HN,Honduras,2011,04,49.0
+CA,Canadá,2011,04,130.0
+DE,Alemania,2011,04,3.0
+PY,Paraguay,2011,04,8.0
+FR,Francia,2011,04,5.0
+MX,México,2011,04,893.0
+EC,Ecuador,2011,04,2531.0
+JM,Jamaica,2011,04,2.0
+AE,Emiratos Árabes Unidos,2011,04,1.0
+GB,Reino Unido,2011,04,30.0
+SV,El Salvador,2011,04,165.0
+CL,Chile,2011,04,5.0
+UY,Uruguay,2011,04,32.0
+BR,Brasil,2011,04,615.0
+BS,Bahamas,2011,04,10.0
+TT,Trinidad y Tobago,2011,04,63.0
+AU,Australia,2011,04,1.0
+GT,Guatemala,2011,04,133.0
+NI,Nicaragua,2011,04,9.0
+PE,Perú,2011,04,1791.0
+AR,Argentina,2011,04,714.0
+KY,Islas Caimán,2011,04,1.0
+PA,Panamá,2011,04,6630.0
+PE,Perú,2010,04,1559.0
+SV,El Salvador,2010,04,19.0
+AU,Australia,2010,04,1.0
+HT,Haití,2010,04,7.0
+BS,Bahamas,2010,04,5.0
+DE,Alemania,2010,04,14.0
+DO,República Dominicana,2010,04,452.0
+UY,Uruguay,2010,04,69.0
+MX,México,2010,04,344.0
+CA,Canadá,2010,04,166.0
+TT,Trinidad y Tobago,2010,04,62.0
+HK,Hong Kong,2010,04,3.0
+VE,Venezuela,2010,04,1079.0
+CR,Costa Rica,2010,04,255.0
+CU,Cuba,2010,04,75.0
+US,Estados Unidos,2010,04,12598.0
+GB,Reino Unido,2010,04,36.0
+BM,Bermudas,2010,04,3.0
+GT,Guatemala,2010,04,148.0
+HN,Honduras,2010,04,58.0
+AR,Argentina,2010,04,636.0
+PA,Panamá,2010,04,5473.0
+ES,España,2010,04,1430.0
+AN,Antillas Neerlandesas,2010,04,366.0
+PY,Paraguay,2010,04,42.0
+CO,Colombia,2010,04,138.0
+NI,Nicaragua,2010,04,2.0
+BO,Bolivia,2010,04,76.0
+BZ,Belice,2010,04,1.0
+EC,Ecuador,2010,04,2275.0
+BR,Brasil,2010,04,561.0
+CN,China,2010,04,2.0
+FR,Francia,2010,04,9.0
+IE,Irlanda,2010,04,2.0
+PE,Perú,2009,04,2078.0
+CR,Costa Rica,2009,04,126.0
+ES,España,2009,04,1399.0
+UY,Uruguay,2009,04,82.0
+TT,Trinidad y Tobago,2009,04,66.0
+BS,Bahamas,2009,04,7.0
+US,Estados Unidos,2009,04,13663.0
+JM,Jamaica,2009,04,2.0
+BB,Barbados,2009,04,1.0
+CU,Cuba,2009,04,94.0
+VE,Venezuela,2009,04,1712.0
+SV,El Salvador,2009,04,5.0
+FR,Francia,2009,04,6.0
+MX,México,2009,04,341.0
+NI,Nicaragua,2009,04,12.0
+IT,Italia,2009,04,1.0
+PA,Panamá,2009,04,5364.0
+DE,Alemania,2009,04,15.0
+CA,Canadá,2009,04,138.0
+AR,Argentina,2009,04,652.0
+HT,Haití,2009,04,16.0
+EC,Ecuador,2009,04,1524.0
+CH,Suiza,2009,04,1.0
+BR,Brasil,2009,04,435.0
+KY,Islas Caimán,2009,04,5.0
+GT,Guatemala,2009,04,93.0
+DO,República Dominicana,2009,04,199.0
+CO,Colombia,2009,04,141.0
+AN,Antillas Neerlandesas,2009,04,488.0
+GB,Reino Unido,2009,04,44.0
+PY,Paraguay,2009,04,11.0
+HN,Honduras,2009,04,49.0
+BO,Bolivia,2009,04,43.0
+AR,Argentina,2008,04,461.0
+CR,Costa Rica,2008,04,219.0
+GT,Guatemala,2008,04,99.0
+IT,Italia,2008,04,6.0
+TT,Trinidad y Tobago,2008,04,24.0
+GB,Reino Unido,2008,04,53.0
+PA,Panamá,2008,04,3407.0
+MX,México,2008,04,490.0
+HN,Honduras,2008,04,26.0
+AN,Antillas Neerlandesas,2008,04,384.0
+US,Estados Unidos,2008,04,9399.0
+CA,Canadá,2008,04,116.0
+BR,Brasil,2008,04,443.0
+NL,Países Bajos,2008,04,2.0
+SV,El Salvador,2008,04,48.0
+VE,Venezuela,2008,04,1162.0
+BS,Bahamas,2008,04,3.0
+ES,España,2008,04,1055.0
+BB,Barbados,2008,04,3.0
+CU,Cuba,2008,04,51.0
+CO,Colombia,2008,04,197.0
+NI,Nicaragua,2008,04,9.0
+IL,Israel,2008,04,1.0
+HT,Haití,2008,04,5.0
+DE,Alemania,2008,04,18.0
+PE,Perú,2008,04,605.0
+KY,Islas Caimán,2008,04,2.0
+FR,Francia,2008,04,12.0
+UY,Uruguay,2008,04,3.0
+DO,República Dominicana,2008,04,271.0
+EC,Ecuador,2008,04,945.0
+CH,Suiza,2008,04,3.0
+HN,Honduras,2007,04,16.0
+BR,Brasil,2007,04,322.0
+KY,Islas Caimán,2007,04,1.0
+MX,México,2007,04,488.0
+CR,Costa Rica,2007,04,662.0
+DO,República Dominicana,2007,04,195.0
+BO,Bolivia,2007,04,5.0
+JM,Jamaica,2007,04,1.0
+PE,Perú,2007,04,424.0
+HT,Haití,2007,04,1.0
+CA,Canadá,2007,04,82.0
+GB,Reino Unido,2007,04,49.0
+BS,Bahamas,2007,04,2.0
+AN,Antillas Neerlandesas,2007,04,510.0
+DE,Alemania,2007,04,15.0
+GT,Guatemala,2007,04,629.0
+ES,España,2007,04,793.0
+FR,Francia,2007,04,15.0
+CU,Cuba,2007,04,121.0
+AR,Argentina,2007,04,469.0
+BB,Barbados,2007,04,1.0
+CO,Colombia,2007,04,138.0
+SV,El Salvador,2007,04,33.0
+US,Estados Unidos,2007,04,9419.0
+TT,Trinidad y Tobago,2007,04,8.0
+IT,Italia,2007,04,3.0
+VE,Venezuela,2007,04,2042.0
+PA,Panamá,2007,04,4010.0
+EC,Ecuador,2007,04,1359.0
+UY,Uruguay,2007,04,17.0
+NI,Nicaragua,2007,04,11.0
+CH,Suiza,2007,04,1.0
+PR,Puerto Rico,2022,03,512.0
+IL,Israel,2022,03,8.0
+DE,Alemania,2022,03,160.0
+JM,Jamaica,2022,03,4.0
+HN,Honduras,2022,03,5.0
+CH,Suiza,2022,03,70.0
+KR,Corea del Sur,2022,03,1.0
+GB,Reino Unido,2022,03,360.0
+US,Estados Unidos,2022,03,38461.0
+BE,Bélgica,2022,03,106.0
+PT,Portugal,2022,03,124.0
+TT,Trinidad y Tobago,2022,03,1.0
+ES,España,2022,03,5608.0
+SE,Suecia,2022,03,1.0
+PA,Panamá,2022,03,25071.0
+CA,Canadá,2022,03,463.0
+MX,México,2022,03,15030.0
+CU,Cuba,2022,03,1.0
+UY,Uruguay,2022,03,40.0
+NI,Nicaragua,2022,03,10.0
+BZ,Belice,2022,03,2.0
+IT,Italia,2022,03,233.0
+AR,Argentina,2022,03,238.0
+CR,Costa Rica,2022,03,407.0
+BO,Bolivia,2022,03,52.0
+DO,República Dominicana,2022,03,4829.0
+BR,Brasil,2022,03,398.0
+AN,Antillas Neerlandesas,2022,03,570.0
+GT,Guatemala,2022,03,84.0
+RO,Rumania,2022,03,1.0
+BB,Barbados,2022,03,3.0
+PY,Paraguay,2022,03,26.0
+GR,Grecia,2022,03,1.0
+QA,Qatar,2022,03,8.0
+NL,Países Bajos,2022,03,95.0
+SV,El Salvador,2022,03,15.0
+EC,Ecuador,2022,03,416.0
+CL,Chile,2022,03,1797.0
+PE,Perú,2022,03,2292.0
+SR,Surinam,2022,03,1.0
+FR,Francia,2022,03,126.0
+AE,Emiratos Árabes Unidos,2022,03,2.0
+FR,Francia,2021,03,4.0
+AR,Argentina,2021,03,107.0
+CL,Chile,2021,03,176.0
+NL,Países Bajos,2021,03,2.0
+MX,México,2021,03,3788.0
+BS,Bahamas,2021,03,24.0
+PY,Paraguay,2021,03,83.0
+US,Estados Unidos,2021,03,24374.0
+KR,Corea del Sur,2021,03,1.0
+JP,Japón,2021,03,0.0
+EC,Ecuador,2021,03,88.0
+PA,Panamá,2021,03,11306.0
+SV,El Salvador,2021,03,8.0
+IT,Italia,2021,03,2.0
+PR,Puerto Rico,2021,03,179.0
+CA,Canadá,2021,03,0.0
+KY,Islas Caimán,2021,03,1.0
+HN,Honduras,2021,03,26.0
+DO,República Dominicana,2021,03,371.0
+HT,Haití,2021,03,0.0
+CR,Costa Rica,2021,03,79.0
+BR,Brasil,2021,03,1.0
+ES,España,2021,03,812.0
+JM,Jamaica,2021,03,21.0
+GT,Guatemala,2021,03,75.0
+TR,Turquía,2021,03,1.0
+AN,Antillas Neerlandesas,2021,03,188.0
+PE,Perú,2021,03,460.0
+GB,Reino Unido,2020,03,462.0
+UY,Uruguay,2020,03,77.0
+HT,Haití,2020,03,1.0
+NL,Países Bajos,2020,03,176.0
+BS,Bahamas,2020,03,4.0
+GT,Guatemala,2020,03,251.0
+MX,México,2020,03,5342.0
+CR,Costa Rica,2020,03,54.0
+IL,Israel,2020,03,11.0
+DO,República Dominicana,2020,03,346.0
+RU,Rusia,2020,03,1.0
+PT,Portugal,2020,03,37.0
+HN,Honduras,2020,03,168.0
+CL,Chile,2020,03,350.0
+AT,Austria,2020,03,8.0
+JM,Jamaica,2020,03,3.0
+BE,Bélgica,2020,03,104.0
+VE,Venezuela,2020,03,259.0
+JP,Japón,2020,03,10.0
+BO,Bolivia,2020,03,68.0
+ES,España,2020,03,4119.0
+IT,Italia,2020,03,156.0
+SE,Suecia,2020,03,1.0
+AN,Antillas Neerlandesas,2020,03,485.0
+DE,Alemania,2020,03,371.0
+CU,Cuba,2020,03,4.0
+IE,Irlanda,2020,03,1.0
+PR,Puerto Rico,2020,03,257.0
+CA,Canadá,2020,03,77.0
+US,Estados Unidos,2020,03,17221.0
+CH,Suiza,2020,03,105.0
+KR,Corea del Sur,2020,03,5.0
+PA,Panamá,2020,03,12354.0
+SV,El Salvador,2020,03,189.0
+AE,Emiratos Árabes Unidos,2020,03,1.0
+QA,Qatar,2020,03,1.0
+FR,Francia,2020,03,86.0
+AR,Argentina,2020,03,480.0
+EC,Ecuador,2020,03,75.0
+BR,Brasil,2020,03,405.0
+PE,Perú,2020,03,3095.0
+MA,Marruecos,2020,03,2.0
+PH,Filipinas,2020,03,1.0
+PY,Paraguay,2020,03,24.0
+NO,Noruega,2020,03,1.0
+TT,Trinidad y Tobago,2020,03,2.0
+KY,Islas Caimán,2020,03,2.0
+PY,Paraguay,2019,03,127.0
+BS,Bahamas,2019,03,11.0
+FR,Francia,2019,03,212.0
+US,Estados Unidos,2019,03,26327.0
+AG,Antigua and Barbuda,2019,03,1.0
+DK,Dinamarca,2019,03,1.0
+BZ,Belice,2019,03,1.0
+CA,Canadá,2019,03,324.0
+KN,San Cristóbal y Nieves,2019,03,1.0
+IE,Irlanda,2019,03,4.0
+AN,Antillas Neerlandesas,2019,03,393.0
+BO,Bolivia,2019,03,77.0
+JM,Jamaica,2019,03,3.0
+BE,Bélgica,2019,03,54.0
+NI,Nicaragua,2019,03,1.0
+PR,Puerto Rico,2019,03,350.0
+TT,Trinidad y Tobago,2019,03,2.0
+CR,Costa Rica,2019,03,36.0
+SE,Suecia,2019,03,1.0
+IL,Israel,2019,03,28.0
+KY,Islas Caimán,2019,03,5.0
+ES,España,2019,03,6397.0
+QA,Qatar,2019,03,8.0
+HN,Honduras,2019,03,90.0
+SV,El Salvador,2019,03,301.0
+NL,Países Bajos,2019,03,57.0
+PA,Panamá,2019,03,21243.0
+GB,Reino Unido,2019,03,635.0
+ZA,Sudáfrica,2019,03,1.0
+BB,Barbados,2019,03,0.0
+MX,México,2019,03,5406.0
+AR,Argentina,2019,03,1006.0
+LC,Santa Lucia,2019,03,0.0
+CL,Chile,2019,03,1048.0
+UY,Uruguay,2019,03,210.0
+VE,Venezuela,2019,03,1617.0
+CU,Cuba,2019,03,131.0
+AT,Austria,2019,03,34.0
+EC,Ecuador,2019,03,17.0
+BR,Brasil,2019,03,875.0
+KR,Corea del Sur,2019,03,6.0
+HT,Haití,2019,03,12.0
+CH,Suiza,2019,03,89.0
+PE,Perú,2019,03,6175.0
+CN,China,2019,03,15.0
+PT,Portugal,2019,03,22.0
+DO,República Dominicana,2019,03,585.0
+IT,Italia,2019,03,355.0
+DE,Alemania,2019,03,506.0
+GT,Guatemala,2019,03,319.0
+JP,Japón,2019,03,24.0
+LU,Luxemburgo,2019,03,2.0
+AU,Australia,2018,03,38.0
+JM,Jamaica,2018,03,10.0
+QA,Qatar,2018,03,4.0
+AR,Argentina,2018,03,480.0
+PT,Portugal,2018,03,20.0
+CN,China,2018,03,44.0
+IT,Italia,2018,03,320.0
+VE,Venezuela,2018,03,2302.0
+PY,Paraguay,2018,03,91.0
+CA,Canadá,2018,03,557.0
+KR,Corea del Sur,2018,03,9.0
+PA,Panamá,2018,03,21013.0
+SE,Suecia,2018,03,1.0
+JP,Japón,2018,03,9.0
+DE,Alemania,2018,03,87.0
+CR,Costa Rica,2018,03,138.0
+PE,Perú,2018,03,3421.0
+AN,Antillas Neerlandesas,2018,03,1067.0
+NL,Países Bajos,2018,03,51.0
+CU,Cuba,2018,03,180.0
+UY,Uruguay,2018,03,173.0
+BE,Bélgica,2018,03,64.0
+CL,Chile,2018,03,594.0
+CH,Suiza,2018,03,98.0
+PR,Puerto Rico,2018,03,342.0
+GB,Reino Unido,2018,03,842.0
+MX,México,2018,03,4631.0
+BR,Brasil,2018,03,1003.0
+BS,Bahamas,2018,03,10.0
+GT,Guatemala,2018,03,480.0
+NI,Nicaragua,2018,03,36.0
+FR,Francia,2018,03,96.0
+EC,Ecuador,2018,03,22.0
+US,Estados Unidos,2018,03,25300.0
+BB,Barbados,2018,03,2.0
+BZ,Belice,2018,03,16.0
+SV,El Salvador,2018,03,483.0
+ES,España,2018,03,7872.0
+KY,Islas Caimán,2018,03,1.0
+DO,República Dominicana,2018,03,701.0
+BO,Bolivia,2018,03,284.0
+IL,Israel,2018,03,40.0
+HN,Honduras,2018,03,154.0
+AT,Austria,2018,03,28.0
+PA,Panamá,2017,03,15382.0
+ZA,Sudáfrica,2017,03,1.0
+AR,Argentina,2017,03,447.0
+HN,Honduras,2017,03,99.0
+DO,República Dominicana,2017,03,768.0
+CH,Suiza,2017,03,72.0
+JM,Jamaica,2017,03,5.0
+EC,Ecuador,2017,03,116.0
+US,Estados Unidos,2017,03,21960.0
+BE,Bélgica,2017,03,47.0
+NL,Países Bajos,2017,03,24.0
+MX,México,2017,03,4086.0
+AN,Antillas Neerlandesas,2017,03,764.0
+AU,Australia,2017,03,43.0
+BR,Brasil,2017,03,901.0
+CA,Canadá,2017,03,373.0
+ES,España,2017,03,5243.0
+VE,Venezuela,2017,03,385.0
+BZ,Belice,2017,03,14.0
+IL,Israel,2017,03,9.0
+SV,El Salvador,2017,03,340.0
+DE,Alemania,2017,03,45.0
+KY,Islas Caimán,2017,03,6.0
+BS,Bahamas,2017,03,3.0
+IE,Irlanda,2017,03,4.0
+PT,Portugal,2017,03,36.0
+PE,Perú,2017,03,2894.0
+CL,Chile,2017,03,4.0
+BO,Bolivia,2017,03,146.0
+JP,Japón,2017,03,8.0
+IT,Italia,2017,03,192.0
+CU,Cuba,2017,03,155.0
+PY,Paraguay,2017,03,81.0
+FR,Francia,2017,03,44.0
+NZ,Nueva Zelanda,2017,03,6.0
+GB,Reino Unido,2017,03,442.0
+TT,Trinidad y Tobago,2017,03,6.0
+CN,China,2017,03,7.0
+UY,Uruguay,2017,03,57.0
+CO,Colombia,2017,03,4205.0
+BB,Barbados,2017,03,17.0
+GT,Guatemala,2017,03,302.0
+NI,Nicaragua,2017,03,31.0
+CR,Costa Rica,2017,03,75.0
+GB,Reino Unido,2016,03,417.0
+BM,Bermudas,2016,03,11.0
+DE,Alemania,2016,03,63.0
+MX,México,2016,03,3637.0
+VE,Venezuela,2016,03,567.0
+SV,El Salvador,2016,03,306.0
+EC,Ecuador,2016,03,9.0
+FR,Francia,2016,03,66.0
+PY,Paraguay,2016,03,48.0
+BS,Bahamas,2016,03,8.0
+HT,Haití,2016,03,3.0
+BO,Bolivia,2016,03,252.0
+JM,Jamaica,2016,03,1.0
+NL,Países Bajos,2016,03,106.0
+PE,Perú,2016,03,1704.0
+IN,india,2016,03,1.0
+DK,Dinamarca,2016,03,5.0
+ES,España,2016,03,4145.0
+BR,Brasil,2016,03,1200.0
+TT,Trinidad y Tobago,2016,03,2.0
+BB,Barbados,2016,03,24.0
+QA,Qatar,2016,03,3.0
+AR,Argentina,2016,03,718.0
+PT,Portugal,2016,03,21.0
+AU,Australia,2016,03,59.0
+KY,Islas Caimán,2016,03,1.0
+HN,Honduras,2016,03,166.0
+CA,Canadá,2016,03,223.0
+DO,República Dominicana,2016,03,840.0
+UY,Uruguay,2016,03,207.0
+CU,Cuba,2016,03,360.0
+SR,Surinam,2016,03,14.0
+CO,Colombia,2016,03,3590.0
+JP,Japón,2016,03,3.0
+CN,China,2016,03,3.0
+GT,Guatemala,2016,03,359.0
+BZ,Belice,2016,03,11.0
+IL,Israel,2016,03,11.0
+CH,Suiza,2016,03,42.0
+BE,Bélgica,2016,03,25.0
+IT,Italia,2016,03,180.0
+PA,Panamá,2016,03,14942.0
+IE,Irlanda,2016,03,4.0
+US,Estados Unidos,2016,03,25007.0
+AN,Antillas Neerlandesas,2016,03,959.0
+NI,Nicaragua,2016,03,23.0
+CR,Costa Rica,2016,03,137.0
+AR,Argentina,2015,03,662.0
+AE,Emiratos Árabes Unidos,2015,03,1.0
+PY,Paraguay,2015,03,40.0
+US,Estados Unidos,2015,03,18893.0
+VE,Venezuela,2015,03,273.0
+GT,Guatemala,2015,03,192.0
+CU,Cuba,2015,03,205.0
+FR,Francia,2015,03,21.0
+BO,Bolivia,2015,03,119.0
+BM,Bermudas,2015,03,1.0
+IT,Italia,2015,03,11.0
+AN,Antillas Neerlandesas,2015,03,734.0
+ES,España,2015,03,2466.0
+DE,Alemania,2015,03,11.0
+EC,Ecuador,2015,03,1773.0
+CA,Canadá,2015,03,114.0
+CO,Colombia,2015,03,2236.0
+GB,Reino Unido,2015,03,259.0
+NI,Nicaragua,2015,03,25.0
+HT,Haití,2015,03,1.0
+DO,República Dominicana,2015,03,735.0
+HN,Honduras,2015,03,117.0
+BR,Brasil,2015,03,1192.0
+UY,Uruguay,2015,03,50.0
+BS,Bahamas,2015,03,6.0
+SV,El Salvador,2015,03,240.0
+MX,México,2015,03,3248.0
+TT,Trinidad y Tobago,2015,03,1.0
+PA,Panamá,2015,03,14065.0
+BZ,Belice,2015,03,15.0
+PE,Perú,2015,03,2338.0
+CH,Suiza,2015,03,1.0
+SR,Surinam,2015,03,7.0
+CR,Costa Rica,2015,03,102.0
+MX,México,2014,03,1574.0
+IT,Italia,2014,03,5.0
+CA,Canadá,2014,03,139.0
+AN,Antillas Neerlandesas,2014,03,885.0
+GB,Reino Unido,2014,03,95.0
+UY,Uruguay,2014,03,191.0
+VE,Venezuela,2014,03,983.0
+SV,El Salvador,2014,03,220.0
+SE,Suecia,2014,03,1.0
+CO,Colombia,2014,03,39.0
+PE,Perú,2014,03,2160.0
+AR,Argentina,2014,03,586.0
+DO,República Dominicana,2014,03,971.0
+NI,Nicaragua,2014,03,16.0
+HT,Haití,2014,03,3.0
+PA,Panamá,2014,03,11265.0
+BZ,Belice,2014,03,3.0
+US,Estados Unidos,2014,03,17615.0
+NL,Países Bajos,2014,03,2.0
+GT,Guatemala,2014,03,158.0
+KY,Islas Caimán,2014,03,2.0
+FR,Francia,2014,03,22.0
+ES,España,2014,03,2325.0
+BM,Bermudas,2014,03,3.0
+BR,Brasil,2014,03,987.0
+EC,Ecuador,2014,03,1377.0
+HN,Honduras,2014,03,98.0
+AE,Emiratos Árabes Unidos,2014,03,1.0
+CU,Cuba,2014,03,130.0
+CR,Costa Rica,2014,03,89.0
+TT,Trinidad y Tobago,2014,03,2.0
+PY,Paraguay,2014,03,36.0
+BB,Barbados,2014,03,2.0
+CL,Chile,2014,03,18.0
+DE,Alemania,2014,03,3.0
+BS,Bahamas,2014,03,6.0
+BO,Bolivia,2014,03,127.0
+US,Estados Unidos,2013,03,15021.0
+IT,Italia,2013,03,1.0
+FR,Francia,2013,03,17.0
+HN,Honduras,2013,03,57.0
+PE,Perú,2013,03,2000.0
+UY,Uruguay,2013,03,29.0
+EC,Ecuador,2013,03,2457.0
+CU,Cuba,2013,03,122.0
+DO,República Dominicana,2013,03,740.0
+BM,Bermudas,2013,03,1.0
+HT,Haití,2013,03,4.0
+CR,Costa Rica,2013,03,287.0
+VE,Venezuela,2013,03,1437.0
+BZ,Belice,2013,03,1.0
+NI,Nicaragua,2013,03,4.0
+SR,Surinam,2013,03,2.0
+CA,Canadá,2013,03,169.0
+CL,Chile,2013,03,2.0
+GB,Reino Unido,2013,03,68.0
+GT,Guatemala,2013,03,119.0
+AN,Antillas Neerlandesas,2013,03,1072.0
+CO,Colombia,2013,03,173.0
+PY,Paraguay,2013,03,5.0
+AR,Argentina,2013,03,487.0
+DE,Alemania,2013,03,3.0
+BS,Bahamas,2013,03,7.0
+ES,España,2013,03,2585.0
+BR,Brasil,2013,03,852.0
+SV,El Salvador,2013,03,126.0
+PA,Panamá,2013,03,11189.0
+MX,México,2013,03,1148.0
+BO,Bolivia,2013,03,74.0
+AN,Antillas Neerlandesas,2012,03,831.0
+AR,Argentina,2012,03,231.0
+SV,El Salvador,2012,03,152.0
+VE,Venezuela,2012,03,1254.0
+HN,Honduras,2012,03,47.0
+ES,España,2012,03,2239.0
+GT,Guatemala,2012,03,1.0
+MX,México,2012,03,834.0
+PA,Panamá,2012,03,10059.0
+EC,Ecuador,2012,03,2384.0
+DO,República Dominicana,2012,03,478.0
+CO,Colombia,2012,03,201.0
+US,Estados Unidos,2012,03,13178.0
+FR,Francia,2012,03,13.0
+CR,Costa Rica,2012,03,775.0
+CU,Cuba,2012,03,35.0
+BB,Barbados,2012,03,1.0
+PE,Perú,2012,03,1451.0
+CA,Canadá,2012,03,133.0
+JM,Jamaica,2012,03,80.0
+BR,Brasil,2012,03,607.0
+BO,Bolivia,2012,03,47.0
+GB,Reino Unido,2012,03,84.0
+DE,Alemania,2012,03,6.0
+NI,Nicaragua,2011,03,14.0
+UY,Uruguay,2011,03,33.0
+DO,República Dominicana,2011,03,467.0
+CL,Chile,2011,03,1.0
+PA,Panamá,2011,03,6377.0
+AN,Antillas Neerlandesas,2011,03,388.0
+CO,Colombia,2011,03,110.0
+BZ,Belice,2011,03,1.0
+BS,Bahamas,2011,03,3.0
+HT,Haití,2011,03,5.0
+GT,Guatemala,2011,03,113.0
+KY,Islas Caimán,2011,03,1.0
+GB,Reino Unido,2011,03,60.0
+PE,Perú,2011,03,1515.0
+CR,Costa Rica,2011,03,470.0
+MX,México,2011,03,1025.0
+SV,El Salvador,2011,03,215.0
+FR,Francia,2011,03,7.0
+CU,Cuba,2011,03,180.0
+PY,Paraguay,2011,03,32.0
+ES,España,2011,03,1964.0
+BO,Bolivia,2011,03,77.0
+HN,Honduras,2011,03,67.0
+DE,Alemania,2011,03,4.0
+VE,Venezuela,2011,03,1075.0
+CA,Canadá,2011,03,132.0
+TT,Trinidad y Tobago,2011,03,15.0
+BB,Barbados,2011,03,1.0
+EC,Ecuador,2011,03,2504.0
+AR,Argentina,2011,03,585.0
+BR,Brasil,2011,03,533.0
+US,Estados Unidos,2011,03,13582.0
+BM,Bermudas,2011,03,1.0
+AN,Antillas Neerlandesas,2010,03,550.0
+CA,Canadá,2010,03,91.0
+US,Estados Unidos,2010,03,15054.0
+UY,Uruguay,2010,03,275.0
+TT,Trinidad y Tobago,2010,03,57.0
+CR,Costa Rica,2010,03,267.0
+AU,Australia,2010,03,7.0
+DE,Alemania,2010,03,13.0
+BZ,Belice,2010,03,1.0
+CO,Colombia,2010,03,128.0
+BS,Bahamas,2010,03,7.0
+FR,Francia,2010,03,8.0
+SV,El Salvador,2010,03,12.0
+HN,Honduras,2010,03,34.0
+MX,México,2010,03,365.0
+PE,Perú,2010,03,2446.0
+VE,Venezuela,2010,03,1505.0
+ES,España,2010,03,1490.0
+BR,Brasil,2010,03,1110.0
+KY,Islas Caimán,2010,03,2.0
+CU,Cuba,2010,03,124.0
+GT,Guatemala,2010,03,104.0
+AR,Argentina,2010,03,1057.0
+PY,Paraguay,2010,03,131.0
+DO,República Dominicana,2010,03,639.0
+PA,Panamá,2010,03,7340.0
+EC,Ecuador,2010,03,2040.0
+GB,Reino Unido,2010,03,98.0
+BO,Bolivia,2010,03,83.0
+NI,Nicaragua,2010,03,2.0
+MX,México,2009,03,345.0
+GB,Reino Unido,2009,03,60.0
+NI,Nicaragua,2009,03,8.0
+VE,Venezuela,2009,03,2170.0
+CA,Canadá,2009,03,127.0
+TT,Trinidad y Tobago,2009,03,63.0
+HT,Haití,2009,03,12.0
+BZ,Belice,2009,03,1.0
+DE,Alemania,2009,03,6.0
+DO,República Dominicana,2009,03,283.0
+GT,Guatemala,2009,03,84.0
+EC,Ecuador,2009,03,1316.0
+AR,Argentina,2009,03,654.0
+US,Estados Unidos,2009,03,11769.0
+IT,Italia,2009,03,3.0
+PA,Panamá,2009,03,6340.0
+CR,Costa Rica,2009,03,129.0
+ES,España,2009,03,1375.0
+BO,Bolivia,2009,03,46.0
+CU,Cuba,2009,03,38.0
+BS,Bahamas,2009,03,7.0
+PE,Perú,2009,03,1841.0
+FR,Francia,2009,03,11.0
+PY,Paraguay,2009,03,4.0
+AN,Antillas Neerlandesas,2009,03,391.0
+HN,Honduras,2009,03,73.0
+CH,Suiza,2009,03,1.0
+BR,Brasil,2009,03,477.0
+UY,Uruguay,2009,03,27.0
+BB,Barbados,2009,03,9.0
+CO,Colombia,2009,03,145.0
+BM,Bermudas,2009,03,3.0
+EC,Ecuador,2008,03,1127.0
+HT,Haití,2008,03,8.0
+GB,Reino Unido,2008,03,106.0
+PE,Perú,2008,03,706.0
+AN,Antillas Neerlandesas,2008,03,538.0
+SV,El Salvador,2008,03,36.0
+JP,Japón,2008,03,3.0
+VE,Venezuela,2008,03,1377.0
+AR,Argentina,2008,03,403.0
+FR,Francia,2008,03,30.0
+TT,Trinidad y Tobago,2008,03,16.0
+IT,Italia,2008,03,5.0
+UY,Uruguay,2008,03,3.0
+MX,México,2008,03,527.0
+HN,Honduras,2008,03,20.0
+BR,Brasil,2008,03,612.0
+US,Estados Unidos,2008,03,11117.0
+CA,Canadá,2008,03,135.0
+CU,Cuba,2008,03,159.0
+CO,Colombia,2008,03,161.0
+CH,Suiza,2008,03,3.0
+BM,Bermudas,2008,03,3.0
+JM,Jamaica,2008,03,6.0
+CR,Costa Rica,2008,03,229.0
+DE,Alemania,2008,03,8.0
+DO,República Dominicana,2008,03,375.0
+ES,España,2008,03,989.0
+PA,Panamá,2008,03,4575.0
+GT,Guatemala,2008,03,128.0
+NI,Nicaragua,2008,03,9.0
+BB,Barbados,2007,03,1.0
+BO,Bolivia,2007,03,1.0
+PH,Filipinas,2007,03,4.0
+CA,Canadá,2007,03,95.0
+IL,Israel,2007,03,1.0
+GB,Reino Unido,2007,03,70.0
+AR,Argentina,2007,03,463.0
+MX,México,2007,03,506.0
+UY,Uruguay,2007,03,32.0
+PE,Perú,2007,03,497.0
+DO,República Dominicana,2007,03,317.0
+ES,España,2007,03,724.0
+TT,Trinidad y Tobago,2007,03,6.0
+FR,Francia,2007,03,14.0
+BS,Bahamas,2007,03,3.0
+PA,Panamá,2007,03,4453.0
+AN,Antillas Neerlandesas,2007,03,411.0
+BR,Brasil,2007,03,294.0
+SV,El Salvador,2007,03,83.0
+US,Estados Unidos,2007,03,9996.0
+NI,Nicaragua,2007,03,17.0
+EC,Ecuador,2007,03,1049.0
+HT,Haití,2007,03,9.0
+HN,Honduras,2007,03,21.0
+CO,Colombia,2007,03,143.0
+CU,Cuba,2007,03,118.0
+DE,Alemania,2007,03,8.0
+GT,Guatemala,2007,03,132.0
+IT,Italia,2007,03,2.0
+CR,Costa Rica,2007,03,178.0
+VE,Venezuela,2007,03,2030.0
+QA,Qatar,2023,02,2.0
+CR,Costa Rica,2023,02,3775.0
+PR,Puerto Rico,2023,02,2168.0
+EC,Ecuador,2023,02,2396.0
+VE,Venezuela,2023,02,320.0
+AR,Argentina,2023,02,1104.0
+CL,Chile,2023,02,2365.0
+FR,Francia,2023,02,7.0
+JM,Jamaica,2023,02,47.0
+MX,México,2023,02,15872.0
+PE,Perú,2023,02,4965.0
+BE,Bélgica,2023,02,96.0
+GT,Guatemala,2023,02,913.0
+BB,Barbados,2023,02,35.0
+GB,Reino Unido,2023,02,655.0
+PY,Paraguay,2023,02,69.0
+HN,Honduras,2023,02,61.0
+IL,Israel,2023,02,12.0
+GY,Guyana,2023,02,12.0
+TT,Trinidad y Tobago,2023,02,27.0
+NL,Países Bajos,2023,02,189.0
+CH,Suiza,2023,02,214.0
+CU,Cuba,2023,02,930.0
+SR,Surinam,2023,02,42.0
+DO,República Dominicana,2023,02,7827.0
+AO,Angola,2023,02,68.0
+PA,Panamá,2023,02,16194.0
+US,Estados Unidos,2023,02,35066.0
+SV,El Salvador,2023,02,350.0
+NI,Nicaragua,2023,02,32.0
+ES,España,2023,02,7147.0
+HT,Haití,2023,02,1.0
+BR,Brasil,2023,02,2087.0
+AN,Antillas Neerlandesas,2023,02,1928.0
+UY,Uruguay,2023,02,98.0
+IT,Italia,2023,02,303.0
+DE,Alemania,2023,02,196.0
+BO,Bolivia,2023,02,139.0
+KY,Islas Caimán,2023,02,4.0
+BS,Bahamas,2023,02,40.0
+PT,Portugal,2023,02,124.0
+CA,Canadá,2023,02,1113.0
+BB,Barbados,2022,02,1.0
+QA,Qatar,2022,02,4.0
+KY,Islas Caimán,2022,02,1.0
+EC,Ecuador,2022,02,238.0
+DO,República Dominicana,2022,02,2973.0
+US,Estados Unidos,2022,02,29678.0
+CH,Suiza,2022,02,115.0
+CR,Costa Rica,2022,02,266.0
+GY,Guyana,2022,02,2.0
+AR,Argentina,2022,02,193.0
+BE,Bélgica,2022,02,72.0
+PY,Paraguay,2022,02,12.0
+SV,El Salvador,2022,02,1.0
+CU,Cuba,2022,02,1.0
+FR,Francia,2022,02,92.0
+PA,Panamá,2022,02,20255.0
+BZ,Belice,2022,02,2.0
+BO,Bolivia,2022,02,74.0
+CL,Chile,2022,02,1804.0
+NI,Nicaragua,2022,02,8.0
+BR,Brasil,2022,02,498.0
+CA,Canadá,2022,02,262.0
+PR,Puerto Rico,2022,02,510.0
+MX,México,2022,02,11272.0
+ES,España,2022,02,4629.0
+AE,Emiratos Árabes Unidos,2022,02,4.0
+UY,Uruguay,2022,02,40.0
+GB,Reino Unido,2022,02,255.0
+SR,Surinam,2022,02,1.0
+IL,Israel,2022,02,9.0
+AN,Antillas Neerlandesas,2022,02,402.0
+IT,Italia,2022,02,171.0
+PT,Portugal,2022,02,54.0
+NL,Países Bajos,2022,02,116.0
+JP,Japón,2022,02,0.0
+PE,Perú,2022,02,2114.0
+JM,Jamaica,2022,02,5.0
+KR,Corea del Sur,2022,02,4.0
+HN,Honduras,2022,02,2.0
+BS,Bahamas,2022,02,7.0
+DE,Alemania,2022,02,117.0
+GT,Guatemala,2022,02,88.0
+CL,Chile,2021,02,210.0
+JP,Japón,2021,02,0.0
+NI,Nicaragua,2021,02,0.0
+AR,Argentina,2021,02,89.0
+IT,Italia,2021,02,0.0
+NL,Países Bajos,2021,02,1.0
+PE,Perú,2021,02,207.0
+GB,Reino Unido,2021,02,0.0
+CR,Costa Rica,2021,02,70.0
+BO,Bolivia,2021,02,38.0
+PR,Puerto Rico,2021,02,203.0
+SV,El Salvador,2021,02,1.0
+CN,China,2021,02,0.0
+GT,Guatemala,2021,02,57.0
+CA,Canadá,2021,02,14.0
+EC,Ecuador,2021,02,26.0
+TT,Trinidad y Tobago,2021,02,0.0
+PY,Paraguay,2021,02,24.0
+AN,Antillas Neerlandesas,2021,02,144.0
+UY,Uruguay,2021,02,1.0
+MX,México,2021,02,2438.0
+DO,República Dominicana,2021,02,188.0
+PA,Panamá,2021,02,8711.0
+HK,Hong Kong,2021,02,0.0
+KR,Corea del Sur,2021,02,3.0
+US,Estados Unidos,2021,02,13423.0
+ES,España,2021,02,911.0
+FR,Francia,2020,02,159.0
+MA,Marruecos,2020,02,4.0
+US,Estados Unidos,2020,02,25963.0
+BS,Bahamas,2020,02,28.0
+PR,Puerto Rico,2020,02,300.0
+PT,Portugal,2020,02,81.0
+GT,Guatemala,2020,02,388.0
+PA,Panamá,2020,02,20782.0
+UY,Uruguay,2020,02,108.0
+BR,Brasil,2020,02,720.0
+AR,Argentina,2020,02,660.0
+PE,Perú,2020,02,5848.0
+DE,Alemania,2020,02,451.0
+NO,Noruega,2020,02,1.0
+SE,Suecia,2020,02,1.0
+IL,Israel,2020,02,33.0
+BE,Bélgica,2020,02,122.0
+CL,Chile,2020,02,675.0
+CR,Costa Rica,2020,02,132.0
+DO,República Dominicana,2020,02,399.0
+ES,España,2020,02,7205.0
+HN,Honduras,2020,02,182.0
+AN,Antillas Neerlandesas,2020,02,940.0
+KR,Corea del Sur,2020,02,9.0
+IT,Italia,2020,02,503.0
+GB,Reino Unido,2020,02,651.0
+VE,Venezuela,2020,02,754.0
+SV,El Salvador,2020,02,455.0
+MX,México,2020,02,9600.0
+CA,Canadá,2020,02,209.0
+AE,Emiratos Árabes Unidos,2020,02,2.0
+BO,Bolivia,2020,02,227.0
+JM,Jamaica,2020,02,8.0
+QA,Qatar,2020,02,5.0
+CH,Suiza,2020,02,182.0
+AT,Austria,2020,02,19.0
+JP,Japón,2020,02,37.0
+PY,Paraguay,2020,02,39.0
+IE,Irlanda,2020,02,3.0
+NI,Nicaragua,2020,02,2.0
+SN,Senegal,2020,02,1.0
+NL,Países Bajos,2020,02,160.0
+CU,Cuba,2020,02,17.0
+EC,Ecuador,2020,02,365.0
+PR,Puerto Rico,2019,02,355.0
+PY,Paraguay,2019,02,126.0
+HT,Haití,2019,02,11.0
+NL,Países Bajos,2019,02,47.0
+BO,Bolivia,2019,02,103.0
+CH,Suiza,2019,02,111.0
+KR,Corea del Sur,2019,02,23.0
+PT,Portugal,2019,02,40.0
+ES,España,2019,02,5485.0
+IL,Israel,2019,02,25.0
+FR,Francia,2019,02,149.0
+LC,Santa Lucia,2019,02,1.0
+BR,Brasil,2019,02,858.0
+CL,Chile,2019,02,872.0
+IE,Irlanda,2019,02,0.0
+DE,Alemania,2019,02,309.0
+GB,Reino Unido,2019,02,604.0
+LU,Luxemburgo,2019,02,0.0
+CU,Cuba,2019,02,89.0
+ZA,Sudáfrica,2019,02,1.0
+MX,México,2019,02,3861.0
+BZ,Belice,2019,02,0.0
+HN,Honduras,2019,02,55.0
+UY,Uruguay,2019,02,284.0
+NI,Nicaragua,2019,02,0.0
+AG,Antigua and Barbuda,2019,02,2.0
+SE,Suecia,2019,02,0.0
+BS,Bahamas,2019,02,7.0
+AR,Argentina,2019,02,1193.0
+JM,Jamaica,2019,02,1.0
+TT,Trinidad y Tobago,2019,02,3.0
+AN,Antillas Neerlandesas,2019,02,311.0
+IT,Italia,2019,02,381.0
+CA,Canadá,2019,02,305.0
+KN,San Cristóbal y Nieves,2019,02,0.0
+SV,El Salvador,2019,02,261.0
+BE,Bélgica,2019,02,35.0
+KY,Islas Caimán,2019,02,5.0
+PE,Perú,2019,02,5372.0
+DO,República Dominicana,2019,02,540.0
+BB,Barbados,2019,02,2.0
+GT,Guatemala,2019,02,335.0
+QA,Qatar,2019,02,5.0
+EC,Ecuador,2019,02,18.0
+US,Estados Unidos,2019,02,22646.0
+VE,Venezuela,2019,02,1850.0
+PA,Panamá,2019,02,18125.0
+DK,Dinamarca,2019,02,2.0
+CR,Costa Rica,2019,02,59.0
+CN,China,2019,02,24.0
+JP,Japón,2019,02,20.0
+AT,Austria,2019,02,9.0
+BZ,Belice,2018,02,6.0
+CA,Canadá,2018,02,549.0
+IE,Irlanda,2018,02,1.0
+GB,Reino Unido,2018,02,669.0
+PR,Puerto Rico,2018,02,289.0
+NL,Países Bajos,2018,02,39.0
+AR,Argentina,2018,02,162.0
+SV,El Salvador,2018,02,485.0
+US,Estados Unidos,2018,02,19926.0
+DE,Alemania,2018,02,75.0
+UY,Uruguay,2018,02,95.0
+AT,Austria,2018,02,17.0
+CL,Chile,2018,02,279.0
+ZA,Sudáfrica,2018,02,3.0
+MA,Marruecos,2018,02,1.0
+NI,Nicaragua,2018,02,68.0
+FR,Francia,2018,02,116.0
+TT,Trinidad y Tobago,2018,02,2.0
+CU,Cuba,2018,02,151.0
+EC,Ecuador,2018,02,22.0
+BB,Barbados,2018,02,5.0
+PT,Portugal,2018,02,24.0
+PE,Perú,2018,02,1957.0
+QA,Qatar,2018,02,4.0
+JP,Japón,2018,02,17.0
+KY,Islas Caimán,2018,02,7.0
+DO,República Dominicana,2018,02,567.0
+CR,Costa Rica,2018,02,204.0
+CH,Suiza,2018,02,79.0
+BO,Bolivia,2018,02,201.0
+JM,Jamaica,2018,02,16.0
+IL,Israel,2018,02,15.0
+PA,Panamá,2018,02,19362.0
+VE,Venezuela,2018,02,2000.0
+GT,Guatemala,2018,02,382.0
+MX,México,2018,02,3988.0
+KR,Corea del Sur,2018,02,4.0
+IT,Italia,2018,02,278.0
+AU,Australia,2018,02,26.0
+HN,Honduras,2018,02,224.0
+CN,China,2018,02,11.0
+BR,Brasil,2018,02,884.0
+HT,Haití,2018,02,3.0
+ES,España,2018,02,5924.0
+AN,Antillas Neerlandesas,2018,02,758.0
+BS,Bahamas,2018,02,14.0
+PY,Paraguay,2018,02,56.0
+BE,Bélgica,2018,02,77.0
+PA,Panamá,2017,02,14187.0
+BS,Bahamas,2017,02,12.0
+SV,El Salvador,2017,02,344.0
+ZA,Sudáfrica,2017,02,1.0
+DO,República Dominicana,2017,02,537.0
+FR,Francia,2017,02,42.0
+MX,México,2017,02,3357.0
+IL,Israel,2017,02,7.0
+PT,Portugal,2017,02,15.0
+VE,Venezuela,2017,02,325.0
+CR,Costa Rica,2017,02,45.0
+AN,Antillas Neerlandesas,2017,02,569.0
+CA,Canadá,2017,02,249.0
+ES,España,2017,02,3699.0
+JP,Japón,2017,02,2.0
+UY,Uruguay,2017,02,90.0
+QA,Qatar,2017,02,1.0
+AR,Argentina,2017,02,266.0
+TT,Trinidad y Tobago,2017,02,6.0
+CU,Cuba,2017,02,136.0
+BE,Bélgica,2017,02,27.0
+US,Estados Unidos,2017,02,17613.0
+GT,Guatemala,2017,02,321.0
+EC,Ecuador,2017,02,106.0
+PE,Perú,2017,02,2659.0
+CN,China,2017,02,2.0
+PY,Paraguay,2017,02,42.0
+NI,Nicaragua,2017,02,19.0
+BO,Bolivia,2017,02,157.0
+NL,Países Bajos,2017,02,11.0
+BZ,Belice,2017,02,7.0
+IT,Italia,2017,02,144.0
+CH,Suiza,2017,02,50.0
+HN,Honduras,2017,02,113.0
+KN,San Cristóbal y Nieves,2017,02,2.0
+CO,Colombia,2017,02,3994.0
+AU,Australia,2017,02,30.0
+BB,Barbados,2017,02,19.0
+DE,Alemania,2017,02,42.0
+BR,Brasil,2017,02,950.0
+GB,Reino Unido,2017,02,427.0
+DE,Alemania,2016,02,37.0
+TT,Trinidad y Tobago,2016,02,4.0
+CU,Cuba,2016,02,139.0
+BB,Barbados,2016,02,9.0
+CN,China,2016,02,3.0
+PE,Perú,2016,02,1418.0
+GB,Reino Unido,2016,02,423.0
+QA,Qatar,2016,02,4.0
+CH,Suiza,2016,02,69.0
+CO,Colombia,2016,02,3282.0
+CA,Canadá,2016,02,153.0
+PY,Paraguay,2016,02,58.0
+US,Estados Unidos,2016,02,20568.0
+UY,Uruguay,2016,02,118.0
+NL,Países Bajos,2016,02,98.0
+BZ,Belice,2016,02,9.0
+NI,Nicaragua,2016,02,22.0
+BR,Brasil,2016,02,1208.0
+BO,Bolivia,2016,02,261.0
+PT,Portugal,2016,02,25.0
+DK,Dinamarca,2016,02,4.0
+FR,Francia,2016,02,86.0
+ES,España,2016,02,3412.0
+PA,Panamá,2016,02,14457.0
+AR,Argentina,2016,02,588.0
+DO,República Dominicana,2016,02,562.0
+MA,Marruecos,2016,02,1.0
+CR,Costa Rica,2016,02,117.0
+SE,Suecia,2016,02,1.0
+GT,Guatemala,2016,02,260.0
+SV,El Salvador,2016,02,257.0
+BS,Bahamas,2016,02,9.0
+IL,Israel,2016,02,10.0
+VE,Venezuela,2016,02,351.0
+AN,Antillas Neerlandesas,2016,02,979.0
+BE,Bélgica,2016,02,46.0
+AU,Australia,2016,02,39.0
+SR,Surinam,2016,02,25.0
+GY,Guyana,2016,02,1.0
+MX,México,2016,02,3260.0
+IT,Italia,2016,02,208.0
+EC,Ecuador,2016,02,26.0
+HN,Honduras,2016,02,129.0
+LU,Luxemburgo,2016,02,2.0
+EC,Ecuador,2015,02,1602.0
+CU,Cuba,2015,02,106.0
+GB,Reino Unido,2015,02,259.0
+BZ,Belice,2015,02,4.0
+SR,Surinam,2015,02,2.0
+PA,Panamá,2015,02,12508.0
+PY,Paraguay,2015,02,162.0
+UY,Uruguay,2015,02,52.0
+IT,Italia,2015,02,16.0
+CA,Canadá,2015,02,131.0
+US,Estados Unidos,2015,02,13798.0
+VE,Venezuela,2015,02,298.0
+QA,Qatar,2015,02,1.0
+AR,Argentina,2015,02,709.0
+BO,Bolivia,2015,02,111.0
+BB,Barbados,2015,02,5.0
+GT,Guatemala,2015,02,147.0
+MX,México,2015,02,1641.0
+BM,Bermudas,2015,02,5.0
+CR,Costa Rica,2015,02,39.0
+NI,Nicaragua,2015,02,7.0
+ES,España,2015,02,2494.0
+SV,El Salvador,2015,02,221.0
+FR,Francia,2015,02,37.0
+CO,Colombia,2015,02,2255.0
+HN,Honduras,2015,02,69.0
+RU,Rusia,2015,02,1.0
+PE,Perú,2015,02,2086.0
+BS,Bahamas,2015,02,1.0
+BR,Brasil,2015,02,831.0
+AE,Emiratos Árabes Unidos,2015,02,1.0
+DE,Alemania,2015,02,14.0
+CH,Suiza,2015,02,1.0
+AN,Antillas Neerlandesas,2015,02,580.0
+DO,República Dominicana,2015,02,528.0
+CL,Chile,2014,02,5.0
+UY,Uruguay,2014,02,51.0
+BS,Bahamas,2014,02,1.0
+PE,Perú,2014,02,1961.0
+GB,Reino Unido,2014,02,83.0
+BR,Brasil,2014,02,901.0
+GT,Guatemala,2014,02,173.0
+BM,Bermudas,2014,02,2.0
+CO,Colombia,2014,02,43.0
+AR,Argentina,2014,02,580.0
+DO,República Dominicana,2014,02,586.0
+CA,Canadá,2014,02,140.0
+CR,Costa Rica,2014,02,54.0
+FR,Francia,2014,02,33.0
+NI,Nicaragua,2014,02,14.0
+DE,Alemania,2014,02,8.0
+IT,Italia,2014,02,6.0
+EC,Ecuador,2014,02,1429.0
+SR,Surinam,2014,02,8.0
+ES,España,2014,02,2067.0
+PY,Paraguay,2014,02,19.0
+VE,Venezuela,2014,02,862.0
+AN,Antillas Neerlandesas,2014,02,683.0
+BB,Barbados,2014,02,1.0
+BO,Bolivia,2014,02,89.0
+PA,Panamá,2014,02,9939.0
+MX,México,2014,02,1137.0
+CU,Cuba,2014,02,109.0
+SV,El Salvador,2014,02,146.0
+US,Estados Unidos,2014,02,12961.0
+HN,Honduras,2014,02,76.0
+CL,Chile,2013,02,1.0
+GB,Reino Unido,2013,02,73.0
+BM,Bermudas,2013,02,2.0
+BR,Brasil,2013,02,599.0
+HT,Haití,2013,02,2.0
+ES,España,2013,02,2238.0
+FR,Francia,2013,02,18.0
+PT,Portugal,2013,02,2.0
+BO,Bolivia,2013,02,63.0
+BS,Bahamas,2013,02,2.0
+MX,México,2013,02,973.0
+PE,Perú,2013,02,1436.0
+SV,El Salvador,2013,02,95.0
+DO,República Dominicana,2013,02,465.0
+AR,Argentina,2013,02,513.0
+US,Estados Unidos,2013,02,12359.0
+PY,Paraguay,2013,02,3.0
+CU,Cuba,2013,02,99.0
+AN,Antillas Neerlandesas,2013,02,829.0
+EC,Ecuador,2013,02,2297.0
+GT,Guatemala,2013,02,80.0
+UY,Uruguay,2013,02,25.0
+KY,Islas Caimán,2013,02,1.0
+PA,Panamá,2013,02,9296.0
+CR,Costa Rica,2013,02,338.0
+SR,Surinam,2013,02,4.0
+NI,Nicaragua,2013,02,10.0
+HN,Honduras,2013,02,62.0
+CO,Colombia,2013,02,182.0
+DE,Alemania,2013,02,4.0
+VE,Venezuela,2013,02,1400.0
+CA,Canadá,2013,02,127.0
+BZ,Belice,2013,02,4.0
+MX,México,2012,02,581.0
+AR,Argentina,2012,02,176.0
+CH,Suiza,2012,02,4.0
+PE,Perú,2012,02,1112.0
+BO,Bolivia,2012,02,29.0
+JM,Jamaica,2012,02,1.0
+HN,Honduras,2012,02,14.0
+DO,República Dominicana,2012,02,245.0
+AN,Antillas Neerlandesas,2012,02,529.0
+CR,Costa Rica,2012,02,749.0
+CO,Colombia,2012,02,139.0
+HT,Haití,2012,02,1.0
+CA,Canadá,2012,02,105.0
+SV,El Salvador,2012,02,87.0
+BS,Bahamas,2012,02,2.0
+VE,Venezuela,2012,02,1125.0
+AU,Australia,2012,02,1.0
+ES,España,2012,02,2392.0
+US,Estados Unidos,2012,02,10679.0
+DE,Alemania,2012,02,5.0
+IT,Italia,2012,02,7.0
+PA,Panamá,2012,02,8201.0
+BM,Bermudas,2012,02,1.0
+FR,Francia,2012,02,10.0
+GB,Reino Unido,2012,02,80.0
+EC,Ecuador,2012,02,2795.0
+BR,Brasil,2012,02,358.0
+UY,Uruguay,2011,02,39.0
+BS,Bahamas,2011,02,9.0
+BO,Bolivia,2011,02,117.0
+NI,Nicaragua,2011,02,14.0
+PA,Panamá,2011,02,5686.0
+PY,Paraguay,2011,02,14.0
+FR,Francia,2011,02,8.0
+US,Estados Unidos,2011,02,10824.0
+PE,Perú,2011,02,1554.0
+BR,Brasil,2011,02,480.0
+HT,Haití,2011,02,10.0
+CU,Cuba,2011,02,107.0
+GY,Guyana,2011,02,3.0
+GT,Guatemala,2011,02,122.0
+ES,España,2011,02,2127.0
+AR,Argentina,2011,02,475.0
+MX,México,2011,02,741.0
+SV,El Salvador,2011,02,173.0
+NL,Países Bajos,2011,02,2.0
+TT,Trinidad y Tobago,2011,02,52.0
+DE,Alemania,2011,02,3.0
+EC,Ecuador,2011,02,2717.0
+CR,Costa Rica,2011,02,531.0
+DO,República Dominicana,2011,02,272.0
+CO,Colombia,2011,02,148.0
+VE,Venezuela,2011,02,939.0
+GB,Reino Unido,2011,02,44.0
+AN,Antillas Neerlandesas,2011,02,271.0
+HN,Honduras,2011,02,52.0
+CL,Chile,2011,02,7.0
+CA,Canadá,2011,02,128.0
+TT,Trinidad y Tobago,2010,02,38.0
+BZ,Belice,2010,02,1.0
+CO,Colombia,2010,02,130.0
+DE,Alemania,2010,02,9.0
+CA,Canadá,2010,02,133.0
+US,Estados Unidos,2010,02,10411.0
+PY,Paraguay,2010,02,17.0
+BO,Bolivia,2010,02,52.0
+CH,Suiza,2010,02,1.0
+DO,República Dominicana,2010,02,136.0
+KY,Islas Caimán,2010,02,3.0
+EC,Ecuador,2010,02,2179.0
+PA,Panamá,2010,02,4894.0
+HN,Honduras,2010,02,32.0
+CR,Costa Rica,2010,02,258.0
+CU,Cuba,2010,02,43.0
+PE,Perú,2010,02,1501.0
+MX,México,2010,02,281.0
+UY,Uruguay,2010,02,58.0
+AN,Antillas Neerlandesas,2010,02,335.0
+BM,Bermudas,2010,02,1.0
+VE,Venezuela,2010,02,1025.0
+FR,Francia,2010,02,15.0
+ES,España,2010,02,1540.0
+NI,Nicaragua,2010,02,8.0
+BR,Brasil,2010,02,498.0
+GT,Guatemala,2010,02,57.0
+AR,Argentina,2010,02,347.0
+GB,Reino Unido,2010,02,112.0
+BS,Bahamas,2010,02,3.0
+DO,República Dominicana,2009,02,194.0
+BO,Bolivia,2009,02,47.0
+ES,España,2009,02,1412.0
+FR,Francia,2009,02,6.0
+AR,Argentina,2009,02,361.0
+PA,Panamá,2009,02,6074.0
+TT,Trinidad y Tobago,2009,02,44.0
+CA,Canadá,2009,02,136.0
+CH,Suiza,2009,02,2.0
+UY,Uruguay,2009,02,83.0
+VE,Venezuela,2009,02,1274.0
+DE,Alemania,2009,02,2.0
+BR,Brasil,2009,02,466.0
+US,Estados Unidos,2009,02,8034.0
+PE,Perú,2009,02,1404.0
+BM,Bermudas,2009,02,1.0
+GT,Guatemala,2009,02,65.0
+HN,Honduras,2009,02,44.0
+CO,Colombia,2009,02,120.0
+PY,Paraguay,2009,02,10.0
+HT,Haití,2009,02,7.0
+AN,Antillas Neerlandesas,2009,02,324.0
+CU,Cuba,2009,02,48.0
+CR,Costa Rica,2009,02,239.0
+KY,Islas Caimán,2009,02,2.0
+IT,Italia,2009,02,5.0
+MX,México,2009,02,265.0
+NI,Nicaragua,2009,02,6.0
+BS,Bahamas,2009,02,3.0
+GB,Reino Unido,2009,02,56.0
+EC,Ecuador,2009,02,1354.0
+AN,Antillas Neerlandesas,2008,02,422.0
+ES,España,2008,02,1190.0
+CR,Costa Rica,2008,02,164.0
+AR,Argentina,2008,02,328.0
+PA,Panamá,2008,02,3616.0
+HT,Haití,2008,02,6.0
+KR,Corea del Sur,2008,02,1.0
+NI,Nicaragua,2008,02,13.0
+DE,Alemania,2008,02,15.0
+GT,Guatemala,2008,02,49.0
+BR,Brasil,2008,02,328.0
+CO,Colombia,2008,02,197.0
+TT,Trinidad y Tobago,2008,02,5.0
+FR,Francia,2008,02,23.0
+CU,Cuba,2008,02,188.0
+US,Estados Unidos,2008,02,8462.0
+UY,Uruguay,2008,02,2.0
+BM,Bermudas,2008,02,1.0
+CH,Suiza,2008,02,1.0
+CA,Canadá,2008,02,177.0
+HN,Honduras,2008,02,21.0
+NL,Países Bajos,2008,02,1.0
+GB,Reino Unido,2008,02,108.0
+PE,Perú,2008,02,477.0
+VE,Venezuela,2008,02,1428.0
+DO,República Dominicana,2008,02,183.0
+EC,Ecuador,2008,02,1078.0
+BS,Bahamas,2008,02,4.0
+MX,México,2008,02,360.0
+JM,Jamaica,2008,02,3.0
+IT,Italia,2008,02,7.0
+BB,Barbados,2008,02,1.0
+BZ,Belice,2008,02,2.0
+SV,El Salvador,2008,02,29.0
+TT,Trinidad y Tobago,2007,02,10.0
+SV,El Salvador,2007,02,45.0
+CO,Colombia,2007,02,121.0
+GB,Reino Unido,2007,02,73.0
+BB,Barbados,2007,02,1.0
+FR,Francia,2007,02,27.0
+CA,Canadá,2007,02,79.0
+HN,Honduras,2007,02,43.0
+HT,Haití,2007,02,4.0
+VE,Venezuela,2007,02,1990.0
+DE,Alemania,2007,02,15.0
+CU,Cuba,2007,02,71.0
+GT,Guatemala,2007,02,131.0
+US,Estados Unidos,2007,02,8248.0
+MX,México,2007,02,316.0
+DO,República Dominicana,2007,02,135.0
+CR,Costa Rica,2007,02,284.0
+NI,Nicaragua,2007,02,15.0
+PE,Perú,2007,02,332.0
+AN,Antillas Neerlandesas,2007,02,342.0
+EC,Ecuador,2007,02,1095.0
+AR,Argentina,2007,02,383.0
+BR,Brasil,2007,02,278.0
+NL,Países Bajos,2007,02,1.0
+PA,Panamá,2007,02,3356.0
+ES,España,2007,02,806.0
+UY,Uruguay,2007,02,8.0
+PE,Perú,2022,12,5099.0
+BS,Bahamas,2022,12,2.0
+HN,Honduras,2022,12,6.0
+CH,Suiza,2022,12,169.0
+CU,Cuba,2022,12,1351.0
+PR,Puerto Rico,2022,12,1340.0
+SV,El Salvador,2022,12,450.0
+FR,Francia,2022,12,8.0
+BB,Barbados,2022,12,1.0
+CL,Chile,2022,12,1455.0
+GP,Guadalupe,2022,12,1.0
+NI,Nicaragua,2022,12,3.0
+VE,Venezuela,2022,12,7.0
+DE,Alemania,2022,12,168.0
+QA,Qatar,2022,12,3.0
+DO,República Dominicana,2022,12,10574.0
+NL,Países Bajos,2022,12,164.0
+GT,Guatemala,2022,12,275.0
+AR,Argentina,2022,12,1386.0
+CA,Canadá,2022,12,589.0
+CR,Costa Rica,2022,12,1695.0
+GB,Reino Unido,2022,12,681.0
+KY,Islas Caimán,2022,12,2.0
+BO,Bolivia,2022,12,62.0
+JM,Jamaica,2022,12,8.0
+PT,Portugal,2022,12,193.0
+IT,Italia,2022,12,248.0
+IL,Israel,2022,12,17.0
+PY,Paraguay,2022,12,38.0
+MX,México,2022,12,18080.0
+BE,Bélgica,2022,12,91.0
+TT,Trinidad y Tobago,2022,12,2.0
+ES,España,2022,12,7763.0
+UY,Uruguay,2022,12,66.0
+AG,Antigua and Barbuda,2022,12,3.0
+EC,Ecuador,2022,12,1840.0
+BR,Brasil,2022,12,1448.0
+MA,Marruecos,2022,12,2.0
+RO,Rumania,2022,12,1.0
+AN,Antillas Neerlandesas,2022,12,2389.0
+US,Estados Unidos,2022,12,41224.0
+PA,Panamá,2022,12,30437.0
+HT,Haití,2022,12,1.0
+US,Estados Unidos,2021,12,42534.0
+PR,Puerto Rico,2021,12,432.0
+GB,Reino Unido,2021,12,165.0
+CL,Chile,2021,12,1410.0
+DE,Alemania,2021,12,129.0
+BS,Bahamas,2021,12,1.0
+PY,Paraguay,2021,12,22.0
+GY,Guyana,2021,12,6.0
+BB,Barbados,2021,12,1.0
+MX,México,2021,12,15040.0
+BZ,Belice,2021,12,1.0
+CA,Canadá,2021,12,247.0
+BR,Brasil,2021,12,593.0
+FR,Francia,2021,12,64.0
+JM,Jamaica,2021,12,2.0
+CR,Costa Rica,2021,12,228.0
+CH,Suiza,2021,12,121.0
+ES,España,2021,12,5003.0
+EC,Ecuador,2021,12,334.0
+AR,Argentina,2021,12,355.0
+BO,Bolivia,2021,12,36.0
+GT,Guatemala,2021,12,90.0
+NL,Países Bajos,2021,12,76.0
+KR,Corea del Sur,2021,12,4.0
+UY,Uruguay,2021,12,58.0
+SR,Surinam,2021,12,2.0
+DK,Dinamarca,2021,12,1.0
+HN,Honduras,2021,12,9.0
+SV,El Salvador,2021,12,4.0
+IT,Italia,2021,12,164.0
+DO,República Dominicana,2021,12,4253.0
+PE,Perú,2021,12,2739.0
+PT,Portugal,2021,12,50.0
+AN,Antillas Neerlandesas,2021,12,867.0
+JP,Japón,2021,12,0.0
+BE,Bélgica,2021,12,84.0
+PA,Panamá,2021,12,24669.0
+CU,Cuba,2020,12,1.0
+NI,Nicaragua,2020,12,1.0
+BO,Bolivia,2020,12,32.0
+GT,Guatemala,2020,12,100.0
+EC,Ecuador,2020,12,56.0
+FR,Francia,2020,12,3.0
+GB,Reino Unido,2020,12,32.0
+CA,Canadá,2020,12,29.0
+JM,Jamaica,2020,12,0.0
+HN,Honduras,2020,12,0.0
+CL,Chile,2020,12,257.0
+KR,Corea del Sur,2020,12,2.0
+PY,Paraguay,2020,12,27.0
+NL,Países Bajos,2020,12,1.0
+BR,Brasil,2020,12,116.0
+ES,España,2020,12,718.0
+AN,Antillas Neerlandesas,2020,12,145.0
+MX,México,2020,12,2974.0
+HT,Haití,2020,12,0.0
+CR,Costa Rica,2020,12,68.0
+PR,Puerto Rico,2020,12,49.0
+AR,Argentina,2020,12,98.0
+PA,Panamá,2020,12,9588.0
+US,Estados Unidos,2020,12,21509.0
+DO,República Dominicana,2020,12,548.0
+RU,Rusia,2020,12,0.0
+UY,Uruguay,2020,12,2.0
+JP,Japón,2020,12,1.0
+PE,Perú,2020,12,425.0
+KR,Corea del Sur,2019,12,13.0
+DE,Alemania,2019,12,485.0
+PT,Portugal,2019,12,151.0
+MX,México,2019,12,13006.0
+CH,Suiza,2019,12,134.0
+CR,Costa Rica,2019,12,33.0
+AN,Antillas Neerlandesas,2019,12,510.0
+KY,Islas Caimán,2019,12,7.0
+IL,Israel,2019,12,29.0
+IE,Irlanda,2019,12,1.0
+PA,Panamá,2019,12,19299.0
+JP,Japón,2019,12,30.0
+IT,Italia,2019,12,428.0
+QA,Qatar,2019,12,4.0
+MA,Marruecos,2019,12,2.0
+FR,Francia,2019,12,115.0
+US,Estados Unidos,2019,12,30876.0
+BE,Bélgica,2019,12,150.0
+CN,China,2019,12,10.0
+BS,Bahamas,2019,12,17.0
+BO,Bolivia,2019,12,51.0
+HN,Honduras,2019,12,54.0
+UY,Uruguay,2019,12,76.0
+GB,Reino Unido,2019,12,722.0
+CA,Canadá,2019,12,190.0
+TT,Trinidad y Tobago,2019,12,2.0
+NL,Países Bajos,2019,12,140.0
+PR,Puerto Rico,2019,12,497.0
+CL,Chile,2019,12,701.0
+DO,República Dominicana,2019,12,993.0
+VE,Venezuela,2019,12,3133.0
+EC,Ecuador,2019,12,211.0
+SV,El Salvador,2019,12,430.0
+AR,Argentina,2019,12,577.0
+PY,Paraguay,2019,12,18.0
+CU,Cuba,2019,12,161.0
+JM,Jamaica,2019,12,10.0
+PE,Perú,2019,12,4575.0
+BR,Brasil,2019,12,826.0
+AT,Austria,2019,12,14.0
+GT,Guatemala,2019,12,518.0
+NZ,Nueva Zelanda,2019,12,1.0
+SE,Suecia,2019,12,2.0
+ES,España,2019,12,8454.0
+JP,Japón,2018,12,15.0
+GB,Reino Unido,2018,12,654.0
+NL,Países Bajos,2018,12,28.0
+FR,Francia,2018,12,83.0
+HK,Hong Kong,2018,12,1.0
+BO,Bolivia,2018,12,62.0
+DO,República Dominicana,2018,12,1344.0
+BB,Barbados,2018,12,2.0
+HN,Honduras,2018,12,58.0
+EC,Ecuador,2018,12,8.0
+DE,Alemania,2018,12,332.0
+GT,Guatemala,2018,12,382.0
+CH,Suiza,2018,12,56.0
+UY,Uruguay,2018,12,205.0
+BR,Brasil,2018,12,641.0
+TT,Trinidad y Tobago,2018,12,2.0
+CR,Costa Rica,2018,12,34.0
+VE,Venezuela,2018,12,3448.0
+SV,El Salvador,2018,12,294.0
+CU,Cuba,2018,12,217.0
+US,Estados Unidos,2018,12,29988.0
+QA,Qatar,2018,12,2.0
+BS,Bahamas,2018,12,7.0
+IE,Irlanda,2018,12,2.0
+CN,China,2018,12,1.0
+PT,Portugal,2018,12,33.0
+PR,Puerto Rico,2018,12,424.0
+AN,Antillas Neerlandesas,2018,12,810.0
+MX,México,2018,12,5851.0
+CL,Chile,2018,12,1063.0
+KY,Islas Caimán,2018,12,1.0
+PE,Perú,2018,12,5380.0
+BE,Bélgica,2018,12,47.0
+PY,Paraguay,2018,12,75.0
+KP,Corea del Norte,2018,12,1.0
+CA,Canadá,2018,12,226.0
+IT,Italia,2018,12,233.0
+JM,Jamaica,2018,12,10.0
+IL,Israel,2018,12,21.0
+PA,Panamá,2018,12,23225.0
+ES,España,2018,12,6645.0
+AT,Austria,2018,12,17.0
+AR,Argentina,2018,12,845.0
+NI,Nicaragua,2017,12,34.0
+UY,Uruguay,2017,12,209.0
+AT,Austria,2017,12,12.0
+SE,Suecia,2017,12,1.0
+DO,República Dominicana,2017,12,913.0
+BE,Bélgica,2017,12,34.0
+PT,Portugal,2017,12,44.0
+JM,Jamaica,2017,12,9.0
+KR,Corea del Sur,2017,12,2.0
+AN,Antillas Neerlandesas,2017,12,1347.0
+AU,Australia,2017,12,40.0
+QA,Qatar,2017,12,3.0
+TR,Turquía,2017,12,0.0
+RU,Rusia,2017,12,0.0
+BZ,Belice,2017,12,4.0
+GB,Reino Unido,2017,12,629.0
+BO,Bolivia,2017,12,282.0
+GY,Guyana,2017,12,0.0
+KY,Islas Caimán,2017,12,4.0
+EC,Ecuador,2017,12,7.0
+GT,Guatemala,2017,12,471.0
+ES,España,2017,12,6986.0
+PR,Puerto Rico,2017,12,296.0
+SV,El Salvador,2017,12,552.0
+DE,Alemania,2017,12,54.0
+BR,Brasil,2017,12,1095.0
+TT,Trinidad y Tobago,2017,12,2.0
+FR,Francia,2017,12,69.0
+PE,Perú,2017,12,1951.0
+JP,Japón,2017,12,5.0
+ZA,Sudáfrica,2017,12,0.0
+VE,Venezuela,2017,12,3013.0
+CU,Cuba,2017,12,239.0
+CN,China,2017,12,21.0
+HN,Honduras,2017,12,97.0
+CR,Costa Rica,2017,12,84.0
+HT,Haití,2017,12,2.0
+PY,Paraguay,2017,12,44.0
+NL,Países Bajos,2017,12,25.0
+IL,Israel,2017,12,14.0
+BB,Barbados,2017,12,0.0
+IE,Irlanda,2017,12,0.0
+KN,San Cristóbal y Nieves,2017,12,0.0
+CH,Suiza,2017,12,94.0
+AR,Argentina,2017,12,432.0
+US,Estados Unidos,2017,12,27229.0
+CL,Chile,2017,12,666.0
+IT,Italia,2017,12,267.0
+CA,Canadá,2017,12,375.0
+MX,México,2017,12,5418.0
+BS,Bahamas,2017,12,10.0
+PA,Panamá,2017,12,20813.0
+VE,Venezuela,2016,12,796.0
+AR,Argentina,2016,12,798.0
+BZ,Belice,2016,12,9.0
+EC,Ecuador,2016,12,93.0
+CA,Canadá,2016,12,266.0
+DE,Alemania,2016,12,13.0
+NL,Países Bajos,2016,12,23.0
+CU,Cuba,2016,12,276.0
+HN,Honduras,2016,12,169.0
+SV,El Salvador,2016,12,348.0
+QA,Qatar,2016,12,1.0
+US,Estados Unidos,2016,12,24652.0
+PY,Paraguay,2016,12,119.0
+KY,Islas Caimán,2016,12,8.0
+MX,México,2016,12,5194.0
+HT,Haití,2016,12,8.0
+BB,Barbados,2016,12,23.0
+BR,Brasil,2016,12,1036.0
+TT,Trinidad y Tobago,2016,12,4.0
+JM,Jamaica,2016,12,1.0
+FR,Francia,2016,12,41.0
+BS,Bahamas,2016,12,8.0
+AN,Antillas Neerlandesas,2016,12,1406.0
+CH,Suiza,2016,12,30.0
+AU,Australia,2016,12,29.0
+GT,Guatemala,2016,12,306.0
+BO,Bolivia,2016,12,239.0
+IL,Israel,2016,12,2.0
+SR,Surinam,2016,12,14.0
+DO,República Dominicana,2016,12,1599.0
+CR,Costa Rica,2016,12,39.0
+ES,España,2016,12,5530.0
+PE,Perú,2016,12,2978.0
+CO,Colombia,2016,12,4705.0
+PT,Portugal,2016,12,19.0
+GB,Reino Unido,2016,12,557.0
+NI,Nicaragua,2016,12,10.0
+JP,Japón,2016,12,7.0
+UY,Uruguay,2016,12,118.0
+PA,Panamá,2016,12,18887.0
+BE,Bélgica,2016,12,35.0
+IT,Italia,2016,12,137.0
+AU,Australia,2015,12,1.0
+CH,Suiza,2015,12,1.0
+KY,Islas Caimán,2015,12,3.0
+GY,Guyana,2015,12,2.0
+MX,México,2015,12,4742.0
+GT,Guatemala,2015,12,312.0
+NI,Nicaragua,2015,12,12.0
+PE,Perú,2015,12,1625.0
+EC,Ecuador,2015,12,87.0
+JP,Japón,2015,12,3.0
+FR,Francia,2015,12,38.0
+BB,Barbados,2015,12,12.0
+PT,Portugal,2015,12,2.0
+UY,Uruguay,2015,12,101.0
+CA,Canadá,2015,12,155.0
+SV,El Salvador,2015,12,368.0
+BZ,Belice,2015,12,10.0
+DE,Alemania,2015,12,3.0
+DO,República Dominicana,2015,12,1403.0
+US,Estados Unidos,2015,12,24995.0
+TT,Trinidad y Tobago,2015,12,2.0
+AR,Argentina,2015,12,646.0
+BR,Brasil,2015,12,1245.0
+BS,Bahamas,2015,12,14.0
+PY,Paraguay,2015,12,44.0
+ES,España,2015,12,3975.0
+CN,China,2015,12,2.0
+QA,Qatar,2015,12,1.0
+GB,Reino Unido,2015,12,512.0
+HN,Honduras,2015,12,120.0
+PA,Panamá,2015,12,17973.0
+CU,Cuba,2015,12,274.0
+IT,Italia,2015,12,19.0
+CO,Colombia,2015,12,3127.0
+CR,Costa Rica,2015,12,95.0
+AN,Antillas Neerlandesas,2015,12,1567.0
+HT,Haití,2015,12,1.0
+VE,Venezuela,2015,12,1325.0
+NL,Países Bajos,2015,12,1.0
+BO,Bolivia,2015,12,170.0
+SR,Surinam,2015,12,30.0
+PA,Panamá,2014,12,17342.0
+CU,Cuba,2014,12,262.0
+HN,Honduras,2014,12,115.0
+BZ,Belice,2014,12,4.0
+PE,Perú,2014,12,2155.0
+ES,España,2014,12,2420.0
+BB,Barbados,2014,12,2.0
+CR,Costa Rica,2014,12,85.0
+NI,Nicaragua,2014,12,14.0
+GT,Guatemala,2014,12,184.0
+JP,Japón,2014,12,1.0
+VE,Venezuela,2014,12,352.0
+AN,Antillas Neerlandesas,2014,12,931.0
+BO,Bolivia,2014,12,101.0
+SR,Surinam,2014,12,2.0
+CL,Chile,2014,12,5.0
+EC,Ecuador,2014,12,1823.0
+UY,Uruguay,2014,12,109.0
+AR,Argentina,2014,12,990.0
+CO,Colombia,2014,12,2662.0
+DE,Alemania,2014,12,10.0
+DO,República Dominicana,2014,12,896.0
+BR,Brasil,2014,12,831.0
+FR,Francia,2014,12,30.0
+IT,Italia,2014,12,25.0
+MX,México,2014,12,3517.0
+SV,El Salvador,2014,12,196.0
+BM,Bermudas,2014,12,7.0
+CA,Canadá,2014,12,128.0
+US,Estados Unidos,2014,12,21444.0
+PY,Paraguay,2014,12,11.0
+GB,Reino Unido,2014,12,281.0
+BS,Bahamas,2014,12,2.0
+AU,Australia,2013,12,1.0
+BB,Barbados,2013,12,2.0
+CL,Chile,2013,12,8.0
+CH,Suiza,2013,12,2.0
+PY,Paraguay,2013,12,21.0
+IT,Italia,2013,12,17.0
+EC,Ecuador,2013,12,2936.0
+ES,España,2013,12,2233.0
+CA,Canadá,2013,12,134.0
+DO,República Dominicana,2013,12,1271.0
+VE,Venezuela,2013,12,1679.0
+US,Estados Unidos,2013,12,21843.0
+BZ,Belice,2013,12,1.0
+FR,Francia,2013,12,25.0
+PA,Panamá,2013,12,14486.0
+CO,Colombia,2013,12,152.0
+AN,Antillas Neerlandesas,2013,12,1369.0
+SR,Surinam,2013,12,8.0
+BR,Brasil,2013,12,842.0
+BO,Bolivia,2013,12,104.0
+NI,Nicaragua,2013,12,5.0
+SE,Suecia,2013,12,1.0
+BM,Bermudas,2013,12,1.0
+SV,El Salvador,2013,12,262.0
+BS,Bahamas,2013,12,7.0
+AR,Argentina,2013,12,701.0
+HN,Honduras,2013,12,117.0
+GB,Reino Unido,2013,12,112.0
+KY,Islas Caimán,2013,12,1.0
+PE,Perú,2013,12,2274.0
+CR,Costa Rica,2013,12,89.0
+AE,Emiratos Árabes Unidos,2013,12,1.0
+GT,Guatemala,2013,12,192.0
+CU,Cuba,2013,12,179.0
+DE,Alemania,2013,12,5.0
+PT,Portugal,2013,12,7.0
+UY,Uruguay,2013,12,43.0
+MX,México,2013,12,2278.0
+MX,México,2012,12,1164.0
+CR,Costa Rica,2012,12,565.0
+CO,Colombia,2012,12,182.0
+BM,Bermudas,2012,12,2.0
+EC,Ecuador,2012,12,3296.0
+BO,Bolivia,2012,12,68.0
+GB,Reino Unido,2012,12,56.0
+BR,Brasil,2012,12,726.0
+AN,Antillas Neerlandesas,2012,12,1252.0
+JM,Jamaica,2012,12,1.0
+TT,Trinidad y Tobago,2012,12,1.0
+PT,Portugal,2012,12,1.0
+IT,Italia,2012,12,1.0
+CA,Canadá,2012,12,92.0
+NI,Nicaragua,2012,12,4.0
+HT,Haití,2012,12,4.0
+GT,Guatemala,2012,12,97.0
+BB,Barbados,2012,12,1.0
+US,Estados Unidos,2012,12,16106.0
+BS,Bahamas,2012,12,1.0
+FR,Francia,2012,12,22.0
+ES,España,2012,12,2201.0
+DO,República Dominicana,2012,12,841.0
+UY,Uruguay,2012,12,24.0
+CU,Cuba,2012,12,82.0
+PE,Perú,2012,12,1773.0
+PA,Panamá,2012,12,13836.0
+DE,Alemania,2012,12,3.0
+SR,Surinam,2012,12,1.0
+HN,Honduras,2012,12,103.0
+AR,Argentina,2012,12,396.0
+PY,Paraguay,2012,12,6.0
+SV,El Salvador,2012,12,456.0
+VE,Venezuela,2012,12,1538.0
+CH,Suiza,2011,12,1.0
+PE,Perú,2011,12,1092.0
+GT,Guatemala,2011,12,1.0
+SV,El Salvador,2011,12,130.0
+EC,Ecuador,2011,12,2278.0
+DE,Alemania,2011,12,3.0
+IT,Italia,2011,12,3.0
+US,Estados Unidos,2011,12,13354.0
+BR,Brasil,2011,12,369.0
+PA,Panamá,2011,12,10248.0
+SR,Surinam,2011,12,1.0
+GB,Reino Unido,2011,12,54.0
+MX,México,2011,12,807.0
+TT,Trinidad y Tobago,2011,12,1.0
+KY,Islas Caimán,2011,12,1.0
+JM,Jamaica,2011,12,8.0
+AR,Argentina,2011,12,359.0
+CA,Canadá,2011,12,55.0
+HT,Haití,2011,12,1.0
+CO,Colombia,2011,12,150.0
+DO,República Dominicana,2011,12,552.0
+CR,Costa Rica,2011,12,1218.0
+FR,Francia,2011,12,11.0
+ES,España,2011,12,1902.0
+AN,Antillas Neerlandesas,2011,12,1017.0
+VE,Venezuela,2011,12,1174.0
+BO,Bolivia,2011,12,39.0
+PE,Perú,2010,12,1692.0
+SV,El Salvador,2010,12,230.0
+GB,Reino Unido,2010,12,41.0
+PY,Paraguay,2010,12,28.0
+UY,Uruguay,2010,12,62.0
+EC,Ecuador,2010,12,3981.0
+CA,Canadá,2010,12,114.0
+BM,Bermudas,2010,12,1.0
+CO,Colombia,2010,12,74.0
+TT,Trinidad y Tobago,2010,12,30.0
+FR,Francia,2010,12,14.0
+DO,República Dominicana,2010,12,599.0
+HT,Haití,2010,12,9.0
+BS,Bahamas,2010,12,7.0
+IL,Israel,2010,12,1.0
+VE,Venezuela,2010,12,1205.0
+PA,Panamá,2010,12,7182.0
+CU,Cuba,2010,12,112.0
+KY,Islas Caimán,2010,12,3.0
+CR,Costa Rica,2010,12,512.0
+ES,España,2010,12,1914.0
+MX,México,2010,12,1118.0
+US,Estados Unidos,2010,12,17737.0
+AN,Antillas Neerlandesas,2010,12,579.0
+AR,Argentina,2010,12,870.0
+GT,Guatemala,2010,12,284.0
+BO,Bolivia,2010,12,62.0
+HN,Honduras,2010,12,72.0
+DE,Alemania,2010,12,2.0
+NI,Nicaragua,2010,12,26.0
+BR,Brasil,2010,12,519.0
+DE,Alemania,2009,12,8.0
+FR,Francia,2009,12,33.0
+AN,Antillas Neerlandesas,2009,12,612.0
+SV,El Salvador,2009,12,2.0
+BS,Bahamas,2009,12,2.0
+CA,Canadá,2009,12,110.0
+BM,Bermudas,2009,12,1.0
+CR,Costa Rica,2009,12,273.0
+US,Estados Unidos,2009,12,16361.0
+PY,Paraguay,2009,12,14.0
+AR,Argentina,2009,12,876.0
+VE,Venezuela,2009,12,1211.0
+GB,Reino Unido,2009,12,89.0
+BO,Bolivia,2009,12,104.0
+PA,Panamá,2009,12,6512.0
+UY,Uruguay,2009,12,65.0
+CU,Cuba,2009,12,88.0
+NI,Nicaragua,2009,12,8.0
+BR,Brasil,2009,12,512.0
+HT,Haití,2009,12,5.0
+DO,República Dominicana,2009,12,440.0
+TT,Trinidad y Tobago,2009,12,26.0
+PE,Perú,2009,12,1961.0
+CO,Colombia,2009,12,186.0
+GT,Guatemala,2009,12,47.0
+MX,México,2009,12,403.0
+ES,España,2009,12,1249.0
+EC,Ecuador,2009,12,2028.0
+HN,Honduras,2009,12,49.0
+HN,Honduras,2008,12,77.0
+BS,Bahamas,2008,12,3.0
+HK,Hong Kong,2008,12,1.0
+VE,Venezuela,2008,12,1456.0
+CU,Cuba,2008,12,52.0
+GT,Guatemala,2008,12,60.0
+TT,Trinidad y Tobago,2008,12,30.0
+AN,Antillas Neerlandesas,2008,12,564.0
+BE,Bélgica,2008,12,3.0
+DE,Alemania,2008,12,7.0
+PE,Perú,2008,12,1791.0
+ES,España,2008,12,872.0
+CA,Canadá,2008,12,76.0
+SV,El Salvador,2008,12,2.0
+CO,Colombia,2008,12,145.0
+AR,Argentina,2008,12,557.0
+IT,Italia,2008,12,3.0
+HT,Haití,2008,12,4.0
+CR,Costa Rica,2008,12,201.0
+PY,Paraguay,2008,12,2.0
+UY,Uruguay,2008,12,24.0
+MX,México,2008,12,376.0
+BO,Bolivia,2008,12,44.0
+PA,Panamá,2008,12,5816.0
+GB,Reino Unido,2008,12,88.0
+NI,Nicaragua,2008,12,7.0
+CH,Suiza,2008,12,1.0
+BR,Brasil,2008,12,468.0
+EC,Ecuador,2008,12,1524.0
+FR,Francia,2008,12,16.0
+US,Estados Unidos,2008,12,12359.0
+DO,República Dominicana,2008,12,324.0
+CR,Costa Rica,2007,12,127.0
+TT,Trinidad y Tobago,2007,12,4.0
+HN,Honduras,2007,12,27.0
+FR,Francia,2007,12,39.0
+ES,España,2007,12,1020.0
+UY,Uruguay,2007,12,1.0
+GB,Reino Unido,2007,12,88.0
+CU,Cuba,2007,12,162.0
+BR,Brasil,2007,12,416.0
+DE,Alemania,2007,12,20.0
+CO,Colombia,2007,12,240.0
+MX,México,2007,12,617.0
+KY,Islas Caimán,2007,12,1.0
+CA,Canadá,2007,12,126.0
+VE,Venezuela,2007,12,1394.0
+NI,Nicaragua,2007,12,10.0
+DO,República Dominicana,2007,12,477.0
+BS,Bahamas,2007,12,4.0
+PA,Panamá,2007,12,4607.0
+EC,Ecuador,2007,12,1161.0
+HT,Haití,2007,12,6.0
+SV,El Salvador,2007,12,58.0
+PE,Perú,2007,12,604.0
+US,Estados Unidos,2007,12,11937.0
+AN,Antillas Neerlandesas,2007,12,535.0
+AR,Argentina,2007,12,478.0
+BB,Barbados,2007,12,2.0
+GT,Guatemala,2007,12,82.0
+IT,Italia,2007,12,16.0
+GT,Guatemala,2022,11,356.0
+NI,Nicaragua,2022,11,1.0
+AG,Antigua and Barbuda,2022,11,1.0
+AR,Argentina,2022,11,1427.0
+GP,Guadalupe,2022,11,1.0
+TT,Trinidad y Tobago,2022,11,10.0
+MA,Marruecos,2022,11,1.0
+PT,Portugal,2022,11,110.0
+PE,Perú,2022,11,5418.0
+AE,Emiratos Árabes Unidos,2022,11,3.0
+DO,República Dominicana,2022,11,10758.0
+MX,México,2022,11,16918.0
+BR,Brasil,2022,11,1418.0
+LC,Santa Lucia,2022,11,1.0
+VE,Venezuela,2022,11,6.0
+CU,Cuba,2022,11,1287.0
+GB,Reino Unido,2022,11,505.0
+ES,España,2022,11,7243.0
+CA,Canadá,2022,11,478.0
+IE,Irlanda,2022,11,1.0
+IL,Israel,2022,11,25.0
+LB,Líbano,2022,11,1.0
+KY,Islas Caimán,2022,11,1.0
+BE,Bélgica,2022,11,121.0
+BS,Bahamas,2022,11,9.0
+PA,Panamá,2022,11,29274.0
+CL,Chile,2022,11,748.0
+BB,Barbados,2022,11,3.0
+US,Estados Unidos,2022,11,40680.0
+IT,Italia,2022,11,255.0
+EC,Ecuador,2022,11,1415.0
+SV,El Salvador,2022,11,352.0
+CH,Suiza,2022,11,134.0
+QA,Qatar,2022,11,13.0
+UY,Uruguay,2022,11,90.0
+NL,Países Bajos,2022,11,148.0
+HN,Honduras,2022,11,2.0
+CR,Costa Rica,2022,11,1732.0
+PR,Puerto Rico,2022,11,1537.0
+BO,Bolivia,2022,11,68.0
+AN,Antillas Neerlandesas,2022,11,2429.0
+JM,Jamaica,2022,11,1.0
+DE,Alemania,2022,11,133.0
+FR,Francia,2022,11,11.0
+PY,Paraguay,2022,11,27.0
+US,Estados Unidos,2021,11,36821.0
+PE,Perú,2021,11,1202.0
+PY,Paraguay,2021,11,15.0
+KR,Corea del Sur,2021,11,3.0
+AR,Argentina,2021,11,290.0
+QA,Qatar,2021,11,7.0
+DO,República Dominicana,2021,11,3841.0
+PA,Panamá,2021,11,25057.0
+SE,Suecia,2021,11,1.0
+ES,España,2021,11,4487.0
+MX,México,2021,11,13185.0
+EC,Ecuador,2021,11,274.0
+GB,Reino Unido,2021,11,38.0
+NI,Nicaragua,2021,11,4.0
+JP,Japón,2021,11,0.0
+KY,Islas Caimán,2021,11,0.0
+BS,Bahamas,2021,11,2.0
+NL,Países Bajos,2021,11,49.0
+PR,Puerto Rico,2021,11,522.0
+CL,Chile,2021,11,225.0
+IL,Israel,2021,11,2.0
+BE,Bélgica,2021,11,32.0
+PT,Portugal,2021,11,23.0
+AG,Antigua and Barbuda,2021,11,1.0
+CR,Costa Rica,2021,11,292.0
+FR,Francia,2021,11,38.0
+IT,Italia,2021,11,52.0
+JM,Jamaica,2021,11,3.0
+CA,Canadá,2021,11,95.0
+SR,Surinam,2021,11,2.0
+AN,Antillas Neerlandesas,2021,11,558.0
+SV,El Salvador,2021,11,15.0
+BO,Bolivia,2021,11,37.0
+GT,Guatemala,2021,11,126.0
+BB,Barbados,2021,11,0.0
+DE,Alemania,2021,11,80.0
+CH,Suiza,2021,11,46.0
+BR,Brasil,2021,11,429.0
+HN,Honduras,2021,11,5.0
+FR,Francia,2020,11,1.0
+UY,Uruguay,2020,11,36.0
+SV,El Salvador,2020,11,1.0
+VE,Venezuela,2020,11,0.0
+MX,México,2020,11,1696.0
+EC,Ecuador,2020,11,75.0
+BO,Bolivia,2020,11,38.0
+PE,Perú,2020,11,289.0
+IT,Italia,2020,11,0.0
+JM,Jamaica,2020,11,0.0
+CA,Canadá,2020,11,9.0
+CL,Chile,2020,11,42.0
+GT,Guatemala,2020,11,45.0
+AR,Argentina,2020,11,16.0
+AU,Australia,2020,11,0.0
+CR,Costa Rica,2020,11,84.0
+DO,República Dominicana,2020,11,287.0
+ES,España,2020,11,442.0
+PR,Puerto Rico,2020,11,22.0
+BR,Brasil,2020,11,187.0
+NL,Países Bajos,2020,11,2.0
+KR,Corea del Sur,2020,11,1.0
+HN,Honduras,2020,11,0.0
+AN,Antillas Neerlandesas,2020,11,5.0
+PA,Panamá,2020,11,1029.0
+US,Estados Unidos,2020,11,11743.0
+GB,Reino Unido,2020,11,21.0
+AG,Antigua and Barbuda,2020,11,0.0
+CL,Chile,2019,11,632.0
+BR,Brasil,2019,11,1095.0
+IN,india,2019,11,1.0
+GB,Reino Unido,2019,11,574.0
+TT,Trinidad y Tobago,2019,11,1.0
+MA,Marruecos,2019,11,6.0
+AR,Argentina,2019,11,794.0
+DO,República Dominicana,2019,11,1102.0
+SE,Suecia,2019,11,1.0
+HN,Honduras,2019,11,103.0
+CA,Canadá,2019,11,96.0
+ES,España,2019,11,7965.0
+KR,Corea del Sur,2019,11,6.0
+QA,Qatar,2019,11,1.0
+PY,Paraguay,2019,11,53.0
+NZ,Nueva Zelanda,2019,11,1.0
+GT,Guatemala,2019,11,447.0
+PE,Perú,2019,11,5352.0
+JM,Jamaica,2019,11,9.0
+BB,Barbados,2019,11,1.0
+IE,Irlanda,2019,11,2.0
+JP,Japón,2019,11,30.0
+AN,Antillas Neerlandesas,2019,11,476.0
+SV,El Salvador,2019,11,631.0
+PA,Panamá,2019,11,18886.0
+CH,Suiza,2019,11,109.0
+PT,Portugal,2019,11,84.0
+UY,Uruguay,2019,11,122.0
+NL,Países Bajos,2019,11,105.0
+BO,Bolivia,2019,11,38.0
+FR,Francia,2019,11,87.0
+EC,Ecuador,2019,11,103.0
+PR,Puerto Rico,2019,11,531.0
+IL,Israel,2019,11,160.0
+CN,China,2019,11,3.0
+IT,Italia,2019,11,363.0
+BE,Bélgica,2019,11,75.0
+MX,México,2019,11,11940.0
+BS,Bahamas,2019,11,10.0
+DE,Alemania,2019,11,303.0
+CR,Costa Rica,2019,11,39.0
+CU,Cuba,2019,11,196.0
+US,Estados Unidos,2019,11,25438.0
+AT,Austria,2019,11,10.0
+AR,Argentina,2018,11,880.0
+VE,Venezuela,2018,11,2211.0
+IT,Italia,2018,11,245.0
+GB,Reino Unido,2018,11,492.0
+SR,Surinam,2018,11,2.0
+UY,Uruguay,2018,11,209.0
+TT,Trinidad y Tobago,2018,11,1.0
+NL,Países Bajos,2018,11,22.0
+MY,Malasia,2018,11,0.0
+BR,Brasil,2018,11,655.0
+CU,Cuba,2018,11,135.0
+KP,Corea del Norte,2018,11,3.0
+BZ,Belice,2018,11,3.0
+MA,Marruecos,2018,11,1.0
+PT,Portugal,2018,11,34.0
+HN,Honduras,2018,11,62.0
+PA,Panamá,2018,11,23302.0
+CH,Suiza,2018,11,40.0
+MX,México,2018,11,5518.0
+ES,España,2018,11,5842.0
+PR,Puerto Rico,2018,11,400.0
+SV,El Salvador,2018,11,229.0
+BS,Bahamas,2018,11,8.0
+JM,Jamaica,2018,11,1.0
+AN,Antillas Neerlandesas,2018,11,445.0
+US,Estados Unidos,2018,11,27745.0
+CA,Canadá,2018,11,242.0
+JP,Japón,2018,11,2.0
+BB,Barbados,2018,11,2.0
+LU,Luxemburgo,2018,11,1.0
+GT,Guatemala,2018,11,399.0
+LV,Letonia,2018,11,0.0
+FR,Francia,2018,11,89.0
+IL,Israel,2018,11,31.0
+BO,Bolivia,2018,11,202.0
+CL,Chile,2018,11,976.0
+DE,Alemania,2018,11,189.0
+CR,Costa Rica,2018,11,27.0
+AT,Austria,2018,11,11.0
+EC,Ecuador,2018,11,10.0
+PE,Perú,2018,11,4699.0
+CN,China,2018,11,4.0
+QA,Qatar,2018,11,2.0
+DO,República Dominicana,2018,11,1198.0
+PY,Paraguay,2018,11,82.0
+BE,Bélgica,2018,11,32.0
+JM,Jamaica,2017,11,6.0
+NI,Nicaragua,2017,11,24.0
+CU,Cuba,2017,11,141.0
+SV,El Salvador,2017,11,383.0
+AR,Argentina,2017,11,405.0
+CA,Canadá,2017,11,433.0
+IL,Israel,2017,11,12.0
+TR,Turquía,2017,11,2.0
+SE,Suecia,2017,11,0.0
+CR,Costa Rica,2017,11,100.0
+NL,Países Bajos,2017,11,34.0
+TT,Trinidad y Tobago,2017,11,10.0
+HN,Honduras,2017,11,122.0
+GB,Reino Unido,2017,11,449.0
+ZA,Sudáfrica,2017,11,3.0
+KR,Corea del Sur,2017,11,6.0
+KN,San Cristóbal y Nieves,2017,11,3.0
+CN,China,2017,11,0.0
+CH,Suiza,2017,11,86.0
+IE,Irlanda,2017,11,3.0
+CL,Chile,2017,11,519.0
+PA,Panamá,2017,11,24123.0
+BR,Brasil,2017,11,657.0
+FR,Francia,2017,11,64.0
+EC,Ecuador,2017,11,43.0
+PT,Portugal,2017,11,38.0
+BZ,Belice,2017,11,2.0
+AN,Antillas Neerlandesas,2017,11,681.0
+ES,España,2017,11,4529.0
+PR,Puerto Rico,2017,11,101.0
+MX,México,2017,11,4727.0
+PY,Paraguay,2017,11,30.0
+UY,Uruguay,2017,11,155.0
+AU,Australia,2017,11,30.0
+HT,Haití,2017,11,2.0
+DE,Alemania,2017,11,52.0
+BO,Bolivia,2017,11,201.0
+GT,Guatemala,2017,11,333.0
+KY,Islas Caimán,2017,11,2.0
+IT,Italia,2017,11,232.0
+BB,Barbados,2017,11,8.0
+QA,Qatar,2017,11,4.0
+JP,Japón,2017,11,4.0
+US,Estados Unidos,2017,11,23767.0
+PE,Perú,2017,11,1905.0
+RU,Rusia,2017,11,1.0
+BE,Bélgica,2017,11,49.0
+GY,Guyana,2017,11,1.0
+AT,Austria,2017,11,8.0
+DO,República Dominicana,2017,11,973.0
+BS,Bahamas,2017,11,18.0
+VE,Venezuela,2017,11,1868.0
+ZA,Sudáfrica,2016,11,1.0
+CU,Cuba,2016,11,274.0
+BR,Brasil,2016,11,918.0
+CR,Costa Rica,2016,11,153.0
+AR,Argentina,2016,11,1039.0
+SV,El Salvador,2016,11,406.0
+DO,República Dominicana,2016,11,1241.0
+JP,Japón,2016,11,14.0
+TR,Turquía,2016,11,1.0
+SR,Surinam,2016,11,8.0
+VE,Venezuela,2016,11,481.0
+BZ,Belice,2016,11,8.0
+HN,Honduras,2016,11,192.0
+CA,Canadá,2016,11,134.0
+AN,Antillas Neerlandesas,2016,11,1244.0
+PY,Paraguay,2016,11,80.0
+BB,Barbados,2016,11,15.0
+CO,Colombia,2016,11,3276.0
+AU,Australia,2016,11,14.0
+PT,Portugal,2016,11,12.0
+US,Estados Unidos,2016,11,19266.0
+CH,Suiza,2016,11,18.0
+GT,Guatemala,2016,11,313.0
+UY,Uruguay,2016,11,97.0
+EC,Ecuador,2016,11,61.0
+BS,Bahamas,2016,11,6.0
+TT,Trinidad y Tobago,2016,11,1.0
+PA,Panamá,2016,11,19681.0
+MX,México,2016,11,4665.0
+ES,España,2016,11,3626.0
+QA,Qatar,2016,11,1.0
+IT,Italia,2016,11,94.0
+FR,Francia,2016,11,30.0
+DE,Alemania,2016,11,21.0
+IL,Israel,2016,11,5.0
+GB,Reino Unido,2016,11,331.0
+BE,Bélgica,2016,11,17.0
+JM,Jamaica,2016,11,1.0
+BO,Bolivia,2016,11,143.0
+NL,Países Bajos,2016,11,14.0
+PE,Perú,2016,11,2869.0
+NI,Nicaragua,2016,11,22.0
+UY,Uruguay,2015,11,99.0
+IT,Italia,2015,11,137.0
+HT,Haití,2015,11,3.0
+RU,Rusia,2015,11,1.0
+HN,Honduras,2015,11,123.0
+AR,Argentina,2015,11,829.0
+KN,San Cristóbal y Nieves,2015,11,1.0
+US,Estados Unidos,2015,11,20536.0
+FR,Francia,2015,11,23.0
+CN,China,2015,11,14.0
+PT,Portugal,2015,11,12.0
+TT,Trinidad y Tobago,2015,11,10.0
+NL,Países Bajos,2015,11,24.0
+PE,Perú,2015,11,1632.0
+BB,Barbados,2015,11,3.0
+GY,Guyana,2015,11,1.0
+PY,Paraguay,2015,11,42.0
+EC,Ecuador,2015,11,129.0
+CA,Canadá,2015,11,91.0
+DO,República Dominicana,2015,11,1301.0
+ES,España,2015,11,2809.0
+BR,Brasil,2015,11,1540.0
+SV,El Salvador,2015,11,359.0
+CR,Costa Rica,2015,11,128.0
+CU,Cuba,2015,11,176.0
+SN,Senegal,2015,11,1.0
+GB,Reino Unido,2015,11,305.0
+GT,Guatemala,2015,11,438.0
+CO,Colombia,2015,11,3407.0
+BS,Bahamas,2015,11,7.0
+VE,Venezuela,2015,11,1466.0
+DE,Alemania,2015,11,32.0
+BO,Bolivia,2015,11,151.0
+AU,Australia,2015,11,24.0
+BE,Bélgica,2015,11,21.0
+PA,Panamá,2015,11,17786.0
+NI,Nicaragua,2015,11,63.0
+AN,Antillas Neerlandesas,2015,11,1207.0
+JM,Jamaica,2015,11,1.0
+DK,Dinamarca,2015,11,8.0
+BZ,Belice,2015,11,4.0
+SR,Surinam,2015,11,42.0
+IL,Israel,2015,11,6.0
+CH,Suiza,2015,11,22.0
+MX,México,2015,11,4389.0
+BB,Barbados,2014,11,2.0
+ES,España,2014,11,1970.0
+BR,Brasil,2014,11,1179.0
+PY,Paraguay,2014,11,50.0
+MX,México,2014,11,2918.0
+CO,Colombia,2014,11,2668.0
+IT,Italia,2014,11,20.0
+VE,Venezuela,2014,11,447.0
+DO,República Dominicana,2014,11,861.0
+HN,Honduras,2014,11,104.0
+CA,Canadá,2014,11,116.0
+AN,Antillas Neerlandesas,2014,11,680.0
+US,Estados Unidos,2014,11,18152.0
+FR,Francia,2014,11,9.0
+UY,Uruguay,2014,11,126.0
+CL,Chile,2014,11,2.0
+SV,El Salvador,2014,11,170.0
+HT,Haití,2014,11,2.0
+IE,Irlanda,2014,11,1.0
+BS,Bahamas,2014,11,1.0
+CU,Cuba,2014,11,222.0
+PA,Panamá,2014,11,14458.0
+AR,Argentina,2014,11,696.0
+DE,Alemania,2014,11,5.0
+EC,Ecuador,2014,11,1697.0
+PE,Perú,2014,11,2257.0
+GT,Guatemala,2014,11,225.0
+NI,Nicaragua,2014,11,23.0
+GB,Reino Unido,2014,11,192.0
+TT,Trinidad y Tobago,2014,11,1.0
+SR,Surinam,2014,11,5.0
+BO,Bolivia,2014,11,186.0
+BM,Bermudas,2014,11,1.0
+CR,Costa Rica,2014,11,46.0
+AN,Antillas Neerlandesas,2013,11,968.0
+NI,Nicaragua,2013,11,18.0
+CR,Costa Rica,2013,11,71.0
+BR,Brasil,2013,11,954.0
+FR,Francia,2013,11,28.0
+PE,Perú,2013,11,2064.0
+CU,Cuba,2013,11,197.0
+MX,México,2013,11,1840.0
+EC,Ecuador,2013,11,2784.0
+VE,Venezuela,2013,11,2307.0
+DO,República Dominicana,2013,11,1089.0
+SR,Surinam,2013,11,1.0
+AE,Emiratos Árabes Unidos,2013,11,2.0
+US,Estados Unidos,2013,11,18257.0
+HT,Haití,2013,11,3.0
+HN,Honduras,2013,11,75.0
+CO,Colombia,2013,11,164.0
+PT,Portugal,2013,11,1.0
+GB,Reino Unido,2013,11,62.0
+TT,Trinidad y Tobago,2013,11,3.0
+GT,Guatemala,2013,11,178.0
+ES,España,2013,11,1784.0
+CA,Canadá,2013,11,100.0
+BB,Barbados,2013,11,5.0
+AR,Argentina,2013,11,507.0
+SV,El Salvador,2013,11,193.0
+IT,Italia,2013,11,4.0
+CH,Suiza,2013,11,1.0
+PY,Paraguay,2013,11,22.0
+BS,Bahamas,2013,11,3.0
+PA,Panamá,2013,11,12570.0
+UY,Uruguay,2013,11,58.0
+BO,Bolivia,2013,11,94.0
+SR,Surinam,2012,11,2.0
+HT,Haití,2012,11,4.0
+BS,Bahamas,2012,11,3.0
+MX,México,2012,11,776.0
+AR,Argentina,2012,11,404.0
+DE,Alemania,2012,11,3.0
+VE,Venezuela,2012,11,1414.0
+NI,Nicaragua,2012,11,11.0
+CR,Costa Rica,2012,11,469.0
+PA,Panamá,2012,11,12289.0
+UY,Uruguay,2012,11,39.0
+PE,Perú,2012,11,1772.0
+KY,Islas Caimán,2012,11,2.0
+BM,Bermudas,2012,11,1.0
+CA,Canadá,2012,11,93.0
+CU,Cuba,2012,11,70.0
+CH,Suiza,2012,11,2.0
+AN,Antillas Neerlandesas,2012,11,1132.0
+US,Estados Unidos,2012,11,14348.0
+BO,Bolivia,2012,11,54.0
+CO,Colombia,2012,11,186.0
+GB,Reino Unido,2012,11,46.0
+BR,Brasil,2012,11,743.0
+DO,República Dominicana,2012,11,562.0
+BB,Barbados,2012,11,1.0
+ES,España,2012,11,1634.0
+FR,Francia,2012,11,17.0
+GT,Guatemala,2012,11,153.0
+SV,El Salvador,2012,11,237.0
+PY,Paraguay,2012,11,26.0
+IT,Italia,2012,11,2.0
+HN,Honduras,2012,11,86.0
+EC,Ecuador,2012,11,2520.0
+AN,Antillas Neerlandesas,2011,11,815.0
+NL,Países Bajos,2011,11,1.0
+HT,Haití,2011,11,2.0
+BR,Brasil,2011,11,373.0
+EC,Ecuador,2011,11,2464.0
+SV,El Salvador,2011,11,127.0
+CH,Suiza,2011,11,1.0
+CR,Costa Rica,2011,11,1192.0
+CA,Canadá,2011,11,46.0
+PA,Panamá,2011,11,9351.0
+AR,Argentina,2011,11,317.0
+GB,Reino Unido,2011,11,54.0
+FR,Francia,2011,11,7.0
+JM,Jamaica,2011,11,3.0
+BO,Bolivia,2011,11,22.0
+DE,Alemania,2011,11,3.0
+ES,España,2011,11,1491.0
+KY,Islas Caimán,2011,11,1.0
+DO,República Dominicana,2011,11,392.0
+US,Estados Unidos,2011,11,11836.0
+VE,Venezuela,2011,11,1183.0
+PE,Perú,2011,11,1157.0
+CO,Colombia,2011,11,149.0
+MX,México,2011,11,804.0
+AR,Argentina,2010,11,738.0
+CA,Canadá,2010,11,88.0
+US,Estados Unidos,2010,11,14237.0
+CO,Colombia,2010,11,96.0
+HT,Haití,2010,11,4.0
+PE,Perú,2010,11,1594.0
+BS,Bahamas,2010,11,2.0
+BO,Bolivia,2010,11,58.0
+ES,España,2010,11,1376.0
+GB,Reino Unido,2010,11,44.0
+BR,Brasil,2010,11,629.0
+SV,El Salvador,2010,11,152.0
+IT,Italia,2010,11,8.0
+UY,Uruguay,2010,11,85.0
+BZ,Belice,2010,11,1.0
+VE,Venezuela,2010,11,1444.0
+MX,México,2010,11,974.0
+PA,Panamá,2010,11,7181.0
+TT,Trinidad y Tobago,2010,11,28.0
+PY,Paraguay,2010,11,46.0
+KY,Islas Caimán,2010,11,1.0
+CU,Cuba,2010,11,91.0
+DO,República Dominicana,2010,11,458.0
+FR,Francia,2010,11,3.0
+NI,Nicaragua,2010,11,37.0
+CR,Costa Rica,2010,11,654.0
+GT,Guatemala,2010,11,121.0
+HN,Honduras,2010,11,105.0
+DE,Alemania,2010,11,6.0
+AN,Antillas Neerlandesas,2010,11,477.0
+BM,Bermudas,2010,11,2.0
+EC,Ecuador,2010,11,3200.0
+HN,Honduras,2009,11,28.0
+MX,México,2009,11,393.0
+AN,Antillas Neerlandesas,2009,11,490.0
+CO,Colombia,2009,11,131.0
+PY,Paraguay,2009,11,1.0
+AR,Argentina,2009,11,837.0
+CU,Cuba,2009,11,62.0
+CH,Suiza,2009,11,2.0
+EC,Ecuador,2009,11,1985.0
+CA,Canadá,2009,11,83.0
+BO,Bolivia,2009,11,68.0
+IT,Italia,2009,11,1.0
+ES,España,2009,11,1072.0
+GT,Guatemala,2009,11,51.0
+PA,Panamá,2009,11,7024.0
+TT,Trinidad y Tobago,2009,11,39.0
+CR,Costa Rica,2009,11,240.0
+BS,Bahamas,2009,11,1.0
+DE,Alemania,2009,11,9.0
+BR,Brasil,2009,11,564.0
+DO,República Dominicana,2009,11,496.0
+GB,Reino Unido,2009,11,44.0
+US,Estados Unidos,2009,11,11296.0
+SV,El Salvador,2009,11,2.0
+PE,Perú,2009,11,1954.0
+HT,Haití,2009,11,4.0
+FR,Francia,2009,11,15.0
+NI,Nicaragua,2009,11,13.0
+VE,Venezuela,2009,11,1336.0
+UY,Uruguay,2009,11,60.0
+UY,Uruguay,2008,11,27.0
+EC,Ecuador,2008,11,1774.0
+PA,Panamá,2008,11,5546.0
+IT,Italia,2008,11,2.0
+US,Estados Unidos,2008,11,9357.0
+KY,Islas Caimán,2008,11,2.0
+TT,Trinidad y Tobago,2008,11,32.0
+CH,Suiza,2008,11,2.0
+FR,Francia,2008,11,24.0
+GB,Reino Unido,2008,11,57.0
+SV,El Salvador,2008,11,1.0
+AR,Argentina,2008,11,607.0
+NL,Países Bajos,2008,11,1.0
+MX,México,2008,11,411.0
+BE,Bélgica,2008,11,3.0
+VE,Venezuela,2008,11,1421.0
+DE,Alemania,2008,11,8.0
+NI,Nicaragua,2008,11,6.0
+GT,Guatemala,2008,11,87.0
+BO,Bolivia,2008,11,65.0
+ES,España,2008,11,795.0
+PE,Perú,2008,11,1742.0
+BS,Bahamas,2008,11,2.0
+BB,Barbados,2008,11,1.0
+BR,Brasil,2008,11,432.0
+AN,Antillas Neerlandesas,2008,11,435.0
+CO,Colombia,2008,11,166.0
+CR,Costa Rica,2008,11,165.0
+HN,Honduras,2008,11,45.0
+CU,Cuba,2008,11,25.0
+DO,República Dominicana,2008,11,338.0
+CA,Canadá,2008,11,64.0
+FR,Francia,2007,11,27.0
+DO,República Dominicana,2007,11,288.0
+MX,México,2007,11,350.0
+UY,Uruguay,2007,11,3.0
+HT,Haití,2007,11,4.0
+VE,Venezuela,2007,11,1371.0
+CU,Cuba,2007,11,67.0
+EC,Ecuador,2007,11,1059.0
+SV,El Salvador,2007,11,38.0
+JM,Jamaica,2007,11,2.0
+TT,Trinidad y Tobago,2007,11,4.0
+CL,Chile,2007,11,1.0
+BR,Brasil,2007,11,394.0
+AN,Antillas Neerlandesas,2007,11,455.0
+GT,Guatemala,2007,11,26.0
+CR,Costa Rica,2007,11,113.0
+HN,Honduras,2007,11,14.0
+BB,Barbados,2007,11,1.0
+GB,Reino Unido,2007,11,50.0
+DE,Alemania,2007,11,5.0
+PE,Perú,2007,11,460.0
+PA,Panamá,2007,11,3855.0
+BZ,Belice,2007,11,1.0
+US,Estados Unidos,2007,11,9045.0
+NI,Nicaragua,2007,11,2.0
+CH,Suiza,2007,11,2.0
+CO,Colombia,2007,11,225.0
+CA,Canadá,2007,11,42.0
+AR,Argentina,2007,11,390.0
+ES,España,2007,11,897.0
+TR,Turquía,2007,11,10.0
+BR,Brasil,2022,10,1527.0
+PY,Paraguay,2022,10,96.0
+KY,Islas Caimán,2022,10,1.0
+NL,Países Bajos,2022,10,97.0
+UY,Uruguay,2022,10,57.0
+KN,San Cristóbal y Nieves,2022,10,1.0
+CL,Chile,2022,10,441.0
+NI,Nicaragua,2022,10,2.0
+TR,Turquía,2022,10,2.0
+GP,Guadalupe,2022,10,1.0
+SV,El Salvador,2022,10,228.0
+PA,Panamá,2022,10,29134.0
+HN,Honduras,2022,10,5.0
+PE,Perú,2022,10,5314.0
+PT,Portugal,2022,10,154.0
+SE,Suecia,2022,10,7.0
+DE,Alemania,2022,10,186.0
+IL,Israel,2022,10,37.0
+DO,República Dominicana,2022,10,10701.0
+BB,Barbados,2022,10,1.0
+CR,Costa Rica,2022,10,1595.0
+BS,Bahamas,2022,10,3.0
+MX,México,2022,10,18737.0
+JP,Japón,2022,10,1.0
+AN,Antillas Neerlandesas,2022,10,2854.0
+FR,Francia,2022,10,9.0
+GB,Reino Unido,2022,10,514.0
+PR,Puerto Rico,2022,10,870.0
+US,Estados Unidos,2022,10,40987.0
+CU,Cuba,2022,10,863.0
+QA,Qatar,2022,10,29.0
+AR,Argentina,2022,10,1212.0
+TT,Trinidad y Tobago,2022,10,9.0
+JM,Jamaica,2022,10,6.0
+BE,Bélgica,2022,10,122.0
+AG,Antigua and Barbuda,2022,10,1.0
+ES,España,2022,10,8412.0
+GR,Grecia,2022,10,1.0
+GT,Guatemala,2022,10,165.0
+IT,Italia,2022,10,293.0
+CH,Suiza,2022,10,108.0
+BO,Bolivia,2022,10,75.0
+KR,Corea del Sur,2022,10,3.0
+EC,Ecuador,2022,10,1607.0
+CA,Canadá,2022,10,512.0
+RO,Rumania,2021,10,3.0
+GT,Guatemala,2021,10,78.0
+IT,Italia,2021,10,104.0
+BR,Brasil,2021,10,277.0
+DO,República Dominicana,2021,10,3304.0
+CL,Chile,2021,10,225.0
+NL,Países Bajos,2021,10,67.0
+CA,Canadá,2021,10,49.0
+MX,México,2021,10,11765.0
+US,Estados Unidos,2021,10,36455.0
+IL,Israel,2021,10,1.0
+GB,Reino Unido,2021,10,31.0
+ES,España,2021,10,3578.0
+BO,Bolivia,2021,10,42.0
+CH,Suiza,2021,10,84.0
+PR,Puerto Rico,2021,10,141.0
+SV,El Salvador,2021,10,7.0
+DE,Alemania,2021,10,60.0
+BS,Bahamas,2021,10,1.0
+PY,Paraguay,2021,10,27.0
+FR,Francia,2021,10,84.0
+TR,Turquía,2021,10,10.0
+EC,Ecuador,2021,10,63.0
+CR,Costa Rica,2021,10,182.0
+HN,Honduras,2021,10,5.0
+BE,Bélgica,2021,10,42.0
+AN,Antillas Neerlandesas,2021,10,452.0
+PA,Panamá,2021,10,24523.0
+PE,Perú,2021,10,2136.0
+AR,Argentina,2021,10,101.0
+KR,Corea del Sur,2021,10,8.0
+PT,Portugal,2021,10,30.0
+GB,Reino Unido,2020,10,6.0
+CL,Chile,2020,10,14.0
+NI,Nicaragua,2020,10,16.0
+DO,República Dominicana,2020,10,107.0
+PE,Perú,2020,10,392.0
+NL,Países Bajos,2020,10,4.0
+CA,Canadá,2020,10,21.0
+PR,Puerto Rico,2020,10,1.0
+SV,El Salvador,2020,10,1.0
+AN,Antillas Neerlandesas,2020,10,4.0
+EC,Ecuador,2020,10,220.0
+FR,Francia,2020,10,2.0
+AR,Argentina,2020,10,2.0
+ES,España,2020,10,359.0
+US,Estados Unidos,2020,10,13444.0
+JM,Jamaica,2020,10,11.0
+PA,Panamá,2020,10,3156.0
+GT,Guatemala,2020,10,61.0
+KR,Corea del Sur,2020,10,1.0
+MX,México,2020,10,1638.0
+BO,Bolivia,2020,10,15.0
+CR,Costa Rica,2020,10,5.0
+BR,Brasil,2020,10,167.0
+DE,Alemania,2020,10,1.0
+EC,Ecuador,2019,10,251.0
+KR,Corea del Sur,2019,10,15.0
+HN,Honduras,2019,10,98.0
+KY,Islas Caimán,2019,10,1.0
+AT,Austria,2019,10,12.0
+BO,Bolivia,2019,10,35.0
+IT,Italia,2019,10,422.0
+VE,Venezuela,2019,10,1683.0
+MA,Marruecos,2019,10,2.0
+UY,Uruguay,2019,10,87.0
+CH,Suiza,2019,10,132.0
+FR,Francia,2019,10,98.0
+CU,Cuba,2019,10,211.0
+SV,El Salvador,2019,10,656.0
+DE,Alemania,2019,10,369.0
+PT,Portugal,2019,10,68.0
+CL,Chile,2019,10,728.0
+GT,Guatemala,2019,10,427.0
+NL,Países Bajos,2019,10,63.0
+BS,Bahamas,2019,10,11.0
+GB,Reino Unido,2019,10,473.0
+DO,República Dominicana,2019,10,790.0
+NZ,Nueva Zelanda,2019,10,2.0
+PE,Perú,2019,10,5532.0
+AR,Argentina,2019,10,740.0
+PY,Paraguay,2019,10,71.0
+SE,Suecia,2019,10,1.0
+PR,Puerto Rico,2019,10,414.0
+JP,Japón,2019,10,47.0
+PA,Panamá,2019,10,19011.0
+US,Estados Unidos,2019,10,24314.0
+AN,Antillas Neerlandesas,2019,10,910.0
+CA,Canadá,2019,10,80.0
+BE,Bélgica,2019,10,117.0
+ES,España,2019,10,9811.0
+IL,Israel,2019,10,52.0
+CR,Costa Rica,2019,10,33.0
+JM,Jamaica,2019,10,1.0
+IE,Irlanda,2019,10,5.0
+BR,Brasil,2019,10,1017.0
+MX,México,2019,10,12516.0
+EC,Ecuador,2018,10,25.0
+BZ,Belice,2018,10,2.0
+US,Estados Unidos,2018,10,24738.0
+JM,Jamaica,2018,10,3.0
+PT,Portugal,2018,10,28.0
+AT,Austria,2018,10,11.0
+DO,República Dominicana,2018,10,1140.0
+CN,China,2018,10,6.0
+GT,Guatemala,2018,10,329.0
+PY,Paraguay,2018,10,55.0
+CA,Canadá,2018,10,428.0
+MA,Marruecos,2018,10,1.0
+PR,Puerto Rico,2018,10,254.0
+KP,Corea del Norte,2018,10,2.0
+JP,Japón,2018,10,10.0
+KY,Islas Caimán,2018,10,4.0
+CL,Chile,2018,10,909.0
+PE,Perú,2018,10,3796.0
+BE,Bélgica,2018,10,28.0
+BS,Bahamas,2018,10,11.0
+IT,Italia,2018,10,221.0
+BB,Barbados,2018,10,2.0
+GB,Reino Unido,2018,10,551.0
+CR,Costa Rica,2018,10,93.0
+PA,Panamá,2018,10,22364.0
+CU,Cuba,2018,10,278.0
+SV,El Salvador,2018,10,384.0
+DE,Alemania,2018,10,61.0
+HN,Honduras,2018,10,199.0
+BO,Bolivia,2018,10,141.0
+AR,Argentina,2018,10,650.0
+NL,Países Bajos,2018,10,25.0
+VE,Venezuela,2018,10,2052.0
+UY,Uruguay,2018,10,151.0
+BR,Brasil,2018,10,591.0
+ES,España,2018,10,7021.0
+MX,México,2018,10,5860.0
+TT,Trinidad y Tobago,2018,10,4.0
+NI,Nicaragua,2018,10,17.0
+LU,Luxemburgo,2018,10,1.0
+QA,Qatar,2018,10,1.0
+HK,Hong Kong,2018,10,0.0
+AN,Antillas Neerlandesas,2018,10,438.0
+IL,Israel,2018,10,30.0
+FR,Francia,2018,10,100.0
+CH,Suiza,2018,10,35.0
+BO,Bolivia,2017,10,173.0
+CN,China,2017,10,10.0
+US,Estados Unidos,2017,10,22682.0
+HT,Haití,2017,10,3.0
+AT,Austria,2017,10,9.0
+MX,México,2017,10,4986.0
+GB,Reino Unido,2017,10,561.0
+NL,Países Bajos,2017,10,61.0
+IL,Israel,2017,10,18.0
+CL,Chile,2017,10,409.0
+BZ,Belice,2017,10,2.0
+AR,Argentina,2017,10,349.0
+CU,Cuba,2017,10,101.0
+NI,Nicaragua,2017,10,26.0
+JM,Jamaica,2017,10,8.0
+SR,Surinam,2017,10,1.0
+PE,Perú,2017,10,2200.0
+DO,República Dominicana,2017,10,580.0
+HN,Honduras,2017,10,132.0
+BE,Bélgica,2017,10,33.0
+VE,Venezuela,2017,10,1753.0
+ZA,Sudáfrica,2017,10,2.0
+GT,Guatemala,2017,10,394.0
+KR,Corea del Sur,2017,10,6.0
+BR,Brasil,2017,10,446.0
+PY,Paraguay,2017,10,45.0
+BB,Barbados,2017,10,5.0
+EC,Ecuador,2017,10,34.0
+KY,Islas Caimán,2017,10,2.0
+RU,Rusia,2017,10,1.0
+UY,Uruguay,2017,10,94.0
+QA,Qatar,2017,10,2.0
+BS,Bahamas,2017,10,8.0
+IE,Irlanda,2017,10,1.0
+DE,Alemania,2017,10,73.0
+AU,Australia,2017,10,30.0
+FR,Francia,2017,10,60.0
+CH,Suiza,2017,10,82.0
+JP,Japón,2017,10,26.0
+SV,El Salvador,2017,10,346.0
+PA,Panamá,2017,10,21420.0
+AN,Antillas Neerlandesas,2017,10,394.0
+TT,Trinidad y Tobago,2017,10,3.0
+TR,Turquía,2017,10,1.0
+PT,Portugal,2017,10,42.0
+PR,Puerto Rico,2017,10,7.0
+CR,Costa Rica,2017,10,109.0
+IT,Italia,2017,10,289.0
+ES,España,2017,10,5021.0
+CA,Canadá,2017,10,366.0
+CA,Canadá,2016,10,183.0
+VE,Venezuela,2016,10,400.0
+CO,Colombia,2016,10,2952.0
+NL,Países Bajos,2016,10,36.0
+HN,Honduras,2016,10,130.0
+QA,Qatar,2016,10,3.0
+SV,El Salvador,2016,10,392.0
+GT,Guatemala,2016,10,348.0
+AN,Antillas Neerlandesas,2016,10,1379.0
+GB,Reino Unido,2016,10,381.0
+PE,Perú,2016,10,2634.0
+PY,Paraguay,2016,10,209.0
+IT,Italia,2016,10,148.0
+NI,Nicaragua,2016,10,16.0
+AU,Australia,2016,10,21.0
+CH,Suiza,2016,10,19.0
+AR,Argentina,2016,10,935.0
+US,Estados Unidos,2016,10,20888.0
+KY,Islas Caimán,2016,10,2.0
+DO,República Dominicana,2016,10,1194.0
+MX,México,2016,10,4970.0
+IL,Israel,2016,10,19.0
+JP,Japón,2016,10,5.0
+CR,Costa Rica,2016,10,92.0
+UY,Uruguay,2016,10,142.0
+PT,Portugal,2016,10,25.0
+BR,Brasil,2016,10,961.0
+PA,Panamá,2016,10,18108.0
+CU,Cuba,2016,10,251.0
+BB,Barbados,2016,10,15.0
+BZ,Belice,2016,10,11.0
+BS,Bahamas,2016,10,11.0
+EC,Ecuador,2016,10,109.0
+ES,España,2016,10,4289.0
+BO,Bolivia,2016,10,294.0
+ZA,Sudáfrica,2016,10,2.0
+BE,Bélgica,2016,10,18.0
+HT,Haití,2016,10,1.0
+GY,Guyana,2016,10,2.0
+SR,Surinam,2016,10,6.0
+DE,Alemania,2016,10,23.0
+FR,Francia,2016,10,49.0
+US,Estados Unidos,2015,10,18531.0
+BO,Bolivia,2015,10,217.0
+BS,Bahamas,2015,10,46.0
+PE,Perú,2015,10,1909.0
+TT,Trinidad y Tobago,2015,10,6.0
+PA,Panamá,2015,10,15996.0
+NL,Países Bajos,2015,10,20.0
+DO,República Dominicana,2015,10,1158.0
+CU,Cuba,2015,10,189.0
+AR,Argentina,2015,10,697.0
+JP,Japón,2015,10,9.0
+IE,Irlanda,2015,10,2.0
+KR,Corea del Sur,2015,10,5.0
+GB,Reino Unido,2015,10,382.0
+KY,Islas Caimán,2015,10,2.0
+FR,Francia,2015,10,22.0
+NI,Nicaragua,2015,10,25.0
+GT,Guatemala,2015,10,180.0
+BM,Bermudas,2015,10,1.0
+HN,Honduras,2015,10,115.0
+BR,Brasil,2015,10,1195.0
+UY,Uruguay,2015,10,57.0
+DE,Alemania,2015,10,35.0
+BZ,Belice,2015,10,8.0
+PY,Paraguay,2015,10,28.0
+RU,Rusia,2015,10,1.0
+SV,El Salvador,2015,10,270.0
+AU,Australia,2015,10,28.0
+MX,México,2015,10,4523.0
+CN,China,2015,10,16.0
+BE,Bélgica,2015,10,20.0
+JM,Jamaica,2015,10,1.0
+IL,Israel,2015,10,5.0
+EC,Ecuador,2015,10,157.0
+CA,Canadá,2015,10,145.0
+VE,Venezuela,2015,10,3034.0
+CH,Suiza,2015,10,34.0
+CO,Colombia,2015,10,2728.0
+PT,Portugal,2015,10,18.0
+IT,Italia,2015,10,189.0
+AN,Antillas Neerlandesas,2015,10,1384.0
+CR,Costa Rica,2015,10,123.0
+QA,Qatar,2015,10,2.0
+HT,Haití,2015,10,3.0
+ES,España,2015,10,3231.0
+SR,Surinam,2015,10,29.0
+CH,Suiza,2014,10,2.0
+GY,Guyana,2014,10,1.0
+CU,Cuba,2014,10,207.0
+CO,Colombia,2014,10,2796.0
+KY,Islas Caimán,2014,10,4.0
+TT,Trinidad y Tobago,2014,10,1.0
+NI,Nicaragua,2014,10,8.0
+ES,España,2014,10,2084.0
+EC,Ecuador,2014,10,1779.0
+DO,República Dominicana,2014,10,737.0
+PY,Paraguay,2014,10,48.0
+BO,Bolivia,2014,10,124.0
+BZ,Belice,2014,10,2.0
+PA,Panamá,2014,10,14993.0
+GT,Guatemala,2014,10,199.0
+HN,Honduras,2014,10,83.0
+BM,Bermudas,2014,10,3.0
+GB,Reino Unido,2014,10,291.0
+SR,Surinam,2014,10,7.0
+FR,Francia,2014,10,22.0
+BR,Brasil,2014,10,1055.0
+AN,Antillas Neerlandesas,2014,10,720.0
+US,Estados Unidos,2014,10,17646.0
+DE,Alemania,2014,10,3.0
+VE,Venezuela,2014,10,338.0
+IT,Italia,2014,10,17.0
+CA,Canadá,2014,10,174.0
+MX,México,2014,10,2273.0
+IE,Irlanda,2014,10,1.0
+UY,Uruguay,2014,10,150.0
+AE,Emiratos Árabes Unidos,2014,10,1.0
+CR,Costa Rica,2014,10,40.0
+AR,Argentina,2014,10,642.0
+BS,Bahamas,2014,10,2.0
+QA,Qatar,2014,10,3.0
+SV,El Salvador,2014,10,240.0
+PE,Perú,2014,10,2094.0
+CO,Colombia,2013,10,170.0
+BS,Bahamas,2013,10,7.0
+BO,Bolivia,2013,10,82.0
+CR,Costa Rica,2013,10,53.0
+DO,República Dominicana,2013,10,615.0
+GB,Reino Unido,2013,10,100.0
+US,Estados Unidos,2013,10,16624.0
+AN,Antillas Neerlandesas,2013,10,1125.0
+FR,Francia,2013,10,26.0
+CA,Canadá,2013,10,100.0
+KY,Islas Caimán,2013,10,2.0
+NI,Nicaragua,2013,10,17.0
+PY,Paraguay,2013,10,14.0
+HN,Honduras,2013,10,88.0
+UY,Uruguay,2013,10,19.0
+CU,Cuba,2013,10,161.0
+SR,Surinam,2013,10,3.0
+EC,Ecuador,2013,10,3029.0
+MX,México,2013,10,1953.0
+ES,España,2013,10,2247.0
+BB,Barbados,2013,10,3.0
+AR,Argentina,2013,10,431.0
+PE,Perú,2013,10,1495.0
+VE,Venezuela,2013,10,2042.0
+SV,El Salvador,2013,10,186.0
+HT,Haití,2013,10,5.0
+CL,Chile,2013,10,1.0
+DE,Alemania,2013,10,8.0
+GT,Guatemala,2013,10,90.0
+PA,Panamá,2013,10,12582.0
+BR,Brasil,2013,10,888.0
+BM,Bermudas,2013,10,2.0
+PA,Panamá,2012,10,11664.0
+HT,Haití,2012,10,3.0
+BR,Brasil,2012,10,780.0
+UY,Uruguay,2012,10,30.0
+IT,Italia,2012,10,1.0
+MX,México,2012,10,711.0
+VE,Venezuela,2012,10,1306.0
+FR,Francia,2012,10,9.0
+DE,Alemania,2012,10,9.0
+GB,Reino Unido,2012,10,67.0
+BS,Bahamas,2012,10,10.0
+GT,Guatemala,2012,10,65.0
+ES,España,2012,10,2087.0
+PE,Perú,2012,10,1868.0
+BO,Bolivia,2012,10,93.0
+AN,Antillas Neerlandesas,2012,10,1093.0
+CU,Cuba,2012,10,70.0
+SV,El Salvador,2012,10,164.0
+BM,Bermudas,2012,10,2.0
+CA,Canadá,2012,10,112.0
+HN,Honduras,2012,10,79.0
+KY,Islas Caimán,2012,10,4.0
+PY,Paraguay,2012,10,21.0
+EC,Ecuador,2012,10,1953.0
+DO,República Dominicana,2012,10,752.0
+CO,Colombia,2012,10,141.0
+CR,Costa Rica,2012,10,387.0
+PT,Portugal,2012,10,2.0
+US,Estados Unidos,2012,10,13973.0
+BZ,Belice,2012,10,1.0
+AR,Argentina,2012,10,482.0
+CH,Suiza,2012,10,3.0
+NI,Nicaragua,2012,10,6.0
+BB,Barbados,2012,10,1.0
+GB,Reino Unido,2011,10,44.0
+SV,El Salvador,2011,10,260.0
+JM,Jamaica,2011,10,285.0
+AR,Argentina,2011,10,585.0
+CR,Costa Rica,2011,10,330.0
+BR,Brasil,2011,10,404.0
+PY,Paraguay,2011,10,5.0
+DE,Alemania,2011,10,3.0
+UY,Uruguay,2011,10,16.0
+AN,Antillas Neerlandesas,2011,10,921.0
+BS,Bahamas,2011,10,5.0
+BO,Bolivia,2011,10,69.0
+VE,Venezuela,2011,10,1191.0
+HK,Hong Kong,2011,10,2.0
+NI,Nicaragua,2011,10,7.0
+FR,Francia,2011,10,13.0
+CA,Canadá,2011,10,84.0
+US,Estados Unidos,2011,10,12667.0
+DO,República Dominicana,2011,10,586.0
+PE,Perú,2011,10,1884.0
+GT,Guatemala,2011,10,92.0
+PA,Panamá,2011,10,9483.0
+MX,México,2011,10,819.0
+BB,Barbados,2011,10,1.0
+ES,España,2011,10,1961.0
+HN,Honduras,2011,10,22.0
+EC,Ecuador,2011,10,3008.0
+CO,Colombia,2011,10,157.0
+BO,Bolivia,2010,10,58.0
+AR,Argentina,2010,10,813.0
+ES,España,2010,10,2058.0
+TT,Trinidad y Tobago,2010,10,45.0
+BR,Brasil,2010,10,568.0
+CO,Colombia,2010,10,34.0
+CR,Costa Rica,2010,10,566.0
+GT,Guatemala,2010,10,116.0
+SV,El Salvador,2010,10,197.0
+PY,Paraguay,2010,10,12.0
+BS,Bahamas,2010,10,2.0
+FR,Francia,2010,10,13.0
+BM,Bermudas,2010,10,1.0
+PE,Perú,2010,10,1527.0
+HT,Haití,2010,10,13.0
+DO,República Dominicana,2010,10,546.0
+AN,Antillas Neerlandesas,2010,10,533.0
+EC,Ecuador,2010,10,2711.0
+PA,Panamá,2010,10,7908.0
+NI,Nicaragua,2010,10,16.0
+VE,Venezuela,2010,10,1218.0
+UY,Uruguay,2010,10,56.0
+CU,Cuba,2010,10,129.0
+GB,Reino Unido,2010,10,52.0
+MX,México,2010,10,871.0
+HN,Honduras,2010,10,55.0
+CA,Canadá,2010,10,86.0
+US,Estados Unidos,2010,10,14841.0
+DE,Alemania,2010,10,5.0
+CH,Suiza,2009,10,1.0
+AR,Argentina,2009,10,859.0
+MX,México,2009,10,346.0
+PY,Paraguay,2009,10,9.0
+EC,Ecuador,2009,10,1973.0
+GT,Guatemala,2009,10,64.0
+DE,Alemania,2009,10,4.0
+IT,Italia,2009,10,2.0
+NI,Nicaragua,2009,10,25.0
+HT,Haití,2009,10,8.0
+GB,Reino Unido,2009,10,74.0
+CO,Colombia,2009,10,96.0
+TT,Trinidad y Tobago,2009,10,38.0
+AN,Antillas Neerlandesas,2009,10,550.0
+US,Estados Unidos,2009,10,10993.0
+CA,Canadá,2009,10,97.0
+DO,República Dominicana,2009,10,675.0
+HN,Honduras,2009,10,28.0
+BR,Brasil,2009,10,540.0
+CU,Cuba,2009,10,125.0
+BO,Bolivia,2009,10,57.0
+FR,Francia,2009,10,26.0
+PE,Perú,2009,10,1881.0
+UY,Uruguay,2009,10,58.0
+ES,España,2009,10,1265.0
+PA,Panamá,2009,10,7442.0
+BM,Bermudas,2009,10,1.0
+SV,El Salvador,2009,10,2.0
+KY,Islas Caimán,2009,10,1.0
+VE,Venezuela,2009,10,1305.0
+CR,Costa Rica,2009,10,235.0
+AN,Antillas Neerlandesas,2008,10,525.0
+NI,Nicaragua,2008,10,1.0
+PA,Panamá,2008,10,6703.0
+DO,República Dominicana,2008,10,454.0
+GT,Guatemala,2008,10,50.0
+AR,Argentina,2008,10,716.0
+ES,España,2008,10,858.0
+US,Estados Unidos,2008,10,9330.0
+EC,Ecuador,2008,10,1671.0
+SV,El Salvador,2008,10,1.0
+BE,Bélgica,2008,10,1.0
+PE,Perú,2008,10,1637.0
+BM,Bermudas,2008,10,2.0
+VE,Venezuela,2008,10,1600.0
+KY,Islas Caimán,2008,10,1.0
+BR,Brasil,2008,10,440.0
+FR,Francia,2008,10,17.0
+CO,Colombia,2008,10,165.0
+DE,Alemania,2008,10,7.0
+BS,Bahamas,2008,10,2.0
+CU,Cuba,2008,10,65.0
+IT,Italia,2008,10,3.0
+HT,Haití,2008,10,5.0
+MX,México,2008,10,342.0
+TT,Trinidad y Tobago,2008,10,27.0
+CA,Canadá,2008,10,78.0
+HN,Honduras,2008,10,22.0
+CR,Costa Rica,2008,10,173.0
+UY,Uruguay,2008,10,57.0
+GB,Reino Unido,2008,10,68.0
+BO,Bolivia,2008,10,45.0
+AN,Antillas Neerlandesas,2007,10,538.0
+KY,Islas Caimán,2007,10,1.0
+BB,Barbados,2007,10,7.0
+IL,Israel,2007,10,1.0
+PE,Perú,2007,10,589.0
+NI,Nicaragua,2007,10,21.0
+CU,Cuba,2007,10,116.0
+CO,Colombia,2007,10,243.0
+IT,Italia,2007,10,2.0
+HN,Honduras,2007,10,36.0
+SV,El Salvador,2007,10,60.0
+AR,Argentina,2007,10,536.0
+CA,Canadá,2007,10,38.0
+BS,Bahamas,2007,10,1.0
+GT,Guatemala,2007,10,74.0
+CR,Costa Rica,2007,10,190.0
+EC,Ecuador,2007,10,1305.0
+GB,Reino Unido,2007,10,59.0
+VE,Venezuela,2007,10,1450.0
+FR,Francia,2007,10,23.0
+ES,España,2007,10,778.0
+DO,República Dominicana,2007,10,291.0
+MX,México,2007,10,499.0
+US,Estados Unidos,2007,10,8834.0
+BR,Brasil,2007,10,411.0
+HT,Haití,2007,10,2.0
+UY,Uruguay,2007,10,1.0
+CH,Suiza,2007,10,1.0
+PA,Panamá,2007,10,5017.0
+DE,Alemania,2007,10,16.0
+UY,Uruguay,2023,01,43.0
+MX,México,2023,01,20187.0
+MA,Marruecos,2023,01,1.0
+CU,Cuba,2023,01,985.0
+AR,Argentina,2023,01,1149.0
+AN,Antillas Neerlandesas,2023,01,2236.0
+JM,Jamaica,2023,01,5.0
+EC,Ecuador,2023,01,2075.0
+BS,Bahamas,2023,01,7.0
+PR,Puerto Rico,2023,01,914.0
+DO,República Dominicana,2023,01,12137.0
+GT,Guatemala,2023,01,203.0
+PE,Perú,2023,01,6410.0
+GB,Reino Unido,2023,01,795.0
+CL,Chile,2023,01,2417.0
+SV,El Salvador,2023,01,285.0
+CR,Costa Rica,2023,01,2414.0
+PT,Portugal,2023,01,87.0
+QA,Qatar,2023,01,8.0
+IT,Italia,2023,01,319.0
+PY,Paraguay,2023,01,55.0
+ES,España,2023,01,6930.0
+US,Estados Unidos,2023,01,45666.0
+HN,Honduras,2023,01,2.0
+TT,Trinidad y Tobago,2023,01,2.0
+BR,Brasil,2023,01,1570.0
+NL,Países Bajos,2023,01,211.0
+BO,Bolivia,2023,01,124.0
+PA,Panamá,2023,01,34009.0
+BE,Bélgica,2023,01,157.0
+DE,Alemania,2023,01,275.0
+FR,Francia,2023,01,15.0
+IL,Israel,2023,01,12.0
+CA,Canadá,2023,01,1123.0
+CH,Suiza,2023,01,261.0
+KY,Islas Caimán,2023,01,2.0
+CL,Chile,2022,01,1587.0
+AG,Antigua and Barbuda,2022,01,1.0
+GB,Reino Unido,2022,01,310.0
+JM,Jamaica,2022,01,6.0
+KR,Corea del Sur,2022,01,3.0
+US,Estados Unidos,2022,01,42617.0
+NL,Países Bajos,2022,01,162.0
+PR,Puerto Rico,2022,01,486.0
+EC,Ecuador,2022,01,291.0
+GP,Guadalupe,2022,01,4.0
+ES,España,2022,01,4796.0
+IL,Israel,2022,01,2.0
+NI,Nicaragua,2022,01,8.0
+IT,Italia,2022,01,206.0
+BZ,Belice,2022,01,1.0
+PT,Portugal,2022,01,49.0
+AN,Antillas Neerlandesas,2022,01,605.0
+PE,Perú,2022,01,1359.0
+BE,Bélgica,2022,01,145.0
+DE,Alemania,2022,01,232.0
+UY,Uruguay,2022,01,61.0
+CH,Suiza,2022,01,169.0
+SV,El Salvador,2022,01,41.0
+CR,Costa Rica,2022,01,324.0
+BR,Brasil,2022,01,465.0
+BS,Bahamas,2022,01,8.0
+PA,Panamá,2022,01,26622.0
+BO,Bolivia,2022,01,64.0
+JP,Japón,2022,01,1.0
+MX,México,2022,01,16057.0
+GT,Guatemala,2022,01,145.0
+BB,Barbados,2022,01,0.0
+AR,Argentina,2022,01,256.0
+CA,Canadá,2022,01,479.0
+QA,Qatar,2022,01,10.0
+TR,Turquía,2022,01,1.0
+GY,Guyana,2022,01,8.0
+DO,República Dominicana,2022,01,5050.0
+FR,Francia,2022,01,105.0
+SE,Suecia,2022,01,2.0
+PY,Paraguay,2022,01,49.0
+CU,Cuba,2021,01,1.0
+GT,Guatemala,2021,01,101.0
+FR,Francia,2021,01,4.0
+BO,Bolivia,2021,01,46.0
+AR,Argentina,2021,01,76.0
+CL,Chile,2021,01,175.0
+BR,Brasil,2021,01,173.0
+PA,Panamá,2021,01,12101.0
+ES,España,2021,01,1829.0
+CA,Canadá,2021,01,69.0
+KR,Corea del Sur,2021,01,2.0
+PY,Paraguay,2021,01,24.0
+HN,Honduras,2021,01,16.0
+SV,El Salvador,2021,01,4.0
+MX,México,2021,01,3625.0
+CR,Costa Rica,2021,01,128.0
+NI,Nicaragua,2021,01,1.0
+EC,Ecuador,2021,01,81.0
+UY,Uruguay,2021,01,3.0
+AN,Antillas Neerlandesas,2021,01,197.0
+CN,China,2021,01,0.0
+DO,República Dominicana,2021,01,434.0
+US,Estados Unidos,2021,01,23179.0
+PR,Puerto Rico,2021,01,232.0
+PE,Perú,2021,01,786.0
+GB,Reino Unido,2021,01,3.0
+BO,Bolivia,2020,01,126.0
+AT,Austria,2020,01,28.0
+MA,Marruecos,2020,01,4.0
+GT,Guatemala,2020,01,500.0
+KR,Corea del Sur,2020,01,17.0
+IE,Irlanda,2020,01,3.0
+ES,España,2020,01,6008.0
+US,Estados Unidos,2020,01,32512.0
+CL,Chile,2020,01,684.0
+BS,Bahamas,2020,01,8.0
+AR,Argentina,2020,01,478.0
+VE,Venezuela,2020,01,2030.0
+CU,Cuba,2020,01,65.0
+SV,El Salvador,2020,01,371.0
+JM,Jamaica,2020,01,18.0
+BR,Brasil,2020,01,744.0
+BE,Bélgica,2020,01,155.0
+IL,Israel,2020,01,33.0
+NL,Países Bajos,2020,01,155.0
+CA,Canadá,2020,01,340.0
+PA,Panamá,2020,01,21740.0
+PT,Portugal,2020,01,104.0
+IT,Italia,2020,01,567.0
+PE,Perú,2020,01,5032.0
+CH,Suiza,2020,01,169.0
+FR,Francia,2020,01,139.0
+EC,Ecuador,2020,01,564.0
+KY,Islas Caimán,2020,01,5.0
+HT,Haití,2020,01,1.0
+AN,Antillas Neerlandesas,2020,01,951.0
+PR,Puerto Rico,2020,01,467.0
+SN,Senegal,2020,01,1.0
+HN,Honduras,2020,01,73.0
+UY,Uruguay,2020,01,132.0
+DE,Alemania,2020,01,592.0
+PY,Paraguay,2020,01,41.0
+CR,Costa Rica,2020,01,58.0
+JP,Japón,2020,01,23.0
+GB,Reino Unido,2020,01,844.0
+MX,México,2020,01,12530.0
+NI,Nicaragua,2020,01,1.0
+QA,Qatar,2020,01,7.0
+RU,Rusia,2020,01,1.0
+DO,República Dominicana,2020,01,923.0
+LU,Luxemburgo,2020,01,1.0
+KP,Corea del Norte,2019,01,3.0
+GB,Reino Unido,2019,01,976.0
+BO,Bolivia,2019,01,99.0
+CN,China,2019,01,4.0
+EC,Ecuador,2019,01,28.0
+FR,Francia,2019,01,113.0
+JP,Japón,2019,01,19.0
+UY,Uruguay,2019,01,172.0
+QA,Qatar,2019,01,7.0
+MX,México,2019,01,5288.0
+CR,Costa Rica,2019,01,153.0
+CU,Cuba,2019,01,85.0
+KY,Islas Caimán,2019,01,9.0
+HT,Haití,2019,01,1.0
+DE,Alemania,2019,01,403.0
+VE,Venezuela,2019,01,4188.0
+AT,Austria,2019,01,13.0
+BS,Bahamas,2019,01,9.0
+PR,Puerto Rico,2019,01,448.0
+LC,Santa Lucia,2019,01,1.0
+IE,Irlanda,2019,01,2.0
+PT,Portugal,2019,01,37.0
+US,Estados Unidos,2019,01,30911.0
+GT,Guatemala,2019,01,350.0
+IL,Israel,2019,01,49.0
+ES,España,2019,01,6385.0
+CH,Suiza,2019,01,90.0
+SV,El Salvador,2019,01,305.0
+JM,Jamaica,2019,01,3.0
+BR,Brasil,2019,01,732.0
+BE,Bélgica,2019,01,58.0
+NL,Países Bajos,2019,01,42.0
+IT,Italia,2019,01,284.0
+KN,San Cristóbal y Nieves,2019,01,1.0
+AR,Argentina,2019,01,606.0
+AN,Antillas Neerlandesas,2019,01,536.0
+CL,Chile,2019,01,999.0
+ZA,Sudáfrica,2019,01,3.0
+PA,Panamá,2019,01,27823.0
+AG,Antigua and Barbuda,2019,01,4.0
+PY,Paraguay,2019,01,89.0
+PE,Perú,2019,01,7134.0
+HK,Hong Kong,2019,01,0.0
+DO,República Dominicana,2019,01,1287.0
+HN,Honduras,2019,01,108.0
+BB,Barbados,2019,01,0.0
+TT,Trinidad y Tobago,2019,01,2.0
+CA,Canadá,2019,01,547.0
+AU,Australia,2018,01,17.0
+QA,Qatar,2018,01,4.0
+IT,Italia,2018,01,237.0
+IE,Irlanda,2018,01,1.0
+CR,Costa Rica,2018,01,327.0
+PE,Perú,2018,01,2100.0
+BR,Brasil,2018,01,933.0
+MX,México,2018,01,5402.0
+VE,Venezuela,2018,01,3898.0
+DO,República Dominicana,2018,01,942.0
+DE,Alemania,2018,01,42.0
+CN,China,2018,01,15.0
+BE,Bélgica,2018,01,62.0
+PY,Paraguay,2018,01,88.0
+US,Estados Unidos,2018,01,28627.0
+BB,Barbados,2018,01,2.0
+NL,Países Bajos,2018,01,59.0
+FR,Francia,2018,01,82.0
+ES,España,2018,01,7137.0
+SV,El Salvador,2018,01,445.0
+CU,Cuba,2018,01,199.0
+KY,Islas Caimán,2018,01,1.0
+KR,Corea del Sur,2018,01,2.0
+ZA,Sudáfrica,2018,01,3.0
+GT,Guatemala,2018,01,470.0
+PT,Portugal,2018,01,27.0
+PR,Puerto Rico,2018,01,373.0
+NI,Nicaragua,2018,01,37.0
+BZ,Belice,2018,01,11.0
+JP,Japón,2018,01,13.0
+CH,Suiza,2018,01,47.0
+LU,Luxemburgo,2018,01,1.0
+GB,Reino Unido,2018,01,921.0
+JM,Jamaica,2018,01,10.0
+EC,Ecuador,2018,01,13.0
+UY,Uruguay,2018,01,198.0
+BS,Bahamas,2018,01,18.0
+CL,Chile,2018,01,916.0
+HN,Honduras,2018,01,183.0
+BO,Bolivia,2018,01,340.0
+CA,Canadá,2018,01,831.0
+PA,Panamá,2018,01,25326.0
+AT,Austria,2018,01,9.0
+AN,Antillas Neerlandesas,2018,01,1145.0
+AR,Argentina,2018,01,377.0
+JO,Jordania,2018,01,1.0
+IL,Israel,2018,01,13.0
+NI,Nicaragua,2017,01,43.0
+PA,Panamá,2017,01,22441.0
+SR,Surinam,2017,01,14.0
+JM,Jamaica,2017,01,1.0
+CA,Canadá,2017,01,336.0
+TT,Trinidad y Tobago,2017,01,1.0
+BB,Barbados,2017,01,36.0
+CL,Chile,2017,01,6.0
+SV,El Salvador,2017,01,519.0
+QA,Qatar,2017,01,2.0
+IL,Israel,2017,01,10.0
+UY,Uruguay,2017,01,108.0
+HN,Honduras,2017,01,177.0
+AU,Australia,2017,01,15.0
+BS,Bahamas,2017,01,8.0
+FR,Francia,2017,01,70.0
+CO,Colombia,2017,01,7081.0
+BE,Bélgica,2017,01,26.0
+DE,Alemania,2017,01,14.0
+DO,República Dominicana,2017,01,1317.0
+ES,España,2017,01,4846.0
+US,Estados Unidos,2017,01,24738.0
+CU,Cuba,2017,01,281.0
+CH,Suiza,2017,01,12.0
+PE,Perú,2017,01,2956.0
+KY,Islas Caimán,2017,01,3.0
+PT,Portugal,2017,01,6.0
+JP,Japón,2017,01,7.0
+NL,Países Bajos,2017,01,22.0
+GB,Reino Unido,2017,01,710.0
+GT,Guatemala,2017,01,330.0
+PY,Paraguay,2017,01,37.0
+VE,Venezuela,2017,01,808.0
+BZ,Belice,2017,01,11.0
+MX,México,2017,01,4543.0
+KN,San Cristóbal y Nieves,2017,01,1.0
+AR,Argentina,2017,01,677.0
+BR,Brasil,2017,01,923.0
+AN,Antillas Neerlandesas,2017,01,1462.0
+EC,Ecuador,2017,01,122.0
+CR,Costa Rica,2017,01,149.0
+BO,Bolivia,2017,01,215.0
+IT,Italia,2017,01,117.0
+QA,Qatar,2016,01,7.0
+PA,Panamá,2016,01,21620.0
+IT,Italia,2016,01,266.0
+KY,Islas Caimán,2016,01,4.0
+VE,Venezuela,2016,01,1406.0
+NI,Nicaragua,2016,01,25.0
+IL,Israel,2016,01,10.0
+DK,Dinamarca,2016,01,3.0
+AR,Argentina,2016,01,691.0
+BO,Bolivia,2016,01,254.0
+CO,Colombia,2016,01,5922.0
+AU,Australia,2016,01,75.0
+UY,Uruguay,2016,01,61.0
+JP,Japón,2016,01,8.0
+BB,Barbados,2016,01,10.0
+AN,Antillas Neerlandesas,2016,01,1606.0
+CR,Costa Rica,2016,01,392.0
+PH,Filipinas,2016,01,6.0
+GT,Guatemala,2016,01,365.0
+SR,Surinam,2016,01,24.0
+US,Estados Unidos,2016,01,29743.0
+PT,Portugal,2016,01,13.0
+BS,Bahamas,2016,01,11.0
+BZ,Belice,2016,01,19.0
+BR,Brasil,2016,01,1299.0
+PY,Paraguay,2016,01,36.0
+CU,Cuba,2016,01,230.0
+HN,Honduras,2016,01,223.0
+BE,Bélgica,2016,01,44.0
+FR,Francia,2016,01,95.0
+EC,Ecuador,2016,01,51.0
+SE,Suecia,2016,01,5.0
+DE,Alemania,2016,01,52.0
+GB,Reino Unido,2016,01,781.0
+NZ,Nueva Zelanda,2016,01,1.0
+HK,Hong Kong,2016,01,2.0
+DO,República Dominicana,2016,01,1157.0
+CN,China,2016,01,4.0
+SV,El Salvador,2016,01,331.0
+GR,Grecia,2016,01,4.0
+NL,Países Bajos,2016,01,36.0
+CA,Canadá,2016,01,434.0
+PE,Perú,2016,01,1538.0
+CH,Suiza,2016,01,36.0
+ES,España,2016,01,4337.0
+TT,Trinidad y Tobago,2016,01,4.0
+MX,México,2016,01,4655.0
+SV,El Salvador,2015,01,218.0
+HT,Haití,2015,01,4.0
+BE,Bélgica,2015,01,1.0
+UY,Uruguay,2015,01,127.0
+BR,Brasil,2015,01,889.0
+EC,Ecuador,2015,01,1408.0
+AN,Antillas Neerlandesas,2015,01,921.0
+CO,Colombia,2015,01,2809.0
+GT,Guatemala,2015,01,255.0
+CL,Chile,2015,01,4.0
+CH,Suiza,2015,01,2.0
+CR,Costa Rica,2015,01,198.0
+PY,Paraguay,2015,01,53.0
+PE,Perú,2015,01,2265.0
+SR,Surinam,2015,01,4.0
+BO,Bolivia,2015,01,162.0
+IT,Italia,2015,01,29.0
+VE,Venezuela,2015,01,581.0
+PA,Panamá,2015,01,19810.0
+BB,Barbados,2015,01,1.0
+US,Estados Unidos,2015,01,22936.0
+HN,Honduras,2015,01,95.0
+KY,Islas Caimán,2015,01,1.0
+ES,España,2015,01,3277.0
+FR,Francia,2015,01,57.0
+AR,Argentina,2015,01,718.0
+DE,Alemania,2015,01,4.0
+DO,República Dominicana,2015,01,1008.0
+QA,Qatar,2015,01,5.0
+GB,Reino Unido,2015,01,498.0
+BZ,Belice,2015,01,1.0
+BS,Bahamas,2015,01,10.0
+MX,México,2015,01,3153.0
+BM,Bermudas,2015,01,5.0
+CA,Canadá,2015,01,410.0
+NI,Nicaragua,2015,01,25.0
+CU,Cuba,2015,01,209.0
+MX,México,2014,01,2427.0
+BS,Bahamas,2014,01,11.0
+GT,Guatemala,2014,01,262.0
+BB,Barbados,2014,01,1.0
+CL,Chile,2014,01,27.0
+CA,Canadá,2014,01,367.0
+FR,Francia,2014,01,57.0
+AR,Argentina,2014,01,523.0
+UY,Uruguay,2014,01,57.0
+PE,Perú,2014,01,2677.0
+KY,Islas Caimán,2014,01,2.0
+BR,Brasil,2014,01,955.0
+EC,Ecuador,2014,01,2236.0
+CU,Cuba,2014,01,189.0
+US,Estados Unidos,2014,01,21489.0
+DO,República Dominicana,2014,01,1088.0
+GB,Reino Unido,2014,01,206.0
+CO,Colombia,2014,01,159.0
+SR,Surinam,2014,01,7.0
+HN,Honduras,2014,01,145.0
+AN,Antillas Neerlandesas,2014,01,1194.0
+CR,Costa Rica,2014,01,149.0
+PY,Paraguay,2014,01,29.0
+HT,Haití,2014,01,2.0
+DE,Alemania,2014,01,11.0
+SV,El Salvador,2014,01,230.0
+ES,España,2014,01,2831.0
+NI,Nicaragua,2014,01,13.0
+BO,Bolivia,2014,01,152.0
+PA,Panamá,2014,01,16485.0
+IT,Italia,2014,01,25.0
+VE,Venezuela,2014,01,2371.0
+CA,Canadá,2013,01,262.0
+UY,Uruguay,2013,01,36.0
+DE,Alemania,2013,01,3.0
+BB,Barbados,2013,01,2.0
+ES,España,2013,01,3221.0
+CU,Cuba,2013,01,93.0
+PE,Perú,2013,01,2205.0
+GT,Guatemala,2013,01,134.0
+CH,Suiza,2013,01,1.0
+MX,México,2013,01,1817.0
+US,Estados Unidos,2013,01,17791.0
+PY,Paraguay,2013,01,21.0
+PA,Panamá,2013,01,14925.0
+KY,Islas Caimán,2013,01,2.0
+BO,Bolivia,2013,01,109.0
+TT,Trinidad y Tobago,2013,01,1.0
+DO,República Dominicana,2013,01,964.0
+EC,Ecuador,2013,01,2835.0
+JM,Jamaica,2013,01,1.0
+SV,El Salvador,2013,01,376.0
+CR,Costa Rica,2013,01,660.0
+CO,Colombia,2013,01,249.0
+FR,Francia,2013,01,40.0
+AN,Antillas Neerlandesas,2013,01,1417.0
+BS,Bahamas,2013,01,2.0
+AR,Argentina,2013,01,471.0
+BR,Brasil,2013,01,746.0
+HN,Honduras,2013,01,109.0
+NI,Nicaragua,2013,01,10.0
+GB,Reino Unido,2013,01,132.0
+VE,Venezuela,2013,01,2444.0
+CH,Suiza,2012,01,4.0
+BM,Bermudas,2012,01,1.0
+DE,Alemania,2012,01,3.0
+EC,Ecuador,2012,01,3010.0
+AU,Australia,2012,01,5.0
+GB,Reino Unido,2012,01,213.0
+HN,Honduras,2012,01,2.0
+AN,Antillas Neerlandesas,2012,01,1388.0
+BE,Bélgica,2012,01,5.0
+SV,El Salvador,2012,01,173.0
+NL,Países Bajos,2012,01,1.0
+ES,España,2012,01,2480.0
+IT,Italia,2012,01,4.0
+AR,Argentina,2012,01,261.0
+PE,Perú,2012,01,1270.0
+JM,Jamaica,2012,01,70.0
+MX,México,2012,01,1114.0
+BR,Brasil,2012,01,369.0
+VE,Venezuela,2012,01,2262.0
+CA,Canadá,2012,01,190.0
+BS,Bahamas,2012,01,3.0
+BO,Bolivia,2012,01,49.0
+DO,República Dominicana,2012,01,743.0
+HT,Haití,2012,01,2.0
+CR,Costa Rica,2012,01,1700.0
+US,Estados Unidos,2012,01,15558.0
+CO,Colombia,2012,01,213.0
+PA,Panamá,2012,01,13002.0
+FR,Francia,2012,01,29.0
+HT,Haití,2011,01,8.0
+DE,Alemania,2011,01,7.0
+BR,Brasil,2011,01,524.0
+ES,España,2011,01,2604.0
+EC,Ecuador,2011,01,5359.0
+GB,Reino Unido,2011,01,136.0
+US,Estados Unidos,2011,01,20874.0
+MX,México,2011,01,1691.0
+PA,Panamá,2011,01,9766.0
+CO,Colombia,2011,01,200.0
+SV,El Salvador,2011,01,309.0
+CR,Costa Rica,2011,01,1319.0
+FR,Francia,2011,01,28.0
+CA,Canadá,2011,01,299.0
+BO,Bolivia,2011,01,63.0
+UY,Uruguay,2011,01,54.0
+SE,Suecia,2011,01,3.0
+AN,Antillas Neerlandesas,2011,01,766.0
+HN,Honduras,2011,01,68.0
+CU,Cuba,2011,01,73.0
+BM,Bermudas,2011,01,1.0
+VE,Venezuela,2011,01,1840.0
+NI,Nicaragua,2011,01,19.0
+AE,Emiratos Árabes Unidos,2011,01,2.0
+DO,República Dominicana,2011,01,1082.0
+PE,Perú,2011,01,1866.0
+PY,Paraguay,2011,01,28.0
+TT,Trinidad y Tobago,2011,01,136.0
+AU,Australia,2011,01,5.0
+AR,Argentina,2011,01,790.0
+JM,Jamaica,2011,01,1.0
+GT,Guatemala,2011,01,244.0
+EC,Ecuador,2010,01,2798.0
+CA,Canadá,2010,01,469.0
+BR,Brasil,2010,01,537.0
+BS,Bahamas,2010,01,8.0
+VE,Venezuela,2010,01,2149.0
+CU,Cuba,2010,01,110.0
+TT,Trinidad y Tobago,2010,01,89.0
+US,Estados Unidos,2010,01,19536.0
+IT,Italia,2010,01,2.0
+ES,España,2010,01,2017.0
+DO,República Dominicana,2010,01,577.0
+CH,Suiza,2010,01,1.0
+GB,Reino Unido,2010,01,211.0
+NI,Nicaragua,2010,01,10.0
+GT,Guatemala,2010,01,78.0
+HT,Haití,2010,01,2.0
+BO,Bolivia,2010,01,78.0
+DE,Alemania,2010,01,8.0
+CR,Costa Rica,2010,01,576.0
+MX,México,2010,01,548.0
+BM,Bermudas,2010,01,4.0
+PA,Panamá,2010,01,8526.0
+AR,Argentina,2010,01,700.0
+AU,Australia,2010,01,1.0
+HN,Honduras,2010,01,77.0
+PY,Paraguay,2010,01,14.0
+AN,Antillas Neerlandesas,2010,01,788.0
+CO,Colombia,2010,01,206.0
+FR,Francia,2010,01,37.0
+PE,Perú,2010,01,2239.0
+BZ,Belice,2010,01,1.0
+UY,Uruguay,2010,01,49.0
+KY,Islas Caimán,2010,01,4.0
+SV,El Salvador,2010,01,5.0
+CA,Canadá,2009,01,423.0
+BM,Bermudas,2009,01,1.0
+CR,Costa Rica,2009,01,409.0
+BO,Bolivia,2009,01,62.0
+VE,Venezuela,2009,01,2724.0
+DO,República Dominicana,2009,01,332.0
+HN,Honduras,2009,01,73.0
+BR,Brasil,2009,01,510.0
+PE,Perú,2009,01,1910.0
+PA,Panamá,2009,01,9152.0
+JM,Jamaica,2009,01,6.0
+TT,Trinidad y Tobago,2009,01,116.0
+NI,Nicaragua,2009,01,1.0
+GT,Guatemala,2009,01,89.0
+DE,Alemania,2009,01,12.0
+ES,España,2009,01,1815.0
+EC,Ecuador,2009,01,2186.0
+MX,México,2009,01,427.0
+CO,Colombia,2009,01,240.0
+SV,El Salvador,2009,01,1.0
+IT,Italia,2009,01,7.0
+BS,Bahamas,2009,01,5.0
+KY,Islas Caimán,2009,01,3.0
+UY,Uruguay,2009,01,101.0
+US,Estados Unidos,2009,01,14936.0
+FR,Francia,2009,01,34.0
+IE,Irlanda,2009,01,1.0
+AR,Argentina,2009,01,511.0
+BB,Barbados,2009,01,1.0
+CU,Cuba,2009,01,136.0
+HT,Haití,2009,01,7.0
+PY,Paraguay,2009,01,14.0
+AN,Antillas Neerlandesas,2009,01,904.0
+GB,Reino Unido,2009,01,209.0
+CH,Suiza,2009,01,1.0
+EC,Ecuador,2008,01,1827.0
+FR,Francia,2008,01,74.0
+ES,España,2008,01,1344.0
+CO,Colombia,2008,01,317.0
+GT,Guatemala,2008,01,98.0
+US,Estados Unidos,2008,01,16222.0
+BR,Brasil,2008,01,501.0
+AN,Antillas Neerlandesas,2008,01,811.0
+UY,Uruguay,2008,01,1.0
+CA,Canadá,2008,01,510.0
+BM,Bermudas,2008,01,1.0
+DO,República Dominicana,2008,01,371.0
+IT,Italia,2008,01,14.0
+CR,Costa Rica,2008,01,253.0
+JP,Japón,2008,01,3.0
+SV,El Salvador,2008,01,59.0
+JM,Jamaica,2008,01,15.0
+GB,Reino Unido,2008,01,261.0
+HN,Honduras,2008,01,101.0
+HT,Haití,2008,01,4.0
+BS,Bahamas,2008,01,7.0
+NI,Nicaragua,2008,01,10.0
+CU,Cuba,2008,01,132.0
+DE,Alemania,2008,01,28.0
+AR,Argentina,2008,01,453.0
+PA,Panamá,2008,01,7002.0
+MX,México,2008,01,676.0
+TT,Trinidad y Tobago,2008,01,7.0
+VE,Venezuela,2008,01,2310.0
+PE,Perú,2008,01,795.0
+BR,Brasil,2007,01,379.0
+GB,Reino Unido,2007,01,122.0
+MX,México,2007,01,775.0
+GT,Guatemala,2007,01,136.0
+PA,Panamá,2007,01,4828.0
+HN,Honduras,2007,01,47.0
+SV,El Salvador,2007,01,53.0
+DE,Alemania,2007,01,3.0
+VE,Venezuela,2007,01,4215.0
+US,Estados Unidos,2007,01,16643.0
+AR,Argentina,2007,01,532.0
+BO,Bolivia,2007,01,75.0
+CR,Costa Rica,2007,01,399.0
+CA,Canadá,2007,01,149.0
+DO,República Dominicana,2007,01,755.0
+UY,Uruguay,2007,01,14.0
+PE,Perú,2007,01,559.0
+BS,Bahamas,2007,01,12.0
+CU,Cuba,2007,01,192.0
+CO,Colombia,2007,01,235.0
+ES,España,2007,01,1080.0
+HT,Haití,2007,01,2.0
+FR,Francia,2007,01,67.0
+AN,Antillas Neerlandesas,2007,01,906.0
+EC,Ecuador,2007,01,1752.0
+NI,Nicaragua,2007,01,15.0
+TT,Trinidad y Tobago,2007,01,36.0
